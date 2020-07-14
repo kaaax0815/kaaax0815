@@ -1,7 +1,7 @@
 ### Hi there, I'm [Bernd!](https://kaaaxcreators.de) 👋.  <img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/pronouns/hehim.svg" >
 
 
-<br/>
+<br />
 <a href="https://twitter.com/kaaax0815">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,7 +22,7 @@
 ### I'm 15 years old Self-taught Full-Stack developer from Germany.
 
 
-<!-- #### - 🥀 Learning Kotlin  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>,C# <code> <img height="20" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> </code>
+#### - 🥀 Learning Kotlin  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>,C# <code><img height="20" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 
 
