@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://www.mantralabsglobal.com/wp-content/uploads/2020/01/kotlin-vs-Java-meme.gif" />
 <br />
 
 ### I'm 15 years old Self-taught Full-Stack developer from Germany.
