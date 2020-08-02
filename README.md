@@ -1,4 +1,4 @@
-### Hi there, I'm [Bernd!](https://pastebin.com/raw/2a5ybwM8) 👋.  <img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Bernd!](https://pastebin.com/raw/2a5ybwM8) 👋.
 
 
 <br />
