@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#108](https://github.com/Lachee/discord-rpc-csharp/issues/108) in [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)
-2. ❗️ Closed issue [#1](https://github.com/kaaaxcreators/omegleip/issues/1) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-3. 🗣 Commented on [#1](https://github.com/kaaaxcreators/omegleip/issues/1) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. 🎉 Merged PR [#1](https://github.com/kaaax0815/Minecraft-AFK-Bot/pull/1) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
-5. 💪 Opened PR [#1](https://github.com/kaaax0815/Minecraft-AFK-Bot/pull/1) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
+1. ❗️ Opened issue [#668](https://github.com/anuraghazra/github-readme-stats/issues/668) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#108](https://github.com/Lachee/discord-rpc-csharp/issues/108) in [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)
+3. ❗️ Closed issue [#1](https://github.com/kaaaxcreators/omegleip/issues/1) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+4. 🗣 Commented on [#1](https://github.com/kaaaxcreators/omegleip/issues/1) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+5. 🎉 Merged PR [#1](https://github.com/kaaax0815/Minecraft-AFK-Bot/pull/1) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
 <!--END_SECTION:activity-->
 
 </details>
