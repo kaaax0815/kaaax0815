@@ -43,7 +43,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="kaaaxcreators GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaaax0815&show_icons=true&hide_border=true" />
-<img align="left" alt="kaaaxcreators Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaax0815&show_icons=true&hide_border=true&layout=compact" />
+<img align="left" alt="kaaaxcreators Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaaxcreators&show_icons=true&hide_border=true&layout=compact" />
 
 </details>
 
