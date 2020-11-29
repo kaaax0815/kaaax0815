@@ -1,53 +1,56 @@
-### Hi there, I'm [Bernd!](https://pastebin.com/raw/2a5ybwM8) 👋.
-<a href="https://www.buymeacoffee.com/kaaaxcreators" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+### Hi there, I'm Bernd - aka [kaaaxcreators][website] 👋
 
-<br />
-<a href="https://twitter.com/kaaax0815">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/kaaaxcreators/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/u/berndinatorenlp">
-  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+[![Website](https://img.shields.io/website?label=kaaaxcreators.de&style=for-the-badge&url=https%3A%2F%2Fkaaaxcreators.de)](https://kaaaxcreators.de)
 
-![](https://visitor-badge.glitch.me/badge?page_id=kaaax0815.kaaax0815)
+## I'm a 15 years old!!
 
-<br />
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I don't have hobbys
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://www.mantralabsglobal.com/wp-content/uploads/2020/01/kotlin-vs-Java-meme.gif" />
-<br />
+### Connect with me:
 
-### I'm 15 years old Self-taught Full-Stack developer from Germany.
-
-
-#### - 🥀 Learning Kotlin  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>,C# <code><img height="20" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> and Python <code><img height="20" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
+[<img align="left" alt="kaaaxcreators.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kaaaxcreators" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="true.bernd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
+### Languages and Tools:
 
-**What I am doing**
+[<img align="left" alt="Visual Studio 2019" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] 
 
-**Web Development, SEO, Android Development😼**
+<br />
 <br />
 
-*************
+---
 
-<br />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
-### - Languages and Tools...
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/languages/csharp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/kaaax0815/kaaax0815/master/svg/dev/frameworks/xamarin_android.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- 
+</details>
 
-</p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="kaaaxcreators GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaaax0815&show_icons=true&hide_border=true" />
 
+</details>
 
-***********************************
-
-#### Thank You-🙏🏼
+[website]: https://kaaaxcreators.de
+[youtube]: https://link.kaaaxcreators.de/youtube
+[instagram]: https://link.kaaaxcreators.de/instagram
