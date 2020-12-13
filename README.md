@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
-2. 💪 Opened PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
-3. ❗️ Opened issue [#668](https://github.com/anuraghazra/github-readme-stats/issues/668) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ❗️ Opened issue [#108](https://github.com/Lachee/discord-rpc-csharp/issues/108) in [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)
-5. ❗️ Closed issue [#1](https://github.com/kaaaxcreators/omegleip/issues/1) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. 💪 Opened PR [#197](https://github.com/xMistt/fortnitepy-bot/pull/197) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
+2. 🎉 Merged PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
+3. 💪 Opened PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
+4. ❗️ Opened issue [#668](https://github.com/anuraghazra/github-readme-stats/issues/668) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. ❗️ Opened issue [#108](https://github.com/Lachee/discord-rpc-csharp/issues/108) in [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)
 <!--END_SECTION:activity-->
 
 </details>
