@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/xMistt/fortnitepy-bot/issues/179) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
-2. 🗣 Commented on [#186](https://github.com/xMistt/fortnitepy-bot/issues/186) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
-3. 💪 Opened PR [#197](https://github.com/xMistt/fortnitepy-bot/pull/197) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
-4. 🎉 Merged PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
-5. 💪 Opened PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
+1. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+2. 🗣 Commented on [#179](https://github.com/xMistt/fortnitepy-bot/issues/179) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
+3. 🗣 Commented on [#186](https://github.com/xMistt/fortnitepy-bot/issues/186) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
+4. 💪 Opened PR [#197](https://github.com/xMistt/fortnitepy-bot/pull/197) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
+5. 🎉 Merged PR [#1](https://github.com/kaaax0815/weather/pull/1) in [kaaax0815/weather](https://github.com/kaaax0815/weather)
 <!--END_SECTION:activity-->
 
 </details>
