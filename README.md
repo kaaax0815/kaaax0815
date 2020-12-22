@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. ❗️ Opened issue [#73](https://github.com/SudhanPlayz/Discord-MusicBot/issues/73) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❗️ Closed issue [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-5. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❗️ Opened issue [#383](https://github.com/galnir/Master-Bot/issues/383) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
+3. ❗️ Opened issue [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❗️ Opened issue [#73](https://github.com/SudhanPlayz/Discord-MusicBot/issues/73) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 <!--END_SECTION:activity-->
 
 </details>
