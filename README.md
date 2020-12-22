@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-2. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. ❗️ Opened issue [#73](https://github.com/SudhanPlayz/Discord-MusicBot/issues/73) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❗️ Closed issue [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 3. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. 🗣 Commented on [#179](https://github.com/xMistt/fortnitepy-bot/issues/179) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
-5. 🗣 Commented on [#186](https://github.com/xMistt/fortnitepy-bot/issues/186) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
+4. 🗣 Commented on [#2](https://github.com/kaaaxcreators/omegleip/issues/2) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+5. 🗣 Commented on [#179](https://github.com/xMistt/fortnitepy-bot/issues/179) in [xMistt/fortnitepy-bot](https://github.com/xMistt/fortnitepy-bot)
 <!--END_SECTION:activity-->
 
 </details>
