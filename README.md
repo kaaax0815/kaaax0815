@@ -31,10 +31,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
-2. ❗️ Opened issue [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
-3. ❗️ Opened issue [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 💪 Opened PR [#76](https://github.com/SudhanPlayz/Discord-MusicBot/pull/76) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. ❗️ Opened issue [#75](https://github.com/SudhanPlayz/Discord-MusicBot/issues/75) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
+3. ❗️ Opened issue [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
+4. ❗️ Opened issue [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 💪 Opened PR [#76](https://github.com/SudhanPlayz/Discord-MusicBot/pull/76) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
