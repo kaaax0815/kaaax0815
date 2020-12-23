@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/SudhanPlayz/Discord-MusicBot/issues/75) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. ❗️ Opened issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-3. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Opened issue [#383](https://github.com/galnir/Master-Bot/issues/383) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-5. ❗️ Opened issue [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❗️ Opened issue [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#76](https://github.com/SudhanPlayz/Discord-MusicBot/pull/76) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. ❗️ Opened issue [#75](https://github.com/SudhanPlayz/Discord-MusicBot/issues/75) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❗️ Opened issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
+5. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
