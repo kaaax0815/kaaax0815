@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
+1. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
-5. ❗️ Opened issue [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
+5. 🗣 Commented on [#171](https://github.com/derrod/legendary/issues/171) in [derrod/legendary](https://github.com/derrod/legendary)
 <!--END_SECTION:activity-->
 
 </details>
