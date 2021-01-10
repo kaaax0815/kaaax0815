@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-2. 🗣 Commented on [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-3. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❗️ Opened issue [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
+2. ❗️ Closed issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
+3. 🗣 Commented on [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
+4. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#74](https://github.com/SudhanPlayz/Discord-MusicBot/issues/74) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
