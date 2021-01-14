@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kaaax0815/Minecraft-AFK-Bot/issues/2) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
-2. ❗️ Opened issue [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
-3. ❗️ Closed issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-4. 🗣 Commented on [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
-5. 🗣 Commented on [#77](https://github.com/SudhanPlayz/Discord-MusicBot/issues/77) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❗️ Opened issue [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
+2. 🗣 Commented on [#2](https://github.com/kaaax0815/Minecraft-AFK-Bot/issues/2) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
+3. ❗️ Opened issue [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
+4. ❗️ Closed issue [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
+5. 🗣 Commented on [#387](https://github.com/galnir/Master-Bot/issues/387) in [galnir/Master-Bot](https://github.com/galnir/Master-Bot)
 <!--END_SECTION:activity-->
 
 </details>
