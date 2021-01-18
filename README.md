@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
-3. ❗️ Closed issue [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
-4. 🗣 Commented on [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
-5. ❗️ Opened issue [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🗣 Commented on [#2520](https://github.com/cdr/code-server/issues/2520) in [cdr/code-server](https://github.com/cdr/code-server)
+2. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
+4. ❗️ Closed issue [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
+5. 🗣 Commented on [#1](https://github.com/xchaosmods/Rocket-League-Map-Loader/issues/1) in [xchaosmods/Rocket-League-Map-Loader](https://github.com/xchaosmods/Rocket-League-Map-Loader)
 <!--END_SECTION:activity-->
 
 </details>
