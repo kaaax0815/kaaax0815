@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2594](https://github.com/cdr/code-server/issues/2594) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
-3. ❗️ Opened issue [#2594](https://github.com/cdr/code-server/issues/2594) in [cdr/code-server](https://github.com/cdr/code-server)
-4. 🗣 Commented on [#2520](https://github.com/cdr/code-server/issues/2520) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
+1. ❗️ Closed issue [#2](https://github.com/kaaax0815/Minecraft-AFK-Bot/issues/2) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
+2. 🗣 Commented on [#2](https://github.com/kaaax0815/Minecraft-AFK-Bot/issues/2) in [kaaax0815/Minecraft-AFK-Bot](https://github.com/kaaax0815/Minecraft-AFK-Bot)
+3. 🗣 Commented on [#2594](https://github.com/cdr/code-server/issues/2594) in [cdr/code-server](https://github.com/cdr/code-server)
+4. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#2594](https://github.com/cdr/code-server/issues/2594) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
