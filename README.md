@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🗣 Commented on [#2600](https://github.com/cdr/code-server/issues/2600) in [cdr/code-server](https://github.com/cdr/code-server)
+2. 🗣 Commented on [#2605](https://github.com/cdr/code-server/issues/2605) in [cdr/code-server](https://github.com/cdr/code-server)
 3. 🗣 Commented on [#2594](https://github.com/cdr/code-server/issues/2594) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#2600](https://github.com/cdr/code-server/issues/2600) in [cdr/code-server](https://github.com/cdr/code-server)
-5. ❗️ Opened issue [#2599](https://github.com/cdr/code-server/issues/2599) in [cdr/code-server](https://github.com/cdr/code-server)
+4. ❗️ Closed issue [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
+5. 🗣 Commented on [#2585](https://github.com/cdr/code-server/issues/2585) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
