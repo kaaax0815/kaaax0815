@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/skidlamer/skidlamer.github.io/issues/28) in [skidlamer/skidlamer.github.io](https://github.com/skidlamer/skidlamer.github.io)
-2. 🗣 Commented on [#28](https://github.com/skidlamer/skidlamer.github.io/issues/28) in [skidlamer/skidlamer.github.io](https://github.com/skidlamer/skidlamer.github.io)
-3. 🗣 Commented on [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
-5. ❗️ Opened issue [#28](https://github.com/skidlamer/skidlamer.github.io/issues/28) in [skidlamer/skidlamer.github.io](https://github.com/skidlamer/skidlamer.github.io)
+1. 🗣 Commented on [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
+2. ❗️ Closed issue [#28](https://github.com/skidlamer/skidlamer.github.io/issues/28) in [skidlamer/skidlamer.github.io](https://github.com/skidlamer/skidlamer.github.io)
+3. 🗣 Commented on [#28](https://github.com/skidlamer/skidlamer.github.io/issues/28) in [skidlamer/skidlamer.github.io](https://github.com/skidlamer/skidlamer.github.io)
+4. 🗣 Commented on [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
