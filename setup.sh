@@ -3,7 +3,7 @@ RED='\033[0;31m'
 CYAN='\033[1;36m'
 GREEN='\033[1;32m'
 NC='\033[0m' # No Color
-function pause() {
+pause() {
   # pause shouldn't change the recent return code but it would, hence capture it
   declare r=$?
   # also save the current terminal line settings (we work with tty explicitely
@@ -37,7 +37,7 @@ function pause() {
   return $r
 }
 
-function post-reboot() {
+post-reboot() {
   systemctl is-active --quiet code-server@code-server && echo -e "${GREEN}Code-Server is running${NC}" || echo -e "${RED}WARNING!! Code-Server IS NOT RUNNING${NC}"
   systemctl is-active --quiet caddy && echo -e "${GREEN}Caddy is running${NC}" || echo -e "${RED}WARNING!! Caddy IS NOT RUNNING${NC}"
   systemctl is-active --quiet code-proxy && echo -e "${GREEN}Code Server Proxy is running${NC}" || echo -e "${RED}WARNING!! Code Server Proxy IS NOT RUNNING${NC}"
@@ -52,7 +52,7 @@ function post-reboot() {
   echo "Sessionfiles for Wireguard are located at \"/home/openvpn/configs/<name>.conf\""
 }
 
-function install() {
+install() {
   cd ~
   if ! [[ $EUID -eq 0 ]]; then
     echo -e "${RED}You MUST be root${NC}"
