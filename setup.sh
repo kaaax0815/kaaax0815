@@ -37,7 +37,7 @@ pause() {
   return $r
 }
 
-post-reboot() {
+post_reboot() {
   systemctl is-active --quiet code-server@code-server && echo -e "${GREEN}Code-Server is running${NC}" || echo -e "${RED}WARNING!! Code-Server IS NOT RUNNING${NC}"
   systemctl is-active --quiet caddy && echo -e "${GREEN}Caddy is running${NC}" || echo -e "${RED}WARNING!! Caddy IS NOT RUNNING${NC}"
   systemctl is-active --quiet code-proxy && echo -e "${GREEN}Code Server Proxy is running${NC}" || echo -e "${RED}WARNING!! Code Server Proxy IS NOT RUNNING${NC}"
@@ -264,11 +264,11 @@ if [ "$1" = "install" ] || [ "$1" = "post-reboot" ]; then
     install
   fi
   if [ "$1" = "post-reboot" ]; then
-    post-reboot
+    post_reboot
   fi
   else
-  echo Avaible Parameter
-  echo install: Installs all Programs
-  echo post-reboot: Check if all working
+  echo "Avaible Parameter"
+  echo "install: Installs all Programs"
+  echo "post-reboot: Check if all working"
   exit 1
 fi
