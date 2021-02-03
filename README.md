@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/SudhanPlayz/Discord-MusicBot/issues/99) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#2662](https://github.com/cdr/code-server/issues/2662) in [cdr/code-server](https://github.com/cdr/code-server)
-3. 🗣 Commented on [#2600](https://github.com/cdr/code-server/issues/2600) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#1254](https://github.com/filebrowser/filebrowser/issues/1254) in [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-5. 🗣 Commented on [#2636](https://github.com/cdr/code-server/issues/2636) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🗣 Commented on [#103](https://github.com/SudhanPlayz/Discord-MusicBot/issues/103) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#103](https://github.com/SudhanPlayz/Discord-MusicBot/pull/103) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#99](https://github.com/SudhanPlayz/Discord-MusicBot/issues/99) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#2662](https://github.com/cdr/code-server/issues/2662) in [cdr/code-server](https://github.com/cdr/code-server)
+5. 🗣 Commented on [#2600](https://github.com/cdr/code-server/issues/2600) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
