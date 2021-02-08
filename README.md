@@ -31,10 +31,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
-2. ❗️ Opened issue [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🗣 Commented on [#2686](https://github.com/cdr/code-server/issues/2686) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#2695](https://github.com/cdr/code-server/issues/2695) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🗣 Commented on [#103](https://github.com/SudhanPlayz/Discord-MusicBot/issues/103) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
+3. ❗️ Opened issue [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
+4. 🗣 Commented on [#2686](https://github.com/cdr/code-server/issues/2686) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#2695](https://github.com/cdr/code-server/issues/2695) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
