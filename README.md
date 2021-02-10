@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2686](https://github.com/cdr/code-server/issues/2686) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🗣 Commented on [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🗣 Commented on [#1005](https://github.com/caprover/caprover/issues/1005) in [caprover/caprover](https://github.com/caprover/caprover)
-4. ❗️ Opened issue [#1005](https://github.com/caprover/caprover/issues/1005) in [caprover/caprover](https://github.com/caprover/caprover)
-5. 🗣 Commented on [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 🗣 Commented on [#2697](https://github.com/cdr/code-server/issues/2697) in [cdr/code-server](https://github.com/cdr/code-server)
+2. 🗣 Commented on [#2686](https://github.com/cdr/code-server/issues/2686) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 🗣 Commented on [#1004](https://github.com/caprover/caprover/issues/1004) in [caprover/caprover](https://github.com/caprover/caprover)
+4. 🗣 Commented on [#1005](https://github.com/caprover/caprover/issues/1005) in [caprover/caprover](https://github.com/caprover/caprover)
+5. ❗️ Opened issue [#1005](https://github.com/caprover/caprover/issues/1005) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
