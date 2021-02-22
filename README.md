@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/caprover/netdata-docker/issues/1) in [caprover/netdata-docker](https://github.com/caprover/netdata-docker)
-2. 🗣 Commented on [#319](https://github.com/prasathmani/tinyfilemanager/issues/319) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-3. ❗️ Opened issue [#962](https://github.com/statping/statping/issues/962) in [statping/statping](https://github.com/statping/statping)
-4. 🗣 Commented on [#10070](https://github.com/netdata/netdata/issues/10070) in [netdata/netdata](https://github.com/netdata/netdata)
-5. ❗️ Opened issue [#1020](https://github.com/caprover/caprover/issues/1020) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+2. ❗️ Opened issue [#1](https://github.com/caprover/netdata-docker/issues/1) in [caprover/netdata-docker](https://github.com/caprover/netdata-docker)
+3. 🗣 Commented on [#319](https://github.com/prasathmani/tinyfilemanager/issues/319) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
+4. ❗️ Opened issue [#962](https://github.com/statping/statping/issues/962) in [statping/statping](https://github.com/statping/statping)
+5. 🗣 Commented on [#10070](https://github.com/netdata/netdata/issues/10070) in [netdata/netdata](https://github.com/netdata/netdata)
 <!--END_SECTION:activity-->
 
 </details>
