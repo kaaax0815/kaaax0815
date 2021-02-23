@@ -31,10 +31,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
-2. ❗️ Opened issue [#126](https://github.com/aperezdc/ngx-fancyindex/issues/126) in [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex)
-3. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#1](https://github.com/caprover/netdata-docker/issues/1) in [caprover/netdata-docker](https://github.com/caprover/netdata-docker)
-5. 🗣 Commented on [#319](https://github.com/prasathmani/tinyfilemanager/issues/319) in [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
+2. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+3. ❗️ Opened issue [#126](https://github.com/aperezdc/ngx-fancyindex/issues/126) in [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex)
+4. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#1](https://github.com/caprover/netdata-docker/issues/1) in [caprover/netdata-docker](https://github.com/caprover/netdata-docker)
 <!--END_SECTION:activity-->
 
 </details>
