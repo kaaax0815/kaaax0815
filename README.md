@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/SudhanPlayz/Discord-MusicBot/issues/114) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+1. ❗️ Opened issue [#1034](https://github.com/caprover/caprover/issues/1034) in [caprover/caprover](https://github.com/caprover/caprover)
+2. 🗣 Commented on [#114](https://github.com/SudhanPlayz/Discord-MusicBot/issues/114) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Opened issue [#126](https://github.com/aperezdc/ngx-fancyindex/issues/126) in [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex)
-5. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+4. 🗣 Commented on [#1374](https://github.com/cdr/code-server/issues/1374) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#126](https://github.com/aperezdc/ngx-fancyindex/issues/126) in [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex)
 <!--END_SECTION:activity-->
 
 </details>
