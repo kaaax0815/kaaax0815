@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/BetaHuhn/ackee-report/pull/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-2. 🗣 Commented on [#2520](https://github.com/cdr/code-server/issues/2520) in [cdr/code-server](https://github.com/cdr/code-server)
-3. 🗣 Commented on [#308](https://github.com/caprover/one-click-apps/issues/308) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-4. ❗️ Opened issue [#367](https://github.com/caprover/one-click-apps/issues/367) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-5. 🗣 Commented on [#1034](https://github.com/caprover/caprover/issues/1034) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 💪 Opened PR [#48](https://github.com/BetaHuhn/ackee-report/pull/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+2. ❌ Closed PR [#47](https://github.com/BetaHuhn/ackee-report/pull/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+3. 🗣 Commented on [#47](https://github.com/BetaHuhn/ackee-report/issues/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+4. 💪 Opened PR [#47](https://github.com/BetaHuhn/ackee-report/pull/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+5. 💪 Opened PR [#46](https://github.com/BetaHuhn/ackee-report/pull/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
 <!--END_SECTION:activity-->
 
 </details>
