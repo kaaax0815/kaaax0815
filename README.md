@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/BetaHuhn/ackee-report/pull/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-2. ❌ Closed PR [#47](https://github.com/BetaHuhn/ackee-report/pull/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-3. 🗣 Commented on [#47](https://github.com/BetaHuhn/ackee-report/issues/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-4. 💪 Opened PR [#47](https://github.com/BetaHuhn/ackee-report/pull/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-5. 💪 Opened PR [#46](https://github.com/BetaHuhn/ackee-report/pull/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+1. 🗣 Commented on [#46](https://github.com/BetaHuhn/ackee-report/issues/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+2. 🗣 Commented on [#48](https://github.com/BetaHuhn/ackee-report/issues/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+3. 🗣 Commented on [#46](https://github.com/BetaHuhn/ackee-report/issues/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+4. 💪 Opened PR [#48](https://github.com/BetaHuhn/ackee-report/pull/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+5. ❌ Closed PR [#47](https://github.com/BetaHuhn/ackee-report/pull/47) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
 <!--END_SECTION:activity-->
 
 </details>
