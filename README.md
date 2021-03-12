@@ -1,12 +1,13 @@
 ### Hi there, I'm Bernd - aka [kaaaxcreators][website] 👋
 
 [![Website](https://img.shields.io/website?label=kaaaxcreators.de&style=for-the-badge&url=https%3A%2F%2Fkaaaxcreators.de)](https://kaaaxcreators.de)
+[My Personal Blog][blog]
 
 ## I'm a 15 years old!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I don't have hobbys
 
 ### Connect with me:
@@ -50,4 +51,5 @@
 [website]: https://kaaaxcreators.de
 [youtube]: https://link.kaaaxcreators.de/youtube
 [instagram]: https://link.kaaaxcreators.de/instagram
+[blog]: https://link.kaaaxcreators.de/blog
 ![](https://hit.yhype.me/github/profile?user_id=32197462)
