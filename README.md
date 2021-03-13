@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
-2. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🗣 Commented on [#2520](https://github.com/cdr/code-server/issues/2520) in [cdr/code-server](https://github.com/cdr/code-server)
-4. 🗣 Commented on [#48](https://github.com/BetaHuhn/ackee-report/issues/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
-5. 🗣 Commented on [#46](https://github.com/BetaHuhn/ackee-report/issues/46) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
+1. 🗣 Commented on [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+2. ❗️ Opened issue [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+3. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
+4. 🗣 Commented on [#2520](https://github.com/cdr/code-server/issues/2520) in [cdr/code-server](https://github.com/cdr/code-server)
+5. 🗣 Commented on [#48](https://github.com/BetaHuhn/ackee-report/issues/48) in [BetaHuhn/ackee-report](https://github.com/BetaHuhn/ackee-report)
 <!--END_SECTION:activity-->
 
 </details>
