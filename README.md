@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
-2. ❗️ Opened issue [#1052](https://github.com/caprover/caprover/issues/1052) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🗣 Commented on [#239](https://github.com/electerious/Ackee/issues/239) in [electerious/Ackee](https://github.com/electerious/Ackee)
-4. ❗️ Opened issue [#239](https://github.com/electerious/Ackee/issues/239) in [electerious/Ackee](https://github.com/electerious/Ackee)
-5. 🗣 Commented on [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+1. ❌ Closed PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+2. 💪 Opened PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. ❌ Closed PR [#2](https://github.com/kaaax0815/nodejsanalytics/pull/2) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. ❗️ Opened issue [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
+5. ❗️ Opened issue [#1052](https://github.com/caprover/caprover/issues/1052) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
