@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-2. 💪 Opened PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. ❌ Closed PR [#2](https://github.com/kaaax0815/nodejsanalytics/pull/2) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. ❗️ Opened issue [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
-5. ❗️ Opened issue [#1052](https://github.com/caprover/caprover/issues/1052) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 🎉 Merged PR [#5](https://github.com/kaaax0815/nodejsanalytics/pull/5) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+2. 🎉 Merged PR [#6](https://github.com/kaaax0815/nodejsanalytics/pull/6) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#4](https://github.com/kaaax0815/nodejsanalytics/pull/4) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 💪 Opened PR [#4](https://github.com/kaaax0815/nodejsanalytics/pull/4) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. ❌ Closed PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
 <!--END_SECTION:activity-->
 
 </details>
