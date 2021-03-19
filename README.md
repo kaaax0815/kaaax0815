@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kaaax0815/nodejsanalytics/pull/5) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-2. 🎉 Merged PR [#6](https://github.com/kaaax0815/nodejsanalytics/pull/6) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. 🎉 Merged PR [#4](https://github.com/kaaax0815/nodejsanalytics/pull/4) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 💪 Opened PR [#4](https://github.com/kaaax0815/nodejsanalytics/pull/4) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. ❌ Closed PR [#3](https://github.com/kaaax0815/nodejsanalytics/pull/3) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. 🗣 Commented on [#645](https://github.com/apidoc/apidoc/issues/645) in [apidoc/apidoc](https://github.com/apidoc/apidoc)
+2. 🎉 Merged PR [#7](https://github.com/kaaax0815/nodejsanalytics/pull/7) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 💪 Opened PR [#7](https://github.com/kaaax0815/nodejsanalytics/pull/7) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#5](https://github.com/kaaax0815/nodejsanalytics/pull/5) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🎉 Merged PR [#6](https://github.com/kaaax0815/nodejsanalytics/pull/6) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
 <!--END_SECTION:activity-->
 
 </details>
