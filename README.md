@@ -35,8 +35,8 @@
 1. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 2. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 3. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
-5. ❌ Reopened PR [#8](https://github.com/kaaax0815/nodejsanalytics/pull/8) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+5. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
