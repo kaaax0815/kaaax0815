@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
-2. 🗣 Commented on [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
-3. 🗣 Commented on [#1052](https://github.com/caprover/caprover/issues/1052) in [caprover/caprover](https://github.com/caprover/caprover)
-4. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-5. 🗣 Commented on [#4](https://github.com/kaaaxcreators/omegleip/issues/4) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. ❗️ Closed issue [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+2. 🗣 Commented on [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+3. ❗️ Closed issue [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
+4. 🗣 Commented on [#22](https://github.com/momocow/semantic-release-gitmoji/issues/22) in [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji)
+5. 🗣 Commented on [#1052](https://github.com/caprover/caprover/issues/1052) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
