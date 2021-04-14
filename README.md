@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/hanford/next-offline/issues/262) in [hanford/next-offline](https://github.com/hanford/next-offline)
-2. ❗️ Opened issue [#279](https://github.com/hanford/next-offline/issues/279) in [hanford/next-offline](https://github.com/hanford/next-offline)
-3. ❗️ Opened issue [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
-4. 🗣 Commented on [#190](https://github.com/hanford/next-offline/issues/190) in [hanford/next-offline](https://github.com/hanford/next-offline)
-5. ❗️ Closed issue [#1847](https://github.com/docker-mailserver/docker-mailserver/issues/1847) in [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+1. ❗️ Opened issue [#23](https://github.com/azirbel/npoint/issues/23) in [azirbel/npoint](https://github.com/azirbel/npoint)
+2. 🗣 Commented on [#190](https://github.com/hanford/next-offline/issues/190) in [hanford/next-offline](https://github.com/hanford/next-offline)
+3. 🗣 Commented on [#190](https://github.com/hanford/next-offline/issues/190) in [hanford/next-offline](https://github.com/hanford/next-offline)
+4. 🗣 Commented on [#262](https://github.com/hanford/next-offline/issues/262) in [hanford/next-offline](https://github.com/hanford/next-offline)
+5. ❗️ Opened issue [#279](https://github.com/hanford/next-offline/issues/279) in [hanford/next-offline](https://github.com/hanford/next-offline)
 <!--END_SECTION:activity-->
 
 </details>
