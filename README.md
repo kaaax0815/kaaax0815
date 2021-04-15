@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/1) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
-2. 🎉 Merged PR [#3](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/3) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
-3. 🎉 Merged PR [#4](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/4) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
-4. 🎉 Merged PR [#2](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/2) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
-5. ❌ Closed PR [#6](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/6) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
+1. ❗️ Closed issue [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
+2. 🗣 Commented on [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
+3. 🎉 Merged PR [#1](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/1) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
+4. 🎉 Merged PR [#3](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/3) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
+5. 🎉 Merged PR [#4](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/4) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
 <!--END_SECTION:activity-->
 
 </details>
