@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kaaaxcreators/omegleip/pull/5) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-2. ❗️ Closed issue [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
-3. 🗣 Commented on [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
-4. 🎉 Merged PR [#1](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/1) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
-5. 🎉 Merged PR [#3](https://github.com/kaaax0815/nextjs-netlify-blog-template/pull/3) in [kaaax0815/nextjs-netlify-blog-template](https://github.com/kaaax0815/nextjs-netlify-blog-template)
+1. 🎉 Merged PR [#12](https://github.com/kaaax0815/nodejsanalytics/pull/12) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+2. 🎉 Merged PR [#13](https://github.com/kaaax0815/nodejsanalytics/pull/13) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#11](https://github.com/kaaax0815/nodejsanalytics/pull/11) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#5](https://github.com/kaaaxcreators/omegleip/pull/5) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+5. ❗️ Closed issue [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
 <!--END_SECTION:activity-->
 
 </details>
