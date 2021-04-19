@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/kaaax0815/nodejsanalytics/pull/12) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-2. 🎉 Merged PR [#13](https://github.com/kaaax0815/nodejsanalytics/pull/13) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. 🎉 Merged PR [#11](https://github.com/kaaax0815/nodejsanalytics/pull/11) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🎉 Merged PR [#5](https://github.com/kaaaxcreators/omegleip/pull/5) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-5. ❗️ Closed issue [#278](https://github.com/hanford/next-offline/issues/278) in [hanford/next-offline](https://github.com/hanford/next-offline)
+1. 🎉 Merged PR [#4](https://github.com/kaaax0815/geis-bus-schedule/pull/4) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🎉 Merged PR [#12](https://github.com/kaaax0815/nodejsanalytics/pull/12) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#13](https://github.com/kaaax0815/nodejsanalytics/pull/13) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#11](https://github.com/kaaax0815/nodejsanalytics/pull/11) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🎉 Merged PR [#5](https://github.com/kaaaxcreators/omegleip/pull/5) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 <!--END_SECTION:activity-->
 
 </details>
