@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kaaax0815/geis-bus-schedule/pull/7) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-2. 💪 Opened PR [#7](https://github.com/kaaax0815/geis-bus-schedule/pull/7) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🎉 Merged PR [#5](https://github.com/kaaax0815/geis-bus-schedule/pull/5) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#6](https://github.com/kaaax0815/geis-bus-schedule/pull/6) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🎉 Merged PR [#15](https://github.com/kaaax0815/nodejsanalytics/pull/15) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. 🎉 Merged PR [#8](https://github.com/kaaax0815/geis-bus-schedule/pull/8) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 💪 Opened PR [#8](https://github.com/kaaax0815/geis-bus-schedule/pull/8) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🎉 Merged PR [#7](https://github.com/kaaax0815/geis-bus-schedule/pull/7) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+4. 💪 Opened PR [#7](https://github.com/kaaax0815/geis-bus-schedule/pull/7) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🎉 Merged PR [#5](https://github.com/kaaax0815/geis-bus-schedule/pull/5) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
