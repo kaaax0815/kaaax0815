@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kaaax0815/geis-bus-schedule/pull/10) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-2. 🎉 Merged PR [#9](https://github.com/kaaax0815/geis-bus-schedule/pull/9) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🎉 Merged PR [#12](https://github.com/kaaax0815/geis-bus-schedule/pull/12) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. ❗️ Opened issue [#65](https://github.com/koj-co/dependabot-pr-action/issues/65) in [koj-co/dependabot-pr-action](https://github.com/koj-co/dependabot-pr-action)
-5. 🎉 Merged PR [#11](https://github.com/kaaax0815/geis-bus-schedule/pull/11) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🎉 Merged PR [#14](https://github.com/kaaax0815/geis-bus-schedule/pull/14) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🗣 Commented on [#14](https://github.com/kaaax0815/geis-bus-schedule/issues/14) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🎉 Merged PR [#13](https://github.com/kaaax0815/geis-bus-schedule/pull/13) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+4. 🎉 Merged PR [#10](https://github.com/kaaax0815/geis-bus-schedule/pull/10) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🎉 Merged PR [#9](https://github.com/kaaax0815/geis-bus-schedule/pull/9) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
