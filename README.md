@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28911](https://github.com/ytdl-org/youtube-dl/issues/28911) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-2. 🗣 Commented on [#28911](https://github.com/ytdl-org/youtube-dl/issues/28911) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-3. 🗣 Commented on [#620](https://github.com/microsoft/terminal/issues/620) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. 🗣 Commented on [#620](https://github.com/microsoft/terminal/issues/620) in [microsoft/terminal](https://github.com/microsoft/terminal)
+2. 🗣 Commented on [#620](https://github.com/microsoft/terminal/issues/620) in [microsoft/terminal](https://github.com/microsoft/terminal)
+3. ❗️ Closed issue [#28911](https://github.com/ytdl-org/youtube-dl/issues/28911) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
 4. 🗣 Commented on [#28911](https://github.com/ytdl-org/youtube-dl/issues/28911) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-5. ❗️ Opened issue [#28911](https://github.com/ytdl-org/youtube-dl/issues/28911) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+5. 🗣 Commented on [#620](https://github.com/microsoft/terminal/issues/620) in [microsoft/terminal](https://github.com/microsoft/terminal)
 <!--END_SECTION:activity-->
 
 </details>
