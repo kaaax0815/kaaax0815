@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kaaax0815/schedule-typer/issues/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-2. 🎉 Merged PR [#1](https://github.com/kaaax0815/schedule-typer/pull/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-3. 🎉 Merged PR [#19](https://github.com/kaaax0815/nodejsanalytics/pull/19) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🎉 Merged PR [#16](https://github.com/kaaax0815/geis-bus-schedule/pull/16) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🎉 Merged PR [#15](https://github.com/kaaax0815/geis-bus-schedule/pull/15) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🎉 Merged PR [#17](https://github.com/kaaax0815/geis-bus-schedule/pull/17) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🗣 Commented on [#1](https://github.com/kaaax0815/schedule-typer/issues/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+3. 🎉 Merged PR [#1](https://github.com/kaaax0815/schedule-typer/pull/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+4. 🎉 Merged PR [#19](https://github.com/kaaax0815/nodejsanalytics/pull/19) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🎉 Merged PR [#16](https://github.com/kaaax0815/geis-bus-schedule/pull/16) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
