@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/joelshepherd/tabliss/issues/296) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
-2. 🎉 Merged PR [#2](https://github.com/kaaax0815/schedule-typer/pull/2) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-3. 🎉 Merged PR [#17](https://github.com/kaaax0815/geis-bus-schedule/pull/17) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🗣 Commented on [#1](https://github.com/kaaax0815/schedule-typer/issues/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-5. 🎉 Merged PR [#1](https://github.com/kaaax0815/schedule-typer/pull/1) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+1. 🎉 Merged PR [#18](https://github.com/kaaax0815/geis-bus-schedule/pull/18) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🎉 Merged PR [#20](https://github.com/kaaax0815/geis-bus-schedule/pull/20) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🗣 Commented on [#296](https://github.com/joelshepherd/tabliss/issues/296) in [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss)
+4. 🎉 Merged PR [#2](https://github.com/kaaax0815/schedule-typer/pull/2) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+5. 🎉 Merged PR [#17](https://github.com/kaaax0815/geis-bus-schedule/pull/17) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
