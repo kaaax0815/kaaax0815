@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/kaaax0815/geis-bus-schedule/pull/21) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-2. 🗣 Commented on [#310](https://github.com/depcheck/depcheck/issues/310) in [depcheck/depcheck](https://github.com/depcheck/depcheck)
-3. 🎉 Merged PR [#19](https://github.com/kaaax0815/geis-bus-schedule/pull/19) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#18](https://github.com/kaaax0815/geis-bus-schedule/pull/18) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🎉 Merged PR [#20](https://github.com/kaaax0815/geis-bus-schedule/pull/20) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🗣 Commented on [#190](https://github.com/SudhanPlayz/Discord-MusicBot/issues/190) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#191](https://github.com/SudhanPlayz/Discord-MusicBot/issues/191) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. ❗️ Opened issue [#191](https://github.com/SudhanPlayz/Discord-MusicBot/issues/191) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🎉 Merged PR [#21](https://github.com/kaaax0815/geis-bus-schedule/pull/21) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🗣 Commented on [#310](https://github.com/depcheck/depcheck/issues/310) in [depcheck/depcheck](https://github.com/depcheck/depcheck)
 <!--END_SECTION:activity-->
 
 </details>
