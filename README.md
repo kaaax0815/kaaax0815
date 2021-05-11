@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/kaaax0815/geis-bus-schedule/pull/27) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-2. 🎉 Merged PR [#28](https://github.com/kaaax0815/geis-bus-schedule/pull/28) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🎉 Merged PR [#24](https://github.com/kaaax0815/geis-bus-schedule/pull/24) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#26](https://github.com/kaaax0815/geis-bus-schedule/pull/26) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🎉 Merged PR [#25](https://github.com/kaaax0815/geis-bus-schedule/pull/25) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. ❗️ Opened issue [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+2. 🎉 Merged PR [#27](https://github.com/kaaax0815/geis-bus-schedule/pull/27) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🎉 Merged PR [#28](https://github.com/kaaax0815/geis-bus-schedule/pull/28) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+4. 🎉 Merged PR [#24](https://github.com/kaaax0815/geis-bus-schedule/pull/24) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🎉 Merged PR [#26](https://github.com/kaaax0815/geis-bus-schedule/pull/26) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
