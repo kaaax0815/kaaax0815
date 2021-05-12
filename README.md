@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/kaaax0815/geis-bus-schedule/pull/30) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-2. 🎉 Merged PR [#29](https://github.com/kaaax0815/geis-bus-schedule/pull/29) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-4. 🗣 Commented on [#3](https://github.com/kaaaxcreators/Discord-MusicBot/issues/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 💪 Opened PR [#3](https://github.com/kaaaxcreators/Discord-MusicBot/pull/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🎉 Merged PR [#23](https://github.com/kaaax0815/nodejsanalytics/pull/23) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+2. 🎉 Merged PR [#24](https://github.com/kaaax0815/nodejsanalytics/pull/24) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#25](https://github.com/kaaax0815/nodejsanalytics/pull/25) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#10](https://github.com/kaaax0815/schedule-typer/pull/10) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+5. 🎉 Merged PR [#7](https://github.com/kaaax0815/github-insights/pull/7) in [kaaax0815/github-insights](https://github.com/kaaax0815/github-insights)
 <!--END_SECTION:activity-->
 
 </details>
