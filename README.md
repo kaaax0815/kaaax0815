@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-2. 🗣 Commented on [#3](https://github.com/kaaaxcreators/Discord-MusicBot/issues/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 💪 Opened PR [#3](https://github.com/kaaaxcreators/Discord-MusicBot/pull/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. ❗️ Opened issue [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-5. 🎉 Merged PR [#27](https://github.com/kaaax0815/geis-bus-schedule/pull/27) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🎉 Merged PR [#30](https://github.com/kaaax0815/geis-bus-schedule/pull/30) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🎉 Merged PR [#29](https://github.com/kaaax0815/geis-bus-schedule/pull/29) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+4. 🗣 Commented on [#3](https://github.com/kaaaxcreators/Discord-MusicBot/issues/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 💪 Opened PR [#3](https://github.com/kaaaxcreators/Discord-MusicBot/pull/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
