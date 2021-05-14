@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-2. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-4. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-5. 🎉 Merged PR [#26](https://github.com/kaaax0815/nodejsanalytics/pull/26) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+2. ❗️ Closed issue [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+3. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+4. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+5. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 <!--END_SECTION:activity-->
 
 </details>
