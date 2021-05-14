@@ -33,9 +33,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-2. ❗️ Closed issue [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-3. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+2. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+4. ❗️ Closed issue [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 5. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 <!--END_SECTION:activity-->
 
