@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/kaaax0815/github-insights-cli/pull/6) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
-2. 🎉 Merged PR [#12](https://github.com/kaaax0815/schedule-typer/pull/12) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-3. 💪 Opened PR [#9](https://github.com/kaaaxcreators/Discord-MusicBot/pull/9) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#27](https://github.com/kaaax0815/nodejsanalytics/pull/27) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. 🎉 Merged PR [#8](https://github.com/kaaaxcreators/Discord-MusicBot/pull/8) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. ❗️ Opened issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+2. 🎉 Merged PR [#9](https://github.com/kaaaxcreators/Discord-MusicBot/pull/9) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#6](https://github.com/kaaax0815/github-insights-cli/pull/6) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
+4. 🎉 Merged PR [#12](https://github.com/kaaax0815/schedule-typer/pull/12) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+5. 💪 Opened PR [#9](https://github.com/kaaaxcreators/Discord-MusicBot/pull/9) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
