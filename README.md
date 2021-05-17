@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/microlinkhq/spotify-url-info/pull/72) in [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info)
-2. 🎉 Merged PR [#3](https://github.com/kaaaxcreators/Discord-MusicBot/pull/3) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-4. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-5. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+1. 🎉 Merged PR [#6](https://github.com/kaaax0815/github-insights-cli/pull/6) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
+2. 🎉 Merged PR [#12](https://github.com/kaaax0815/schedule-typer/pull/12) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+3. 💪 Opened PR [#9](https://github.com/kaaaxcreators/Discord-MusicBot/pull/9) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#27](https://github.com/kaaax0815/nodejsanalytics/pull/27) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🎉 Merged PR [#8](https://github.com/kaaaxcreators/Discord-MusicBot/pull/8) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
