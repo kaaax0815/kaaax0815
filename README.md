@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-3. 🎉 Merged PR [#9](https://github.com/kaaaxcreators/Discord-MusicBot/pull/9) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#6](https://github.com/kaaax0815/github-insights-cli/pull/6) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
-5. 🎉 Merged PR [#12](https://github.com/kaaax0815/schedule-typer/pull/12) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+1. 🎉 Merged PR [#14](https://github.com/kaaax0815/schedule-typer/pull/14) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+2. 🎉 Merged PR [#13](https://github.com/kaaax0815/schedule-typer/pull/13) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+3. 🎉 Merged PR [#28](https://github.com/kaaax0815/nodejsanalytics/pull/28) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#31](https://github.com/kaaax0815/geis-bus-schedule/pull/31) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🎉 Merged PR [#33](https://github.com/kaaax0815/geis-bus-schedule/pull/33) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
