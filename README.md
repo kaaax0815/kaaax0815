@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/SkyDonald/spdl-core/issues/1) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-2. 🎉 Merged PR [#13](https://github.com/kaaaxcreators/Discord-MusicBot/pull/13) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-4. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-5. 🎉 Merged PR [#35](https://github.com/kaaax0815/geis-bus-schedule/pull/35) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🗣 Commented on [#72](https://github.com/microlinkhq/spotify-url-info/issues/72) in [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info)
+2. ❗️ Opened issue [#1](https://github.com/SkyDonald/spdl-core/issues/1) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+3. 🎉 Merged PR [#13](https://github.com/kaaaxcreators/Discord-MusicBot/pull/13) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+5. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
 <!--END_SECTION:activity-->
 
 </details>
