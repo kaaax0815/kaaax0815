@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
-2. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-3. 🎉 Merged PR [#35](https://github.com/kaaax0815/geis-bus-schedule/pull/35) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#30](https://github.com/kaaax0815/nodejsanalytics/pull/30) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
+1. ❗️ Opened issue [#1](https://github.com/SkyDonald/spdl-core/issues/1) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+2. 🎉 Merged PR [#13](https://github.com/kaaaxcreators/Discord-MusicBot/pull/13) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+4. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+5. 🎉 Merged PR [#35](https://github.com/kaaax0815/geis-bus-schedule/pull/35) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
