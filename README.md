@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-2. 🎉 Merged PR [#35](https://github.com/kaaax0815/geis-bus-schedule/pull/35) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🎉 Merged PR [#30](https://github.com/kaaax0815/nodejsanalytics/pull/30) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
-5. 🎉 Merged PR [#34](https://github.com/kaaax0815/geis-bus-schedule/pull/34) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🗣 Commented on [#76](https://github.com/zackradisic/node-soundcloud-downloader/issues/76) in [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader)
+2. 🎉 Merged PR [#2](https://github.com/kaaax0815/discord-token-abuser/pull/2) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+3. 🎉 Merged PR [#35](https://github.com/kaaax0815/geis-bus-schedule/pull/35) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+4. 🎉 Merged PR [#30](https://github.com/kaaax0815/nodejsanalytics/pull/30) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🗣 Commented on [#977](https://github.com/caprover/caprover/issues/977) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
