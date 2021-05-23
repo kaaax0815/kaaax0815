@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
+1. ❗️ Closed issue [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
 2. 🗣 Commented on [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
-3. ❗️ Opened issue [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
-4. 🗣 Commented on [#1](https://github.com/SkyDonald/spdl-core/issues/1) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-5. 🗣 Commented on [#1](https://github.com/SkyDonald/spdl-core/issues/1) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+3. 🗣 Commented on [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
+4. 🗣 Commented on [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
+5. ❗️ Opened issue [#713](https://github.com/cordejs/corde/issues/713) in [cordejs/corde](https://github.com/cordejs/corde)
 <!--END_SECTION:activity-->
 
 </details>
