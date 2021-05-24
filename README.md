@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
-2. ❗️ Opened issue [#3455](https://github.com/cdr/code-server/issues/3455) in [cdr/code-server](https://github.com/cdr/code-server)
-3. 🎉 Merged PR [#14](https://github.com/kaaaxcreators/Discord-MusicBot/pull/14) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#36](https://github.com/kaaax0815/geis-bus-schedule/pull/36) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🎉 Merged PR [#31](https://github.com/kaaax0815/nodejsanalytics/pull/31) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. ❗️ Opened issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
+2. ❗️ Opened issue [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+3. ❗️ Opened issue [#3455](https://github.com/cdr/code-server/issues/3455) in [cdr/code-server](https://github.com/cdr/code-server)
+4. 🎉 Merged PR [#14](https://github.com/kaaaxcreators/Discord-MusicBot/pull/14) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#36](https://github.com/kaaax0815/geis-bus-schedule/pull/36) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
