@@ -35,8 +35,8 @@
 1. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
 2. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
 3. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
-4. ❗️ Opened issue [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. ❗️ Opened issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+5. ❗️ Opened issue [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
