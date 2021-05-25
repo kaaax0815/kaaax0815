@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. ❗️ Opened issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. ❗️ Opened issue [#19](https://github.com/kaaaxcreators/Discord-MusicBot/issues/19) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 💪 Opened PR [#18](https://github.com/kaaaxcreators/Discord-MusicBot/pull/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 💪 Opened PR [#17](https://github.com/kaaaxcreators/Discord-MusicBot/pull/17) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+2. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+3. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+4. ❗️ Opened issue [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. ❗️ Opened issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
