@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
-2. ❗️ Opened issue [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
-3. ❗️ Opened issue [#3455](https://github.com/cdr/code-server/issues/3455) in [cdr/code-server](https://github.com/cdr/code-server)
-4. 🎉 Merged PR [#14](https://github.com/kaaaxcreators/Discord-MusicBot/pull/14) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🎉 Merged PR [#36](https://github.com/kaaax0815/geis-bus-schedule/pull/36) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🎉 Merged PR [#39](https://github.com/kaaax0815/geis-bus-schedule/pull/39) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🎉 Merged PR [#40](https://github.com/kaaax0815/geis-bus-schedule/pull/40) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. ❗️ Opened issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
+4. ❗️ Opened issue [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Opened issue [#3455](https://github.com/cdr/code-server/issues/3455) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
