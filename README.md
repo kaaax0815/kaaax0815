@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
-2. ❗️ Opened issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-3. 🎉 Merged PR [#39](https://github.com/kaaax0815/geis-bus-schedule/pull/39) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#40](https://github.com/kaaax0815/geis-bus-schedule/pull/40) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. ❗️ Opened issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
+1. 💪 Opened PR [#17](https://github.com/kaaaxcreators/Discord-MusicBot/pull/17) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#37](https://github.com/kaaax0815/geis-bus-schedule/pull/37) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+4. ❗️ Opened issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+5. 🎉 Merged PR [#39](https://github.com/kaaax0815/geis-bus-schedule/pull/39) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
