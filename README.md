@@ -32,9 +32,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
-2. 🎉 Merged PR [#17](https://github.com/kaaaxcreators/Discord-MusicBot/pull/17) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
+1. 🗣 Commented on [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
+2. ❗️ Opened issue [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
+3. 🎉 Merged PR [#17](https://github.com/kaaaxcreators/Discord-MusicBot/pull/17) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 4. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
 5. 🗣 Commented on [#80](https://github.com/mashpie/i18n-node/issues/80) in [mashpie/i18n-node](https://github.com/mashpie/i18n-node)
 <!--END_SECTION:activity-->
