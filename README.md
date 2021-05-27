@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. ❗️ Closed issue [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#45](https://github.com/kaaax0815/geis-bus-schedule/pull/45) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#46](https://github.com/kaaax0815/geis-bus-schedule/pull/46) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🗣 Commented on [#22](https://github.com/kaaaxcreators/Discord-MusicBot/issues/22) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. ❗️ Closed issue [#19](https://github.com/kaaaxcreators/Discord-MusicBot/issues/19) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🗣 Commented on [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
+3. 🗣 Commented on [#18](https://github.com/kaaaxcreators/Discord-MusicBot/issues/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🗣 Commented on [#22](https://github.com/kaaaxcreators/Discord-MusicBot/issues/22) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🗣 Commented on [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
