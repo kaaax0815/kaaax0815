@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/kaaaxcreators/Discord-MusicBot/issues/19) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🗣 Commented on [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
-3. 🗣 Commented on [#18](https://github.com/kaaaxcreators/Discord-MusicBot/issues/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🗣 Commented on [#22](https://github.com/kaaaxcreators/Discord-MusicBot/issues/22) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🗣 Commented on [#21](https://github.com/kaaaxcreators/Discord-MusicBot/issues/21) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. ❗️ Opened issue [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
+2. 🗣 Commented on [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 🗣 Commented on [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+4. 🗣 Commented on [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+5. ❗️ Closed issue [#19](https://github.com/kaaaxcreators/Discord-MusicBot/issues/19) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
