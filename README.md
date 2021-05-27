@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/kaaaxcreators/Discord-MusicBot/issues/22) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#23](https://github.com/kaaaxcreators/Discord-MusicBot/pull/23) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#42](https://github.com/kaaax0815/geis-bus-schedule/pull/42) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#44](https://github.com/kaaax0815/geis-bus-schedule/pull/44) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-5. 🗣 Commented on [#729](https://github.com/cordejs/corde/issues/729) in [cordejs/corde](https://github.com/cordejs/corde)
+1. 🎉 Merged PR [#45](https://github.com/kaaax0815/geis-bus-schedule/pull/45) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+2. 🎉 Merged PR [#46](https://github.com/kaaax0815/geis-bus-schedule/pull/46) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+3. 🗣 Commented on [#22](https://github.com/kaaaxcreators/Discord-MusicBot/issues/22) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#23](https://github.com/kaaaxcreators/Discord-MusicBot/pull/23) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#42](https://github.com/kaaax0815/geis-bus-schedule/pull/42) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
 <!--END_SECTION:activity-->
 
 </details>
