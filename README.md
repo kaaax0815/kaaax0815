@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-2. ❗️ Opened issue [#3](https://github.com/SkyDonald/spdl-core/issues/3) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-3. ❗️ Closed issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-4. ❗️ Opened issue [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🗣 Commented on [#3456](https://github.com/cdr/code-server/issues/3456) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🗣 Commented on [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+2. ❗️ Opened issue [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+3. ❗️ Opened issue [#3](https://github.com/SkyDonald/spdl-core/issues/3) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+4. ❗️ Closed issue [#2](https://github.com/SkyDonald/spdl-core/issues/2) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+5. ❗️ Opened issue [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
