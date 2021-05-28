@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🗣 Commented on [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
-3. 🗣 Commented on [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-4. ❗️ Opened issue [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
-5. ❗️ Opened issue [#3](https://github.com/SkyDonald/spdl-core/issues/3) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
+1. ❗️ Closed issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🗣 Commented on [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. ❗️ Closed issue [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
+4. 🗣 Commented on [#3493](https://github.com/cdr/code-server/issues/3493) in [cdr/code-server](https://github.com/cdr/code-server)
+5. 🗣 Commented on [#4](https://github.com/SkyDonald/spdl-core/issues/4) in [SkyDonald/spdl-core](https://github.com/SkyDonald/spdl-core)
 <!--END_SECTION:activity-->
 
 </details>
