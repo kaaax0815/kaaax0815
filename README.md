@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/kaaaxcreators/Discord-MusicBot/pull/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🗣 Commented on [#27](https://github.com/kaaaxcreators/Discord-MusicBot/issues/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 💪 Opened PR [#27](https://github.com/kaaaxcreators/Discord-MusicBot/pull/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. ❗️ Closed issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🗣 Commented on [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 💪 Opened PR [#28](https://github.com/kaaaxcreators/Discord-MusicBot/pull/28) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#27](https://github.com/kaaaxcreators/Discord-MusicBot/pull/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🗣 Commented on [#27](https://github.com/kaaaxcreators/Discord-MusicBot/issues/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 💪 Opened PR [#27](https://github.com/kaaaxcreators/Discord-MusicBot/pull/27) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. ❗️ Closed issue [#20](https://github.com/kaaaxcreators/Discord-MusicBot/issues/20) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
