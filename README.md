@@ -4,7 +4,7 @@
 
 [✍️ My Personal Blog][blog]
 
-## I'm a 15 years old!!
+## I'm a 16 years old!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
