@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/kaaax0815/nodejsanalytics/pull/36) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-2. 🎉 Merged PR [#37](https://github.com/kaaax0815/nodejsanalytics/pull/37) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. ❗️ Closed issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
-4. 🗣 Commented on [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
-5. 🎉 Merged PR [#54](https://github.com/kaaax0815/geis-bus-schedule/pull/54) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+1. 🎉 Merged PR [#29](https://github.com/kaaaxcreators/Discord-MusicBot/pull/29) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#36](https://github.com/kaaax0815/nodejsanalytics/pull/36) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#37](https://github.com/kaaax0815/nodejsanalytics/pull/37) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. ❗️ Closed issue [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
+5. 🗣 Commented on [#722](https://github.com/cordejs/corde/issues/722) in [cordejs/corde](https://github.com/cordejs/corde)
 <!--END_SECTION:activity-->
 
 </details>
