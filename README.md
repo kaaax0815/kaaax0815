@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/kaaax0815/discord-token-abuser/pull/20) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-2. 🎉 Merged PR [#18](https://github.com/kaaax0815/discord-token-abuser/pull/18) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-3. 🎉 Merged PR [#33](https://github.com/kaaax0815/schedule-typer/pull/33) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-4. 🎉 Merged PR [#38](https://github.com/kaaax0815/nodejsanalytics/pull/38) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. 🎉 Merged PR [#29](https://github.com/kaaaxcreators/Discord-MusicBot/pull/29) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🎉 Merged PR [#37](https://github.com/kaaaxcreators/Discord-MusicBot/pull/37) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#36](https://github.com/kaaaxcreators/Discord-MusicBot/pull/36) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#38](https://github.com/kaaaxcreators/Discord-MusicBot/pull/38) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🗣 Commented on [#3564](https://github.com/cdr/code-server/issues/3564) in [cdr/code-server](https://github.com/cdr/code-server)
+5. 🎉 Merged PR [#20](https://github.com/kaaax0815/discord-token-abuser/pull/20) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
 <!--END_SECTION:activity-->
 
 </details>
