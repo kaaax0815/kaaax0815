@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/kaaaxcreators/Discord-MusicBot/pull/39) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 💪 Opened PR [#39](https://github.com/kaaaxcreators/Discord-MusicBot/pull/39) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#37](https://github.com/kaaaxcreators/Discord-MusicBot/pull/37) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#36](https://github.com/kaaaxcreators/Discord-MusicBot/pull/36) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🎉 Merged PR [#38](https://github.com/kaaaxcreators/Discord-MusicBot/pull/38) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🎉 Merged PR [#4](https://github.com/kaaax0815/config/pull/4) in [kaaax0815/config](https://github.com/kaaax0815/config)
+2. 🎉 Merged PR [#1](https://github.com/kaaax0815/config/pull/1) in [kaaax0815/config](https://github.com/kaaax0815/config)
+3. 🎉 Merged PR [#2](https://github.com/kaaax0815/config/pull/2) in [kaaax0815/config](https://github.com/kaaax0815/config)
+4. 🎉 Merged PR [#5](https://github.com/kaaax0815/config/pull/5) in [kaaax0815/config](https://github.com/kaaax0815/config)
+5. 🎉 Merged PR [#3](https://github.com/kaaax0815/config/pull/3) in [kaaax0815/config](https://github.com/kaaax0815/config)
 <!--END_SECTION:activity-->
 
 </details>
