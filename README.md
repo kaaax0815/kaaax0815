@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/kaaaxcreators/Discord-MusicBot/pull/40) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#60](https://github.com/kaaax0815/geis-bus-schedule/pull/60) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-3. 🎉 Merged PR [#59](https://github.com/kaaax0815/geis-bus-schedule/pull/59) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
-4. 🎉 Merged PR [#4](https://github.com/kaaax0815/config/pull/4) in [kaaax0815/config](https://github.com/kaaax0815/config)
-5. 🎉 Merged PR [#1](https://github.com/kaaax0815/config/pull/1) in [kaaax0815/config](https://github.com/kaaax0815/config)
+1. ❗️ Opened issue [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
+2. 🎉 Merged PR [#40](https://github.com/kaaaxcreators/Discord-MusicBot/pull/40) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#60](https://github.com/kaaax0815/geis-bus-schedule/pull/60) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+4. 🎉 Merged PR [#59](https://github.com/kaaax0815/geis-bus-schedule/pull/59) in [kaaax0815/geis-bus-schedule](https://github.com/kaaax0815/geis-bus-schedule)
+5. 🎉 Merged PR [#4](https://github.com/kaaax0815/config/pull/4) in [kaaax0815/config](https://github.com/kaaax0815/config)
 <!--END_SECTION:activity-->
 
 </details>
