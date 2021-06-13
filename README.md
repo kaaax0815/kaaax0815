@@ -34,9 +34,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
 2. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
-3. ❌ Reopened PR [#43](https://github.com/kaaaxcreators/Discord-MusicBot/pull/43) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. ❌ Closed PR [#43](https://github.com/kaaaxcreators/Discord-MusicBot/pull/43) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 💪 Opened PR [#43](https://github.com/kaaaxcreators/Discord-MusicBot/pull/43) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
+4. ❌ Reopened PR [#43](https://github.com/kaaaxcreators/Discord-MusicBot/pull/43) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. ❌ Closed PR [#43](https://github.com/kaaaxcreators/Discord-MusicBot/pull/43) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
