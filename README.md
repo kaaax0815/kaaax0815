@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/kaaax0815/nodejsanalytics/pull/46) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-2. 🎉 Merged PR [#47](https://github.com/kaaax0815/nodejsanalytics/pull/47) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. 🎉 Merged PR [#48](https://github.com/kaaax0815/nodejsanalytics/pull/48) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
-5. 🎉 Merged PR [#2](https://github.com/kaaax0815/example-typescript-cli/pull/2) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
+1. 🗣 Commented on [#6](https://github.com/kaaaxcreators/omegleip/issues/6) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+2. 🎉 Merged PR [#46](https://github.com/kaaax0815/nodejsanalytics/pull/46) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#47](https://github.com/kaaax0815/nodejsanalytics/pull/47) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#48](https://github.com/kaaax0815/nodejsanalytics/pull/48) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
 <!--END_SECTION:activity-->
 
 </details>
