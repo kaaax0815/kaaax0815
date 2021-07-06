@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/kaaax0815/discord-token-abuser/pull/39) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-2. 🎉 Merged PR [#40](https://github.com/kaaax0815/discord-token-abuser/pull/40) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-3. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
-4. 🗣 Commented on [#771](https://github.com/cordejs/corde/issues/771) in [cordejs/corde](https://github.com/cordejs/corde)
-5. 🎉 Merged PR [#49](https://github.com/kaaax0815/nodejsanalytics/pull/49) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. 🎉 Merged PR [#51](https://github.com/kaaax0815/nodejsanalytics/pull/51) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+2. 🎉 Merged PR [#52](https://github.com/kaaax0815/nodejsanalytics/pull/52) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+3. 🎉 Merged PR [#53](https://github.com/kaaax0815/nodejsanalytics/pull/53) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#39](https://github.com/kaaax0815/discord-token-abuser/pull/39) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+5. 🎉 Merged PR [#40](https://github.com/kaaax0815/discord-token-abuser/pull/40) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
 <!--END_SECTION:activity-->
 
 </details>
