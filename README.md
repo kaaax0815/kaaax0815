@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/kaaax0815/schedule-typer/pull/53) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-2. 🎉 Merged PR [#51](https://github.com/kaaax0815/nodejsanalytics/pull/51) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-3. 🎉 Merged PR [#52](https://github.com/kaaax0815/nodejsanalytics/pull/52) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🎉 Merged PR [#53](https://github.com/kaaax0815/nodejsanalytics/pull/53) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. 🎉 Merged PR [#39](https://github.com/kaaax0815/discord-token-abuser/pull/39) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+1. ❗️ Opened issue [#69](https://github.com/Streampunk/naudiodon/issues/69) in [Streampunk/naudiodon](https://github.com/Streampunk/naudiodon)
+2. 🎉 Merged PR [#53](https://github.com/kaaax0815/schedule-typer/pull/53) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
+3. 🎉 Merged PR [#51](https://github.com/kaaax0815/nodejsanalytics/pull/51) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+4. 🎉 Merged PR [#52](https://github.com/kaaax0815/nodejsanalytics/pull/52) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+5. 🎉 Merged PR [#53](https://github.com/kaaax0815/nodejsanalytics/pull/53) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
 <!--END_SECTION:activity-->
 
 </details>
