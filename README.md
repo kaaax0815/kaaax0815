@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/Streampunk/naudiodon/issues/69) in [Streampunk/naudiodon](https://github.com/Streampunk/naudiodon)
-2. 🎉 Merged PR [#53](https://github.com/kaaax0815/schedule-typer/pull/53) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-3. 🎉 Merged PR [#51](https://github.com/kaaax0815/nodejsanalytics/pull/51) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-4. 🎉 Merged PR [#52](https://github.com/kaaax0815/nodejsanalytics/pull/52) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
-5. 🎉 Merged PR [#53](https://github.com/kaaax0815/nodejsanalytics/pull/53) in [kaaax0815/nodejsanalytics](https://github.com/kaaax0815/nodejsanalytics)
+1. 🎉 Merged PR [#4](https://github.com/kaaax0815/example-typescript-cli/pull/4) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
+2. 🎉 Merged PR [#47](https://github.com/kaaax0815/github-insights-cli/pull/47) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
+3. 🎉 Merged PR [#42](https://github.com/kaaax0815/discord-token-abuser/pull/42) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+4. ❗️ Opened issue [#69](https://github.com/Streampunk/naudiodon/issues/69) in [Streampunk/naudiodon](https://github.com/Streampunk/naudiodon)
+5. 🎉 Merged PR [#53](https://github.com/kaaax0815/schedule-typer/pull/53) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
 <!--END_SECTION:activity-->
 
 </details>
