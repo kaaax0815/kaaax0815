@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-2. 🗣 Commented on [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. 💪 Opened PR [#87](https://github.com/kaaaxcreators/Discord-MusicBot/pull/87) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. ❗️ Closed issue [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 3. 🗣 Commented on [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-4. ❗️ Closed issue [#8](https://github.com/kaaaxcreators/omegleip/issues/8) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-5. 🗣 Commented on [#8](https://github.com/kaaaxcreators/omegleip/issues/8) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+4. 🗣 Commented on [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+5. ❗️ Closed issue [#8](https://github.com/kaaaxcreators/omegleip/issues/8) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
 <!--END_SECTION:activity-->
 
 </details>
