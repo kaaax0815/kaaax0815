@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/kaaaxcreators/Discord-MusicBot/pull/88) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 💪 Opened PR [#88](https://github.com/kaaaxcreators/Discord-MusicBot/pull/88) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#87](https://github.com/kaaaxcreators/Discord-MusicBot/pull/87) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 💪 Opened PR [#87](https://github.com/kaaaxcreators/Discord-MusicBot/pull/87) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. ❗️ Closed issue [#7](https://github.com/kaaaxcreators/omegleip/issues/7) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+1. 🎉 Merged PR [#57](https://github.com/kaaax0815/discord-token-abuser/pull/57) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+2. 🎉 Merged PR [#88](https://github.com/kaaaxcreators/Discord-MusicBot/pull/88) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 💪 Opened PR [#88](https://github.com/kaaaxcreators/Discord-MusicBot/pull/88) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#87](https://github.com/kaaaxcreators/Discord-MusicBot/pull/87) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 💪 Opened PR [#87](https://github.com/kaaaxcreators/Discord-MusicBot/pull/87) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
