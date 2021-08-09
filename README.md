@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#70](https://github.com/kaaax0815/discord-token-abuser/pull/70) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-2. 🎉 Merged PR [#4](https://github.com/kaaax0815/dastelefonbuchscraper/pull/4) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. ❌ Closed PR [#102](https://github.com/kaaaxcreators/Discord-MusicBot/pull/102) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#98](https://github.com/kaaaxcreators/Discord-MusicBot/pull/98) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 💪 Opened PR [#98](https://github.com/kaaaxcreators/Discord-MusicBot/pull/98) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🗣 Commented on [#4](https://github.com/kaaax0815/dastelefonbuchscraper/issues/4) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. ❌ Closed PR [#70](https://github.com/kaaax0815/discord-token-abuser/pull/70) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+3. 🎉 Merged PR [#4](https://github.com/kaaax0815/dastelefonbuchscraper/pull/4) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. ❌ Closed PR [#102](https://github.com/kaaaxcreators/Discord-MusicBot/pull/102) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#98](https://github.com/kaaaxcreators/Discord-MusicBot/pull/98) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
