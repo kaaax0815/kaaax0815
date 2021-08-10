@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
-2. 🗣 Commented on [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
-3. ❗️ Opened issue [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
-4. 🗣 Commented on [#4](https://github.com/kaaax0815/dastelefonbuchscraper/issues/4) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. ❌ Closed PR [#70](https://github.com/kaaax0815/discord-token-abuser/pull/70) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+1. 🎉 Merged PR [#5](https://github.com/kaaax0815/dastelefonbuchscraper/pull/5) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#6](https://github.com/kaaax0815/dastelefonbuchscraper/pull/6) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. ❗️ Closed issue [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
+4. 🗣 Commented on [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
+5. ❗️ Opened issue [#365](https://github.com/node-modules/urllib/issues/365) in [node-modules/urllib](https://github.com/node-modules/urllib)
 <!--END_SECTION:activity-->
 
 </details>
