@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#108](https://github.com/kaaaxcreators/Discord-MusicBot/pull/108) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#114](https://github.com/kaaaxcreators/Discord-MusicBot/pull/114) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#115](https://github.com/kaaaxcreators/Discord-MusicBot/pull/115) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 💪 Opened PR [#115](https://github.com/kaaaxcreators/Discord-MusicBot/pull/115) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🎉 Merged PR [#13](https://github.com/kaaax0815/dastelefonbuchscraper/pull/13) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🎉 Merged PR [#8](https://github.com/kaaax0815/fritzboxcalllist/pull/8) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#9](https://github.com/kaaax0815/fritzboxcalllist/pull/9) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. ❗️ Opened issue [#7](https://github.com/nepodev/radio-browser/issues/7) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+4. ❌ Closed PR [#108](https://github.com/kaaaxcreators/Discord-MusicBot/pull/108) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#114](https://github.com/kaaaxcreators/Discord-MusicBot/pull/114) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
