@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/ivandotv/radio-browser-api/issues/47) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-2. 🎉 Merged PR [#10](https://github.com/kaaax0815/fritzboxcalllist/pull/10) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#11](https://github.com/kaaax0815/fritzboxcalllist/pull/11) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. ❌ Closed PR [#8](https://github.com/nepodev/radio-browser/pull/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
-5. 🗣 Commented on [#8](https://github.com/nepodev/radio-browser/issues/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+1. ❗️ Closed issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+2. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+3. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+4. ❗️ Opened issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+5. ❗️ Opened issue [#47](https://github.com/ivandotv/radio-browser-api/issues/47) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
 <!--END_SECTION:activity-->
 
 </details>
