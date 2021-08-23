@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/kaaaxcreators/Discord-MusicBot/pull/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🗣 Commented on [#18](https://github.com/kaaaxcreators/Discord-MusicBot/issues/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#17](https://github.com/kaaax0815/dastelefonbuchscraper/pull/17) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#16](https://github.com/kaaax0815/dastelefonbuchscraper/pull/16) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🎉 Merged PR [#15](https://github.com/kaaax0815/dastelefonbuchscraper/pull/15) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. ❌ Closed PR [#8](https://github.com/nepodev/radio-browser/pull/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+2. 🗣 Commented on [#8](https://github.com/nepodev/radio-browser/issues/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+3. 🗣 Commented on [#7](https://github.com/nepodev/radio-browser/issues/7) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+4. ❌ Closed PR [#18](https://github.com/kaaaxcreators/Discord-MusicBot/pull/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🗣 Commented on [#18](https://github.com/kaaaxcreators/Discord-MusicBot/issues/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
