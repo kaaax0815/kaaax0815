@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/nepodev/radio-browser/pull/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
-2. 🗣 Commented on [#8](https://github.com/nepodev/radio-browser/issues/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
-3. 🗣 Commented on [#7](https://github.com/nepodev/radio-browser/issues/7) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
-4. ❌ Closed PR [#18](https://github.com/kaaaxcreators/Discord-MusicBot/pull/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🗣 Commented on [#18](https://github.com/kaaaxcreators/Discord-MusicBot/issues/18) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🎉 Merged PR [#10](https://github.com/kaaax0815/fritzboxcalllist/pull/10) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#11](https://github.com/kaaax0815/fritzboxcalllist/pull/11) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. ❌ Closed PR [#8](https://github.com/nepodev/radio-browser/pull/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+4. 🗣 Commented on [#8](https://github.com/nepodev/radio-browser/issues/8) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
+5. 🗣 Commented on [#7](https://github.com/nepodev/radio-browser/issues/7) in [nepodev/radio-browser](https://github.com/nepodev/radio-browser)
 <!--END_SECTION:activity-->
 
 </details>
