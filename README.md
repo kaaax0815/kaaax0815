@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-2. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-3. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-4. ❗️ Opened issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-5. ❗️ Opened issue [#47](https://github.com/ivandotv/radio-browser-api/issues/47) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+1. 🎉 Merged PR [#18](https://github.com/kaaax0815/dastelefonbuchscraper/pull/18) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#19](https://github.com/kaaax0815/dastelefonbuchscraper/pull/19) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. ❗️ Closed issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+4. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+5. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
 <!--END_SECTION:activity-->
 
 </details>
