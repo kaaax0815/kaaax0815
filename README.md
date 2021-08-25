@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/kaaax0815/fritzboxcalllist/pull/13) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. 🎉 Merged PR [#18](https://github.com/kaaax0815/dastelefonbuchscraper/pull/18) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. 🎉 Merged PR [#19](https://github.com/kaaax0815/dastelefonbuchscraper/pull/19) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. ❗️ Closed issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
-5. 🗣 Commented on [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
+1. 🎉 Merged PR [#12](https://github.com/kaaax0815/fritzboxcalllist/pull/12) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#13](https://github.com/kaaax0815/fritzboxcalllist/pull/13) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. 🎉 Merged PR [#18](https://github.com/kaaax0815/dastelefonbuchscraper/pull/18) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🎉 Merged PR [#19](https://github.com/kaaax0815/dastelefonbuchscraper/pull/19) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. ❗️ Closed issue [#48](https://github.com/ivandotv/radio-browser-api/issues/48) in [ivandotv/radio-browser-api](https://github.com/ivandotv/radio-browser-api)
 <!--END_SECTION:activity-->
 
 </details>
