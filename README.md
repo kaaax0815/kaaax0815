@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
-2. 🗣 Commented on [#2](https://github.com/kaaaxcreators/create/issues/2) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-3. ❗️ Closed issue [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
-4. 🗣 Commented on [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
-5. ❗️ Opened issue [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
+1. ❗️ Opened issue [#184](https://github.com/sindresorhus/ora/issues/184) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
+2. ❗️ Opened issue [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
+3. 🗣 Commented on [#2](https://github.com/kaaaxcreators/create/issues/2) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
+4. ❗️ Closed issue [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
+5. 🗣 Commented on [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
 <!--END_SECTION:activity-->
 
 </details>
