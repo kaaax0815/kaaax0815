@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/kaaax0815/fritzboxcalllist/pull/18) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. ❗️ Opened issue [#184](https://github.com/sindresorhus/ora/issues/184) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
-3. ❗️ Opened issue [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
-4. 🗣 Commented on [#2](https://github.com/kaaaxcreators/create/issues/2) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-5. ❗️ Closed issue [#183](https://github.com/sindresorhus/ora/issues/183) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
+1. 🗣 Commented on [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
+2. ❗️ Closed issue [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
+3. 🎉 Merged PR [#18](https://github.com/kaaax0815/fritzboxcalllist/pull/18) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. ❗️ Opened issue [#184](https://github.com/sindresorhus/ora/issues/184) in [sindresorhus/ora](https://github.com/sindresorhus/ora)
+5. ❗️ Opened issue [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
 <!--END_SECTION:activity-->
 
 </details>
