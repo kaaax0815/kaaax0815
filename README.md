@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/kaaaxcreators/Discord-MusicBot/pull/120) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#15](https://github.com/kaaax0815/fritzboxcalllist/pull/15) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#16](https://github.com/kaaax0815/fritzboxcalllist/pull/16) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#17](https://github.com/kaaax0815/fritzboxcalllist/pull/17) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#14](https://github.com/kaaax0815/fritzboxcalllist/pull/14) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+1. 🎉 Merged PR [#22](https://github.com/kaaax0815/dastelefonbuchscraper/pull/22) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#23](https://github.com/kaaax0815/dastelefonbuchscraper/pull/23) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 💪 Opened PR [#120](https://github.com/kaaaxcreators/Discord-MusicBot/pull/120) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#15](https://github.com/kaaax0815/fritzboxcalllist/pull/15) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#16](https://github.com/kaaax0815/fritzboxcalllist/pull/16) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
