@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#84](https://github.com/kaaax0815/github-insights-cli/pull/84) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
-2. 🗣 Commented on [#84](https://github.com/kaaax0815/github-insights-cli/issues/84) in [kaaax0815/github-insights-cli](https://github.com/kaaax0815/github-insights-cli)
-3. ❌ Closed PR [#104](https://github.com/kaaax0815/schedule-typer/pull/104) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-4. 🗣 Commented on [#104](https://github.com/kaaax0815/schedule-typer/issues/104) in [kaaax0815/schedule-typer](https://github.com/kaaax0815/schedule-typer)
-5. 🗣 Commented on [#3698](https://github.com/npm/cli/issues/3698) in [npm/cli](https://github.com/npm/cli)
+1. 🗣 Commented on [#5](https://github.com/kaaax0815/dastelefonbuchscraper/issues/5) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🗣 Commented on [#6](https://github.com/kaaax0815/dastelefonbuchscraper/issues/6) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🗣 Commented on [#7](https://github.com/kaaax0815/dastelefonbuchscraper/issues/7) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🗣 Commented on [#8](https://github.com/kaaax0815/dastelefonbuchscraper/issues/8) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. 🗣 Commented on [#9](https://github.com/kaaax0815/dastelefonbuchscraper/issues/9) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
 <!--END_SECTION:activity-->
 
 </details>
