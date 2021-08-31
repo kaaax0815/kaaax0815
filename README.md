@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/kaaax0815/example-typescript-cli/pull/5) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
-2. ❌ Closed PR [#6](https://github.com/kaaax0815/example-typescript-cli/pull/6) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
-3. 🗣 Commented on [#5](https://github.com/kaaax0815/dastelefonbuchscraper/issues/5) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🗣 Commented on [#6](https://github.com/kaaax0815/dastelefonbuchscraper/issues/6) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🗣 Commented on [#7](https://github.com/kaaax0815/dastelefonbuchscraper/issues/7) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🎉 Merged PR [#22](https://github.com/kaaax0815/fritzboxcalllist/pull/22) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#19](https://github.com/kaaax0815/fritzboxcalllist/pull/19) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. 🎉 Merged PR [#23](https://github.com/kaaax0815/fritzboxcalllist/pull/23) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. ❌ Closed PR [#5](https://github.com/kaaax0815/example-typescript-cli/pull/5) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
+5. ❌ Closed PR [#6](https://github.com/kaaax0815/example-typescript-cli/pull/6) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
 <!--END_SECTION:activity-->
 
 </details>
