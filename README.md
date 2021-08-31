@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/kaaax0815/fritzboxcalllist/pull/22) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. 🎉 Merged PR [#19](https://github.com/kaaax0815/fritzboxcalllist/pull/19) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#23](https://github.com/kaaax0815/fritzboxcalllist/pull/23) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. ❌ Closed PR [#5](https://github.com/kaaax0815/example-typescript-cli/pull/5) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
-5. ❌ Closed PR [#6](https://github.com/kaaax0815/example-typescript-cli/pull/6) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
+1. 🗣 Commented on [#40027](https://github.com/microsoft/TypeScript/issues/40027) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 🎉 Merged PR [#22](https://github.com/kaaax0815/fritzboxcalllist/pull/22) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. 🎉 Merged PR [#19](https://github.com/kaaax0815/fritzboxcalllist/pull/19) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. 🎉 Merged PR [#23](https://github.com/kaaax0815/fritzboxcalllist/pull/23) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. ❌ Closed PR [#5](https://github.com/kaaax0815/example-typescript-cli/pull/5) in [kaaax0815/example-typescript-cli](https://github.com/kaaax0815/example-typescript-cli)
 <!--END_SECTION:activity-->
 
 </details>
