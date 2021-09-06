@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-2. 🎉 Merged PR [#25](https://github.com/kaaax0815/fritzboxcalllist/pull/25) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🗣 Commented on [#487](https://github.com/caprover/one-click-apps/issues/487) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-4. ❗️ Opened issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
-5. ❗️ Opened issue [#487](https://github.com/caprover/one-click-apps/issues/487) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
+1. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
+2. ❗️ Opened issue [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
+3. 🎉 Merged PR [#25](https://github.com/kaaax0815/fritzboxcalllist/pull/25) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. 🗣 Commented on [#487](https://github.com/caprover/one-click-apps/issues/487) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
+5. ❗️ Opened issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
 <!--END_SECTION:activity-->
 
 </details>
