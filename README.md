@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-2. ❗️ Opened issue [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🎉 Merged PR [#25](https://github.com/kaaax0815/fritzboxcalllist/pull/25) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🗣 Commented on [#487](https://github.com/caprover/one-click-apps/issues/487) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-5. ❗️ Opened issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
+1. 🎉 Merged PR [#24](https://github.com/kaaax0815/dastelefonbuchscraper/pull/24) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#26](https://github.com/kaaax0815/dastelefonbuchscraper/pull/26) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🎉 Merged PR [#29](https://github.com/kaaax0815/dastelefonbuchscraper/pull/29) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🎉 Merged PR [#30](https://github.com/kaaax0815/dastelefonbuchscraper/pull/30) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. 🎉 Merged PR [#31](https://github.com/kaaax0815/dastelefonbuchscraper/pull/31) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
 <!--END_SECTION:activity-->
 
 </details>
