@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/kaaaxcreators/Discord-MusicBot/pull/126) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#127](https://github.com/kaaaxcreators/Discord-MusicBot/pull/127) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#64](https://github.com/kaaax0815/github-insights/pull/64) in [kaaax0815/github-insights](https://github.com/kaaax0815/github-insights)
-4. 🎉 Merged PR [#90](https://github.com/kaaax0815/discord-token-abuser/pull/90) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
-5. 🎉 Merged PR [#63](https://github.com/kaaax0815/github-insights/pull/63) in [kaaax0815/github-insights](https://github.com/kaaax0815/github-insights)
+1. 🎉 Merged PR [#26](https://github.com/kaaax0815/fritzboxcalllist/pull/26) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#28](https://github.com/kaaax0815/fritzboxcalllist/pull/28) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. 🎉 Merged PR [#29](https://github.com/kaaax0815/fritzboxcalllist/pull/29) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. 🎉 Merged PR [#126](https://github.com/kaaaxcreators/Discord-MusicBot/pull/126) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#127](https://github.com/kaaaxcreators/Discord-MusicBot/pull/127) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
