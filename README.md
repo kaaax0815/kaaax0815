@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/kaaax0815/dastelefonbuchscraper/pull/34) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-2. 🎉 Merged PR [#33](https://github.com/kaaax0815/dastelefonbuchscraper/pull/33) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. 🎉 Merged PR [#32](https://github.com/kaaax0815/dastelefonbuchscraper/pull/32) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#35](https://github.com/kaaax0815/dastelefonbuchscraper/pull/35) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 🎉 Merged PR [#126](https://github.com/kaaaxcreators/Discord-MusicBot/pull/126) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#127](https://github.com/kaaaxcreators/Discord-MusicBot/pull/127) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#64](https://github.com/kaaax0815/github-insights/pull/64) in [kaaax0815/github-insights](https://github.com/kaaax0815/github-insights)
+4. 🎉 Merged PR [#90](https://github.com/kaaax0815/discord-token-abuser/pull/90) in [kaaax0815/discord-token-abuser](https://github.com/kaaax0815/discord-token-abuser)
+5. 🎉 Merged PR [#63](https://github.com/kaaax0815/github-insights/pull/63) in [kaaax0815/github-insights](https://github.com/kaaax0815/github-insights)
 <!--END_SECTION:activity-->
 
 </details>
