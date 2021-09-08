@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-2. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-3. 🎉 Merged PR [#36](https://github.com/kaaax0815/dastelefonbuchscraper/pull/36) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. ❗️ Closed issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
+2. 🗣 Commented on [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
+3. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
 4. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
-5. 🎉 Merged PR [#27](https://github.com/kaaax0815/fritzboxcalllist/pull/27) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
 
 </details>
