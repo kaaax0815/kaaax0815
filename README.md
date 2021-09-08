@@ -32,9 +32,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
-2. 🗣 Commented on [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
-3. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
+1. 🎉 Merged PR [#30](https://github.com/kaaax0815/fritzboxcalllist/pull/30) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. ❗️ Closed issue [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
+3. 🗣 Commented on [#2](https://github.com/Ak4zh/Caprover-API/issues/2) in [Ak4zh/Caprover-API](https://github.com/Ak4zh/Caprover-API)
 4. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
 5. 🗣 Commented on [#1186](https://github.com/caprover/caprover/issues/1186) in [caprover/caprover](https://github.com/caprover/caprover)
 <!--END_SECTION:activity-->
