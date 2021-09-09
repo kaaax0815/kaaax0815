@@ -34,9 +34,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
 2. 🗣 Commented on [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
-3. ❗️ Opened issue [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
-4. 🎉 Merged PR [#37](https://github.com/kaaax0815/dastelefonbuchscraper/pull/37) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. ❗️ Opened issue [#5518](https://github.com/stylelint/stylelint/issues/5518) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
+3. 🗣 Commented on [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
+4. 🗣 Commented on [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
+5. 🗣 Commented on [#5519](https://github.com/stylelint/stylelint/issues/5519) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
 <!--END_SECTION:activity-->
 
 </details>
