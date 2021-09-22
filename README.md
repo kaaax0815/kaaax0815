@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
-2. 💪 Opened PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
-3. 🎉 Merged PR [#24](https://github.com/kaaax0815/config/pull/24) in [kaaax0815/config](https://github.com/kaaax0815/config)
-4. 🎉 Merged PR [#23](https://github.com/kaaax0815/config/pull/23) in [kaaax0815/config](https://github.com/kaaax0815/config)
-5. 🎉 Merged PR [#56](https://github.com/kaaax0815/dastelefonbuchscraper/pull/56) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. ❗️ Opened issue [#66](https://github.com/reboxer/discord-oauth2/issues/66) in [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2)
+2. 🗣 Commented on [#144](https://github.com/kaaaxcreators/Discord-MusicBot/issues/144) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#120](https://github.com/kaaaxcreators/Discord-MusicBot/pull/120) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
+5. 💪 Opened PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
 <!--END_SECTION:activity-->
 
 </details>
