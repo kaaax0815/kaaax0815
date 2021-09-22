@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/kaaax0815/dastelefonbuchscraper/pull/56) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-2. 🎉 Merged PR [#44](https://github.com/kaaax0815/fritzboxcalllist/pull/44) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#43](https://github.com/kaaax0815/fritzboxcalllist/pull/43) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#45](https://github.com/kaaax0815/fritzboxcalllist/pull/45) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#54](https://github.com/kaaax0815/dastelefonbuchscraper/pull/54) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🎉 Merged PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
+2. 💪 Opened PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
+3. 🎉 Merged PR [#24](https://github.com/kaaax0815/config/pull/24) in [kaaax0815/config](https://github.com/kaaax0815/config)
+4. 🎉 Merged PR [#23](https://github.com/kaaax0815/config/pull/23) in [kaaax0815/config](https://github.com/kaaax0815/config)
+5. 🎉 Merged PR [#56](https://github.com/kaaax0815/dastelefonbuchscraper/pull/56) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
 <!--END_SECTION:activity-->
 
 </details>
