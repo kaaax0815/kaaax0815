@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/kaaax0815/fritzboxcalllist/pull/46) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. ❗️ Opened issue [#66](https://github.com/reboxer/discord-oauth2/issues/66) in [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2)
-3. 🗣 Commented on [#144](https://github.com/kaaaxcreators/Discord-MusicBot/issues/144) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-4. 🎉 Merged PR [#120](https://github.com/kaaaxcreators/Discord-MusicBot/pull/120) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🎉 Merged PR [#25](https://github.com/kaaax0815/config/pull/25) in [kaaax0815/config](https://github.com/kaaax0815/config)
+1. ❗️ Opened issue [#1](https://github.com/Infinixius/spud/issues/1) in [Infinixius/spud](https://github.com/Infinixius/spud)
+2. 🎉 Merged PR [#46](https://github.com/kaaax0815/fritzboxcalllist/pull/46) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. ❗️ Opened issue [#66](https://github.com/reboxer/discord-oauth2/issues/66) in [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2)
+4. 🗣 Commented on [#144](https://github.com/kaaaxcreators/Discord-MusicBot/issues/144) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#120](https://github.com/kaaaxcreators/Discord-MusicBot/pull/120) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 </details>
