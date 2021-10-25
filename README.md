@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-2. 🎉 Merged PR [#74](https://github.com/kaaax0815/fritzboxcalllist/pull/74) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#87](https://github.com/kaaax0815/dastelefonbuchscraper/pull/87) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#88](https://github.com/kaaax0815/dastelefonbuchscraper/pull/88) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🎉 Merged PR [#72](https://github.com/kaaax0815/fritzboxcalllist/pull/72) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+1. 🎉 Merged PR [#89](https://github.com/kaaax0815/dastelefonbuchscraper/pull/89) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#90](https://github.com/kaaax0815/dastelefonbuchscraper/pull/90) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+4. 🎉 Merged PR [#74](https://github.com/kaaax0815/fritzboxcalllist/pull/74) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#87](https://github.com/kaaax0815/dastelefonbuchscraper/pull/87) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
 <!--END_SECTION:activity-->
 
 </details>
