@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/kaaax0815/fritzboxcalllist/pull/75) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. 🎉 Merged PR [#76](https://github.com/kaaax0815/fritzboxcalllist/pull/76) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#89](https://github.com/kaaax0815/dastelefonbuchscraper/pull/89) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#90](https://github.com/kaaax0815/dastelefonbuchscraper/pull/90) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+1. 🎉 Merged PR [#92](https://github.com/kaaax0815/dastelefonbuchscraper/pull/92) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#91](https://github.com/kaaax0815/dastelefonbuchscraper/pull/91) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🎉 Merged PR [#93](https://github.com/kaaax0815/dastelefonbuchscraper/pull/93) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🎉 Merged PR [#75](https://github.com/kaaax0815/fritzboxcalllist/pull/75) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#76](https://github.com/kaaax0815/fritzboxcalllist/pull/76) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
