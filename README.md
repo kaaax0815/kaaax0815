@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
-2. 🎉 Merged PR [#21](https://github.com/kaaax0815/spd-editor/pull/21) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
-3. 🎉 Merged PR [#20](https://github.com/kaaax0815/spd-editor/pull/20) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
-4. 🎉 Merged PR [#30](https://github.com/kaaax0815/config/pull/30) in [kaaax0815/config](https://github.com/kaaax0815/config)
-5. 🎉 Merged PR [#4](https://github.com/kaaax0815/spd-editor/pull/4) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
+1. 🎉 Merged PR [#94](https://github.com/kaaax0815/dastelefonbuchscraper/pull/94) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 🎉 Merged PR [#21](https://github.com/kaaax0815/spd-editor/pull/21) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
+4. 🎉 Merged PR [#20](https://github.com/kaaax0815/spd-editor/pull/20) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
+5. 🎉 Merged PR [#30](https://github.com/kaaax0815/config/pull/30) in [kaaax0815/config](https://github.com/kaaax0815/config)
 <!--END_SECTION:activity-->
 
 </details>
