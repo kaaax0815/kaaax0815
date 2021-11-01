@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/kaaaxcreators/omegleip/issues/9) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-2. 🗣 Commented on [#9](https://github.com/kaaaxcreators/omegleip/issues/9) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
-3. 🎉 Merged PR [#94](https://github.com/kaaax0815/dastelefonbuchscraper/pull/94) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🎉 Merged PR [#21](https://github.com/kaaax0815/spd-editor/pull/21) in [kaaax0815/spd-editor](https://github.com/kaaax0815/spd-editor)
+1. 🎉 Merged PR [#95](https://github.com/kaaax0815/dastelefonbuchscraper/pull/95) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. ❗️ Closed issue [#9](https://github.com/kaaaxcreators/omegleip/issues/9) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+3. 🗣 Commented on [#9](https://github.com/kaaaxcreators/omegleip/issues/9) in [kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip)
+4. 🎉 Merged PR [#94](https://github.com/kaaax0815/dastelefonbuchscraper/pull/94) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. 🗣 Commented on [#2582](https://github.com/cdr/code-server/issues/2582) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
