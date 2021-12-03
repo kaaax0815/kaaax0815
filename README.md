@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31885](https://github.com/electron/electron/issues/31885) in [electron/electron](https://github.com/electron/electron)
-2. 🎉 Merged PR [#93](https://github.com/kaaax0815/fritzboxcalllist/pull/93) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#92](https://github.com/kaaax0815/fritzboxcalllist/pull/92) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#90](https://github.com/kaaax0815/fritzboxcalllist/pull/90) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#91](https://github.com/kaaax0815/fritzboxcalllist/pull/91) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+1. 🎉 Merged PR [#1](https://github.com/kaaax0815/smart-alarm-clock/pull/1) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+2. 🎉 Merged PR [#2](https://github.com/kaaax0815/smart-alarm-clock/pull/2) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#5](https://github.com/kaaax0815/smart-alarm-clock/pull/5) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. 🗣 Commented on [#31885](https://github.com/electron/electron/issues/31885) in [electron/electron](https://github.com/electron/electron)
+5. 🎉 Merged PR [#93](https://github.com/kaaax0815/fritzboxcalllist/pull/93) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
