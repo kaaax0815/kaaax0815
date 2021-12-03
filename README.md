@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/kaaax0815/fritzboxcalllist/pull/93) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-2. 🎉 Merged PR [#92](https://github.com/kaaax0815/fritzboxcalllist/pull/92) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-3. 🎉 Merged PR [#90](https://github.com/kaaax0815/fritzboxcalllist/pull/90) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#91](https://github.com/kaaax0815/fritzboxcalllist/pull/91) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#110](https://github.com/kaaax0815/dastelefonbuchscraper/pull/110) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🗣 Commented on [#31885](https://github.com/electron/electron/issues/31885) in [electron/electron](https://github.com/electron/electron)
+2. 🎉 Merged PR [#93](https://github.com/kaaax0815/fritzboxcalllist/pull/93) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+3. 🎉 Merged PR [#92](https://github.com/kaaax0815/fritzboxcalllist/pull/92) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. 🎉 Merged PR [#90](https://github.com/kaaax0815/fritzboxcalllist/pull/90) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#91](https://github.com/kaaax0815/fritzboxcalllist/pull/91) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
