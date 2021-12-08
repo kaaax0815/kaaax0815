@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/kaaax0815/smart-alarm-clock/pull/19) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-2. 🎉 Merged PR [#17](https://github.com/kaaax0815/smart-alarm-clock/pull/17) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. 🎉 Merged PR [#16](https://github.com/kaaax0815/smart-alarm-clock/pull/16) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🎉 Merged PR [#12](https://github.com/kaaax0815/smart-alarm-clock/pull/12) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. 🎉 Merged PR [#11](https://github.com/kaaax0815/smart-alarm-clock/pull/11) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🎉 Merged PR [#113](https://github.com/kaaax0815/dastelefonbuchscraper/pull/113) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🎉 Merged PR [#19](https://github.com/kaaax0815/smart-alarm-clock/pull/19) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#17](https://github.com/kaaax0815/smart-alarm-clock/pull/17) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. 🎉 Merged PR [#16](https://github.com/kaaax0815/smart-alarm-clock/pull/16) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. 🎉 Merged PR [#12](https://github.com/kaaax0815/smart-alarm-clock/pull/12) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
