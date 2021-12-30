@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#223](https://github.com/saltyshiomix/nextron/issues/223) in [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
-2. 🗣 Commented on [#223](https://github.com/saltyshiomix/nextron/issues/223) in [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
-3. ❌ Closed PR [#77](https://github.com/kaaax0815/smart-alarm-clock/pull/77) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. ❌ Closed PR [#76](https://github.com/kaaax0815/smart-alarm-clock/pull/76) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. ❌ Closed PR [#52](https://github.com/kaaax0815/smart-alarm-clock/pull/52) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🎉 Merged PR [#112](https://github.com/kaaax0815/fritzboxcalllist/pull/112) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. ❗️ Closed issue [#223](https://github.com/saltyshiomix/nextron/issues/223) in [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
+3. 🗣 Commented on [#223](https://github.com/saltyshiomix/nextron/issues/223) in [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
+4. ❌ Closed PR [#77](https://github.com/kaaax0815/smart-alarm-clock/pull/77) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. ❌ Closed PR [#76](https://github.com/kaaax0815/smart-alarm-clock/pull/76) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
