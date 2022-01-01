@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/kaaax0815/smart-alarm-clock/pull/78) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-2. 🎉 Merged PR [#80](https://github.com/kaaax0815/smart-alarm-clock/pull/80) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. 🎉 Merged PR [#113](https://github.com/kaaax0815/fritzboxcalllist/pull/113) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#112](https://github.com/kaaax0815/fritzboxcalllist/pull/112) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. ❗️ Closed issue [#223](https://github.com/saltyshiomix/nextron/issues/223) in [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)
+1. 🎉 Merged PR [#79](https://github.com/kaaax0815/smart-alarm-clock/pull/79) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+2. 🎉 Merged PR [#78](https://github.com/kaaax0815/smart-alarm-clock/pull/78) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#80](https://github.com/kaaax0815/smart-alarm-clock/pull/80) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. 🎉 Merged PR [#113](https://github.com/kaaax0815/fritzboxcalllist/pull/113) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#112](https://github.com/kaaax0815/fritzboxcalllist/pull/112) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
