@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#92](https://github.com/kaaax0815/smart-alarm-clock/pull/92) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-2. ❌ Closed PR [#87](https://github.com/kaaax0815/smart-alarm-clock/pull/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. ❌ Closed PR [#90](https://github.com/kaaax0815/smart-alarm-clock/pull/90) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🗣 Commented on [#32](https://github.com/niklasvh/base64-arraybuffer/issues/32) in [niklasvh/base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer)
-5. 🎉 Merged PR [#88](https://github.com/kaaax0815/smart-alarm-clock/pull/88) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🗣 Commented on [#87](https://github.com/kaaax0815/smart-alarm-clock/issues/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+2. ❌ Closed PR [#92](https://github.com/kaaax0815/smart-alarm-clock/pull/92) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. ❌ Closed PR [#87](https://github.com/kaaax0815/smart-alarm-clock/pull/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. ❌ Closed PR [#90](https://github.com/kaaax0815/smart-alarm-clock/pull/90) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. 🗣 Commented on [#32](https://github.com/niklasvh/base64-arraybuffer/issues/32) in [niklasvh/base64-arraybuffer](https://github.com/niklasvh/base64-arraybuffer)
 <!--END_SECTION:activity-->
 
 </details>
