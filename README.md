@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1520](https://github.com/socketio/socket.io-client/issues/1520) in [socketio/socket.io-client](https://github.com/socketio/socket.io-client)
-2. 🗣 Commented on [#87](https://github.com/kaaax0815/smart-alarm-clock/issues/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. ❌ Closed PR [#92](https://github.com/kaaax0815/smart-alarm-clock/pull/92) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. ❌ Closed PR [#87](https://github.com/kaaax0815/smart-alarm-clock/pull/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. ❌ Closed PR [#90](https://github.com/kaaax0815/smart-alarm-clock/pull/90) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🎉 Merged PR [#128](https://github.com/kaaax0815/dastelefonbuchscraper/pull/128) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. 🗣 Commented on [#1520](https://github.com/socketio/socket.io-client/issues/1520) in [socketio/socket.io-client](https://github.com/socketio/socket.io-client)
+3. 🗣 Commented on [#87](https://github.com/kaaax0815/smart-alarm-clock/issues/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. ❌ Closed PR [#92](https://github.com/kaaax0815/smart-alarm-clock/pull/92) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. ❌ Closed PR [#87](https://github.com/kaaax0815/smart-alarm-clock/pull/87) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
