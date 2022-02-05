@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/kaaax0815/smart-alarm-clock/pull/123) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-2. 🎉 Merged PR [#124](https://github.com/kaaax0815/smart-alarm-clock/pull/124) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. 🎉 Merged PR [#141](https://github.com/kaaax0815/dastelefonbuchscraper/pull/141) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#142](https://github.com/kaaax0815/dastelefonbuchscraper/pull/142) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🎉 Merged PR [#120](https://github.com/kaaax0815/smart-alarm-clock/pull/120) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🗣 Commented on [#184](https://github.com/kaaaxcreators/Discord-MusicBot/issues/184) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. 🎉 Merged PR [#84](https://github.com/kaaaxcreators/create/pull/84) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
+3. 🎉 Merged PR [#50](https://github.com/kaaax0815/config/pull/50) in [kaaax0815/config](https://github.com/kaaax0815/config)
+4. 🎉 Merged PR [#51](https://github.com/kaaax0815/config/pull/51) in [kaaax0815/config](https://github.com/kaaax0815/config)
+5. 🎉 Merged PR [#125](https://github.com/kaaax0815/smart-alarm-clock/pull/125) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
