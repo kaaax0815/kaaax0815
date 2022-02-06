@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/kaaaxcreators/Discord-MusicBot/issues/184) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#84](https://github.com/kaaaxcreators/create/pull/84) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-3. 🎉 Merged PR [#50](https://github.com/kaaax0815/config/pull/50) in [kaaax0815/config](https://github.com/kaaax0815/config)
-4. 🎉 Merged PR [#51](https://github.com/kaaax0815/config/pull/51) in [kaaax0815/config](https://github.com/kaaax0815/config)
-5. 🎉 Merged PR [#125](https://github.com/kaaax0815/smart-alarm-clock/pull/125) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. ❗️ Closed issue [#184](https://github.com/kaaaxcreators/Discord-MusicBot/issues/184) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+2. ❗️ Closed issue [#179](https://github.com/kaaaxcreators/Discord-MusicBot/issues/179) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🗣 Commented on [#179](https://github.com/kaaaxcreators/Discord-MusicBot/issues/179) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🗣 Commented on [#184](https://github.com/kaaaxcreators/Discord-MusicBot/issues/184) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+5. 🎉 Merged PR [#84](https://github.com/kaaaxcreators/create/pull/84) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
 <!--END_SECTION:activity-->
 
 </details>
