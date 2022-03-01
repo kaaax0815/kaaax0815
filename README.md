@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#157](https://github.com/kaaax0815/dastelefonbuchscraper/pull/157) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-2. 🎉 Merged PR [#150](https://github.com/kaaax0815/smart-alarm-clock/pull/150) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. 🎉 Merged PR [#151](https://github.com/kaaax0815/smart-alarm-clock/pull/151) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🗣 Commented on [#112](https://github.com/worldturtlemedia/openweathermap-onecall/issues/112) in [worldturtlemedia/openweathermap-onecall](https://github.com/worldturtlemedia/openweathermap-onecall)
-5. ❗️ Opened issue [#112](https://github.com/worldturtlemedia/openweathermap-onecall/issues/112) in [worldturtlemedia/openweathermap-onecall](https://github.com/worldturtlemedia/openweathermap-onecall)
+1. 🎉 Merged PR [#153](https://github.com/kaaax0815/smart-alarm-clock/pull/153) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+2. 🎉 Merged PR [#154](https://github.com/kaaax0815/smart-alarm-clock/pull/154) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#144](https://github.com/kaaax0815/fritzboxcalllist/pull/144) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+4. 🎉 Merged PR [#157](https://github.com/kaaax0815/dastelefonbuchscraper/pull/157) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. 🎉 Merged PR [#150](https://github.com/kaaax0815/smart-alarm-clock/pull/150) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
