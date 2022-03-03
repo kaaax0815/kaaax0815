@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#218](https://github.com/kaaaxcreators/Discord-MusicBot/pull/218) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-2. 🎉 Merged PR [#215](https://github.com/kaaaxcreators/Discord-MusicBot/pull/215) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-3. 🎉 Merged PR [#161](https://github.com/kaaax0815/dastelefonbuchscraper/pull/161) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-4. 🎉 Merged PR [#146](https://github.com/kaaax0815/fritzboxcalllist/pull/146) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#159](https://github.com/kaaax0815/dastelefonbuchscraper/pull/159) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. ❗️ Opened issue [#117](https://github.com/worldturtlemedia/openweathermap-onecall/issues/117) in [worldturtlemedia/openweathermap-onecall](https://github.com/worldturtlemedia/openweathermap-onecall)
+2. 🎉 Merged PR [#218](https://github.com/kaaaxcreators/Discord-MusicBot/pull/218) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+3. 🎉 Merged PR [#215](https://github.com/kaaaxcreators/Discord-MusicBot/pull/215) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+4. 🎉 Merged PR [#161](https://github.com/kaaax0815/dastelefonbuchscraper/pull/161) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+5. 🎉 Merged PR [#146](https://github.com/kaaax0815/fritzboxcalllist/pull/146) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
