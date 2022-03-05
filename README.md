@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7594](https://github.com/discordjs/discord.js/issues/7594) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 🎉 Merged PR [#162](https://github.com/kaaax0815/dastelefonbuchscraper/pull/162) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. ❌ Closed PR [#152](https://github.com/kaaax0815/smart-alarm-clock/pull/152) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🎉 Merged PR [#155](https://github.com/kaaax0815/smart-alarm-clock/pull/155) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. 🎉 Merged PR [#156](https://github.com/kaaax0815/smart-alarm-clock/pull/156) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 💪 Opened PR [#119](https://github.com/worldturtlemedia/openweathermap-onecall/pull/119) in [worldturtlemedia/openweathermap-onecall](https://github.com/worldturtlemedia/openweathermap-onecall)
+2. ❗️ Opened issue [#7594](https://github.com/discordjs/discord.js/issues/7594) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 🎉 Merged PR [#162](https://github.com/kaaax0815/dastelefonbuchscraper/pull/162) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. ❌ Closed PR [#152](https://github.com/kaaax0815/smart-alarm-clock/pull/152) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. 🎉 Merged PR [#155](https://github.com/kaaax0815/smart-alarm-clock/pull/155) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
