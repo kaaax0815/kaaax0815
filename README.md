@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#92](https://github.com/kaaaxcreators/create/pull/92) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-2. 🎉 Merged PR [#100](https://github.com/kaaaxcreators/create/pull/100) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-3. 🎉 Merged PR [#106](https://github.com/kaaaxcreators/create/pull/106) in [kaaaxcreators/create](https://github.com/kaaaxcreators/create)
-4. 🎉 Merged PR [#212](https://github.com/kaaaxcreators/Discord-MusicBot/pull/212) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
-5. 🎉 Merged PR [#250](https://github.com/kaaaxcreators/Discord-MusicBot/pull/250) in [kaaaxcreators/Discord-MusicBot](https://github.com/kaaaxcreators/Discord-MusicBot)
+1. 🎉 Merged PR [#186](https://github.com/kaaax0815/smart-alarm-clock/pull/186) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+2. 🎉 Merged PR [#187](https://github.com/kaaax0815/smart-alarm-clock/pull/187) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#182](https://github.com/kaaax0815/smart-alarm-clock/pull/182) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. 🗣 Commented on [#185](https://github.com/kaaax0815/smart-alarm-clock/issues/185) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. ❌ Reopened PR [#177](https://github.com/kaaax0815/smart-alarm-clock/pull/177) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
