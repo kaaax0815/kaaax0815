@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/kaaax0815/dastelefonbuchscraper/pull/189) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-2. 🎉 Merged PR [#190](https://github.com/kaaax0815/dastelefonbuchscraper/pull/190) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. 🎉 Merged PR [#210](https://github.com/kaaax0815/smart-alarm-clock/pull/210) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🎉 Merged PR [#187](https://github.com/kaaax0815/dastelefonbuchscraper/pull/187) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-5. 🎉 Merged PR [#188](https://github.com/kaaax0815/dastelefonbuchscraper/pull/188) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🗣 Commented on [#2582](https://github.com/coder/code-server/issues/2582) in [coder/code-server](https://github.com/coder/code-server)
+2. 🎉 Merged PR [#189](https://github.com/kaaax0815/dastelefonbuchscraper/pull/189) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🎉 Merged PR [#190](https://github.com/kaaax0815/dastelefonbuchscraper/pull/190) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🎉 Merged PR [#210](https://github.com/kaaax0815/smart-alarm-clock/pull/210) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. 🎉 Merged PR [#187](https://github.com/kaaax0815/dastelefonbuchscraper/pull/187) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
 <!--END_SECTION:activity-->
 
 </details>
