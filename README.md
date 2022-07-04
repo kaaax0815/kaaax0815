@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
-2. 🗣 Commented on [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
-3. ❗️ Opened issue [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
-4. 🎉 Merged PR [#290](https://github.com/kaaax0815/smart-alarm-clock/pull/290) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. 🎉 Merged PR [#286](https://github.com/kaaax0815/smart-alarm-clock/pull/286) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. 🎉 Merged PR [#220](https://github.com/kaaax0815/dastelefonbuchscraper/pull/220) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+2. ❗️ Closed issue [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
+3. 🗣 Commented on [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
+4. ❗️ Opened issue [#1456](https://github.com/caprover/caprover/issues/1456) in [caprover/caprover](https://github.com/caprover/caprover)
+5. 🎉 Merged PR [#290](https://github.com/kaaax0815/smart-alarm-clock/pull/290) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
