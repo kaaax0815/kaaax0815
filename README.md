@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#320](https://github.com/kaaax0815/smart-alarm-clock/pull/320) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-2. 🎉 Merged PR [#332](https://github.com/kaaax0815/smart-alarm-clock/pull/332) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-3. 🎉 Merged PR [#209](https://github.com/kaaax0815/fritzboxcalllist/pull/209) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-4. 🎉 Merged PR [#329](https://github.com/kaaax0815/smart-alarm-clock/pull/329) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-5. 🎉 Merged PR [#328](https://github.com/kaaax0815/smart-alarm-clock/pull/328) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. ❗️ Opened issue [#181](https://github.com/web-ridge/react-native-paper-dates/issues/181) in [web-ridge/react-native-paper-dates](https://github.com/web-ridge/react-native-paper-dates)
+2. 🎉 Merged PR [#320](https://github.com/kaaax0815/smart-alarm-clock/pull/320) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+3. 🎉 Merged PR [#332](https://github.com/kaaax0815/smart-alarm-clock/pull/332) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+4. 🎉 Merged PR [#209](https://github.com/kaaax0815/fritzboxcalllist/pull/209) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+5. 🎉 Merged PR [#329](https://github.com/kaaax0815/smart-alarm-clock/pull/329) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
 </details>
