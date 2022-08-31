@@ -32,11 +32,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#250](https://github.com/kaaax0815/dastelefonbuchscraper/pull/250) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-2. 🎉 Merged PR [#248](https://github.com/kaaax0815/dastelefonbuchscraper/pull/248) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
-3. 🎉 Merged PR [#373](https://github.com/kaaax0815/smart-alarm-clock/pull/373) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🎉 Merged PR [#223](https://github.com/kaaax0815/fritzboxcalllist/pull/223) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
-5. 🎉 Merged PR [#247](https://github.com/kaaax0815/dastelefonbuchscraper/pull/247) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+1. 🎉 Merged PR [#225](https://github.com/kaaax0815/fritzboxcalllist/pull/225) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
+2. 🎉 Merged PR [#250](https://github.com/kaaax0815/dastelefonbuchscraper/pull/250) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+3. 🎉 Merged PR [#248](https://github.com/kaaax0815/dastelefonbuchscraper/pull/248) in [kaaax0815/dastelefonbuchscraper](https://github.com/kaaax0815/dastelefonbuchscraper)
+4. 🎉 Merged PR [#373](https://github.com/kaaax0815/smart-alarm-clock/pull/373) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+5. 🎉 Merged PR [#223](https://github.com/kaaax0815/fritzboxcalllist/pull/223) in [kaaax0815/fritzboxcalllist](https://github.com/kaaax0815/fritzboxcalllist)
 <!--END_SECTION:activity-->
 
 </details>
