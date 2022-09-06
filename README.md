@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning TypeScript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish seminar paper
-- ⚡ Fun fact: I don't have hobbys
+- ⚡ Fun fact: I like cycling
 
 ### Connect with me
 
