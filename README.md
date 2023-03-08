@@ -43,10 +43,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#883](https://github.com/caprover/one-click-apps/pull/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-2. 🗣 Commented on [#252](https://github.com/shadowwalker/next-pwa/issues/252) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-3. ❌ Closed PR [#488](https://github.com/kaaax0815/smart-alarm-clock/pull/488) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
-4. 🎉 Merged PR [#487](https://github.com/kaaax0815/smart-alarm-clock/pull/487) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
+1. ❗️ Closed issue [#470](https://github.com/lucaslorentz/caddy-docker-proxy/issues/470) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+2. ❗️ Opened issue [#470](https://github.com/lucaslorentz/caddy-docker-proxy/issues/470) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+3. 💪 Opened PR [#883](https://github.com/caprover/one-click-apps/pull/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
+4. 🗣 Commented on [#252](https://github.com/shadowwalker/next-pwa/issues/252) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
 5. 🎉 Merged PR [#486](https://github.com/kaaax0815/smart-alarm-clock/pull/486) in [kaaax0815/smart-alarm-clock](https://github.com/kaaax0815/smart-alarm-clock)
 <!--END_SECTION:activity-->
 
