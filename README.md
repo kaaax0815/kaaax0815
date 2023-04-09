@@ -1,19 +1,15 @@
-### Hi there, I'm Bernd - aka [kaaax0815][website] or [kaaaxcreators][orga] 👋
-
-[![Website](https://img.shields.io/website?label=kaaaxcreators.de&style=for-the-badge&url=https%3A%2F%2Fkaaaxcreators.de)](https://kaaaxcreators.de)
-
-[✍️ My Personal Blog][blog]
+### Hi there, I'm Bernd - aka [kaaax0815][portfolio] or [kaaaxcreators][orga] 👋
 
 ## I'm 17 years old
 
-- 🌱 I’m currently learning TypeScript 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Finish seminar paper
+- 🌱 I’m currently deep diving Typescript 🤣
+- 👯 I’m looking to collaborate on Typescript projects
+- 🥅 2023 Goals: Finish Abitur
 - ⚡ Fun fact: I like cycling
 
 ### Connect with me
 
-[<img align="left" alt="kaaaxcreators.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kaaaxcreators.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="kaaaxcreators" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="true.bernd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -55,14 +51,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kaaaxcreators GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaaax0815&show_icons=true&hide_border=true" />
-<!--<img align="left" alt="kaaaxcreators Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaax0815&show_icons=true&hide_border=true&layout=compact" />-->
+  <img align="left" alt="kaaax0815 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaaax0815&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://kaaaxcreators.de
+[portfolio]: https://kaaaxcreators.de
 [youtube]: https://link.kaaaxcreators.de/youtube
 [instagram]: https://link.kaaaxcreators.de/instagram
-[blog]: https://link.kaaaxcreators.de/blog
 [orga]: https://github.com/kaaaxcreators
 ![](https://hit.yhype.me/github/profile?user_id=32197462)
