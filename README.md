@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-3. 🎉 Merged PR [#1](https://github.com/kaaax0815/abiball/pull/1) in [kaaax0815/abiball](https://github.com/kaaax0815/abiball)
-4. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-5. ❗️ Closed issue [#470](https://github.com/lucaslorentz/caddy-docker-proxy/issues/470) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+1. 🗣 Commented on [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. ❗️ Opened issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
+4. 🎉 Merged PR [#1](https://github.com/kaaax0815/abiball/pull/1) in [kaaax0815/abiball](https://github.com/kaaax0815/abiball)
+5. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
 <!--END_SECTION:activity-->
 
 </details>
