@@ -39,9 +39,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 🔒 Closed issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 2. 🗣 Commented on [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. ❗️ Opened issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. ❗ Opened issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 4. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
 5. 🎉 Merged PR [#1](https://github.com/kaaax0815/abiball/pull/1) in [kaaax0815/abiball](https://github.com/kaaax0815/abiball)
 <!--END_SECTION:activity-->
