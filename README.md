@@ -1,10 +1,10 @@
 ### Hi there, I'm Bernd - aka [kaaax0815][portfolio] or [kaaaxcreators][orga] 👋
 
-## I'm 17 years old
+## I'm 18 years old
 
 - 🌱 I’m currently deep diving Typescript 🤣
 - 👯 I’m looking to collaborate on Typescript projects
-- 🥅 2023 Goals: Finish Abitur
+- 🥅 2023 Goals: Renovate room
 - ⚡ Fun fact: I like cycling
 
 ### Connect with me
