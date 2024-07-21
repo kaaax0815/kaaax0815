@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 🗣 Commented on [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. ❗ Opened issue [#53743](https://github.com/microsoft/TypeScript/issues/53743) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. 🗣 Commented on [#883](https://github.com/caprover/one-click-apps/issues/883) in [caprover/one-click-apps](https://github.com/caprover/one-click-apps)
-5. 🎉 Merged PR [#1](https://github.com/kaaax0815/abiball/pull/1) in [kaaax0815/abiball](https://github.com/kaaax0815/abiball)
+1. 🗣 Commented on [#937](https://github.com/wg-easy/wg-easy/pull/937#issuecomment-2241547537) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1202](https://github.com/wg-easy/wg-easy/pull/1202#issuecomment-2241547216) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1108](https://github.com/wg-easy/wg-easy/pull/1108#issuecomment-2241546877) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1202](https://github.com/wg-easy/wg-easy/pull/1202#issuecomment-2241546609) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#1202](https://github.com/wg-easy/wg-easy/pull/1202) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
