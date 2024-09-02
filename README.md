@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/jamdotdev/jam-dev-utilities/issues/60) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-2. ❗ Opened issue [#59](https://github.com/jamdotdev/jam-dev-utilities/issues/59) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-3. ❗ Opened issue [#58](https://github.com/jamdotdev/jam-dev-utilities/issues/58) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-4. ❗ Opened issue [#57](https://github.com/jamdotdev/jam-dev-utilities/issues/57) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-5. 🗣 Commented on [#1342](https://github.com/wg-easy/wg-easy/pull/1342#issuecomment-2324651152) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1337](https://github.com/wg-easy/wg-easy/issues/1337#issuecomment-2324832524) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1339](https://github.com/wg-easy/wg-easy/issues/1339#issuecomment-2324830030) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#997](https://github.com/wg-easy/wg-easy/pull/997#issuecomment-2324818465) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1003](https://github.com/wg-easy/wg-easy/pull/1003#issuecomment-2324816089) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1108](https://github.com/wg-easy/wg-easy/pull/1108#issuecomment-2324814219) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
