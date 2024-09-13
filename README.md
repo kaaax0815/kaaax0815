@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1378](https://github.com/wg-easy/wg-easy/issues/1378#issuecomment-2348232645) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1398](https://github.com/wg-easy/wg-easy/issues/1398#issuecomment-2348076032) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2346998872) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1378](https://github.com/wg-easy/wg-easy/issues/1378#issuecomment-2346520789) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1125](https://github.com/wg-easy/wg-easy/issues/1125#issuecomment-2346434110) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#2735](https://github.com/unjs/nitro/issues/2735) in [unjs/nitro](https://github.com/unjs/nitro)
+2. 🗣 Commented on [#1378](https://github.com/wg-easy/wg-easy/issues/1378#issuecomment-2348232645) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1398](https://github.com/wg-easy/wg-easy/issues/1398#issuecomment-2348076032) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2346998872) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1378](https://github.com/wg-easy/wg-easy/issues/1378#issuecomment-2346520789) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
