@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1417](https://github.com/wg-easy/wg-easy/issues/1417) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2360215271) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
-3. 🗣 Commented on [#1417](https://github.com/wg-easy/wg-easy/issues/1417#issuecomment-2360185812) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1125](https://github.com/wg-easy/wg-easy/issues/1125#issuecomment-2360139351) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1125](https://github.com/wg-easy/wg-easy/issues/1125#issuecomment-2360028026) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1418](https://github.com/wg-easy/wg-easy/issues/1418#issuecomment-2360390523) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#1418](https://github.com/wg-easy/wg-easy/issues/1418) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❗ Opened issue [#3111](https://github.com/nuxt-modules/i18n/issues/3111) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+4. 🔒 Closed issue [#1417](https://github.com/wg-easy/wg-easy/issues/1417) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2360215271) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
