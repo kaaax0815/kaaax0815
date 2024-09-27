@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370900317) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
-2. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370894195) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
-3. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370883455) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
-4. ❗ Opened issue [#336](https://github.com/wolveix/satisfactory-server/issues/336) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
-5. 🗣 Commented on [#1429](https://github.com/wg-easy/wg-easy/issues/1429#issuecomment-2370296569) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1329](https://github.com/wg-easy/wg-easy/issues/1329#issuecomment-2378357581) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370900317) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
+3. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370894195) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
+4. 🗣 Commented on [#336](https://github.com/wolveix/satisfactory-server/issues/336#issuecomment-2370883455) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
+5. ❗ Opened issue [#336](https://github.com/wolveix/satisfactory-server/issues/336) in [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
 <!--END_SECTION:activity-->
 
 </details>
