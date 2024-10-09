@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
-2. 🗣 Commented on [#510](https://github.com/nuxt/eslint/issues/510#issuecomment-2401808284) in [nuxt/eslint](https://github.com/nuxt/eslint)
-3. ❗ Opened issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
-4. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
-5. ❗ Opened issue [#21716](https://github.com/strapi/strapi/issues/21716) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 💪 Opened PR [#21734](https://github.com/strapi/strapi/pull/21734) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🔒 Closed issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
+3. 🗣 Commented on [#510](https://github.com/nuxt/eslint/issues/510#issuecomment-2401808284) in [nuxt/eslint](https://github.com/nuxt/eslint)
+4. ❗ Opened issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
+5. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
 <!--END_SECTION:activity-->
 
 </details>
