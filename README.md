@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
-2. ❗ Opened issue [#21716](https://github.com/strapi/strapi/issues/21716) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2399625214) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1455](https://github.com/wg-easy/wg-easy/issues/1455#issuecomment-2399621119) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#78](https://github.com/jamdotdev/jam-dev-utilities/issues/78) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
+1. 🔒 Closed issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
+2. 🗣 Commented on [#510](https://github.com/nuxt/eslint/issues/510#issuecomment-2401808284) in [nuxt/eslint](https://github.com/nuxt/eslint)
+3. ❗ Opened issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
+4. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#21716](https://github.com/strapi/strapi/issues/21716) in [strapi/strapi](https://github.com/strapi/strapi)
 <!--END_SECTION:activity-->
 
 </details>
