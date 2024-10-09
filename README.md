@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2399625214) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1455](https://github.com/wg-easy/wg-easy/issues/1455#issuecomment-2399621119) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#78](https://github.com/jamdotdev/jam-dev-utilities/issues/78) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-4. 🗣 Commented on [#74](https://github.com/jamdotdev/jam-dev-utilities/issues/74#issuecomment-2399380080) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
-5. 🗣 Commented on [#1397](https://github.com/wg-easy/wg-easy/pull/1397#issuecomment-2396571338) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
+2. ❗ Opened issue [#21716](https://github.com/strapi/strapi/issues/21716) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2399625214) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1455](https://github.com/wg-easy/wg-easy/issues/1455#issuecomment-2399621119) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#78](https://github.com/jamdotdev/jam-dev-utilities/issues/78) in [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities)
 <!--END_SECTION:activity-->
 
 </details>
