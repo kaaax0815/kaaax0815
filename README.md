@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21734](https://github.com/strapi/strapi/pull/21734) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🔒 Closed issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
-3. 🗣 Commented on [#510](https://github.com/nuxt/eslint/issues/510#issuecomment-2401808284) in [nuxt/eslint](https://github.com/nuxt/eslint)
-4. ❗ Opened issue [#510](https://github.com/nuxt/eslint/issues/510) in [nuxt/eslint](https://github.com/nuxt/eslint)
-5. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-2401540531) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2404343063) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+2. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2404261545) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+3. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2404256081) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+4. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2404241377) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+5. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2404226978) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
