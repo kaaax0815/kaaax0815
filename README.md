@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/kaaax0815/wg-easy/pull/4) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
-2. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2410646837) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
-3. ❌ Closed PR [#28](https://github.com/cedrickchee/awesome-wireguard/pull/28) in [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard)
-4. 💪 Opened PR [#28](https://github.com/cedrickchee/awesome-wireguard/pull/28) in [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard)
-5. 🗣 Commented on [#1455](https://github.com/wg-easy/wg-easy/issues/1455#issuecomment-2410417835) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1259](https://github.com/wg-easy/wg-easy/issues/1259#issuecomment-2411124120) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2411096857) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#1386](https://github.com/wg-easy/wg-easy/issues/1386) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🎉 Merged PR [#4](https://github.com/kaaax0815/wg-easy/pull/4) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+5. 🗣 Commented on [#4](https://github.com/kaaax0815/wg-easy/pull/4#issuecomment-2410646837) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
