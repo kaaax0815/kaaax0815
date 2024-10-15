@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1271](https://github.com/wg-easy/wg-easy/issues/1271#issuecomment-2411722129) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1259](https://github.com/wg-easy/wg-easy/issues/1259#issuecomment-2411124120) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2411096857) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1386](https://github.com/wg-easy/wg-easy/issues/1386) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#4](https://github.com/kaaax0815/wg-easy/pull/4) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+1. ❗ Opened issue [#1375](https://github.com/unovue/radix-vue/issues/1375) in [unovue/radix-vue](https://github.com/unovue/radix-vue)
+2. 🗣 Commented on [#1271](https://github.com/wg-easy/wg-easy/issues/1271#issuecomment-2411722129) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1259](https://github.com/wg-easy/wg-easy/issues/1259#issuecomment-2411124120) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1386](https://github.com/wg-easy/wg-easy/issues/1386#issuecomment-2411096857) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1386](https://github.com/wg-easy/wg-easy/issues/1386) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
