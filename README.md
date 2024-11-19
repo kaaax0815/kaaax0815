@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35076](https://github.com/type-challenges/type-challenges/issues/35076) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-2. ❗ Opened issue [#35076](https://github.com/type-challenges/type-challenges/issues/35076) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-3. 🗣 Commented on [#1433](https://github.com/wg-easy/wg-easy/issues/1433#issuecomment-2484811641) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1524](https://github.com/wg-easy/wg-easy/issues/1524#issuecomment-2482877162) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#1524](https://github.com/wg-easy/wg-easy/issues/1524) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#1331](https://github.com/Schniz/fnm/issues/1331) in [Schniz/fnm](https://github.com/Schniz/fnm)
+2. 🔒 Closed issue [#35076](https://github.com/type-challenges/type-challenges/issues/35076) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+3. ❗ Opened issue [#35076](https://github.com/type-challenges/type-challenges/issues/35076) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+4. 🗣 Commented on [#1433](https://github.com/wg-easy/wg-easy/issues/1433#issuecomment-2484811641) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1524](https://github.com/wg-easy/wg-easy/issues/1524#issuecomment-2482877162) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
