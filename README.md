@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1373](https://github.com/wg-easy/wg-easy/issues/1373#issuecomment-2509755001) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1525](https://github.com/wg-easy/wg-easy/issues/1525#issuecomment-2503127239) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1220](https://github.com/Whisky-App/Whisky/issues/1220#issuecomment-2499874165) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-4. 🔒 Closed issue [#1433](https://github.com/wg-easy/wg-easy/issues/1433) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#1529](https://github.com/wg-easy/wg-easy/pull/1529) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1542](https://github.com/wg-easy/wg-easy/issues/1542#issuecomment-2527235383) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#1542](https://github.com/wg-easy/wg-easy/issues/1542) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1536](https://github.com/wg-easy/wg-easy/issues/1536#issuecomment-2527228611) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#1536](https://github.com/wg-easy/wg-easy/issues/1536) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1537](https://github.com/wg-easy/wg-easy/issues/1537#issuecomment-2527223944) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
