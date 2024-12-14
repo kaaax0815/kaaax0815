@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#566](https://github.com/AndreyPavlenko/Fermata/issues/566) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-2. 🗣 Commented on [#1559](https://github.com/wg-easy/wg-easy/issues/1559#issuecomment-2531999587) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1555](https://github.com/wg-easy/wg-easy/issues/1555#issuecomment-2531948712) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1555](https://github.com/wg-easy/wg-easy/issues/1555) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#568](https://github.com/chirpstack/chirpstack/issues/568#issuecomment-2531800411) in [chirpstack/chirpstack](https://github.com/chirpstack/chirpstack)
+1. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541509975) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+2. ❗ Opened issue [#566](https://github.com/AndreyPavlenko/Fermata/issues/566) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+3. 🗣 Commented on [#1559](https://github.com/wg-easy/wg-easy/issues/1559#issuecomment-2531999587) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1555](https://github.com/wg-easy/wg-easy/issues/1555#issuecomment-2531948712) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1555](https://github.com/wg-easy/wg-easy/issues/1555) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
