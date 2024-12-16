@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541728727) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-2. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541688195) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-3. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541678667) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-4. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541651900) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-5. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541601288) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+1. ❌ Closed PR [#1568](https://github.com/wg-easy/wg-easy/pull/1568) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541728727) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+3. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541688195) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+4. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541678667) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+5. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541651900) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
 <!--END_SECTION:activity-->
 
 </details>
