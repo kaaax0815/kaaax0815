@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1568](https://github.com/wg-easy/wg-easy/pull/1568) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541728727) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-3. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541688195) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-4. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541678667) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-5. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541651900) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+1. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2544965021) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1565](https://github.com/wg-easy/wg-easy/issues/1565#issuecomment-2544955753) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2275](https://github.com/SagerNet/sing-box/issues/2275#issuecomment-2544947319) in [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+4. ❌ Closed PR [#1568](https://github.com/wg-easy/wg-easy/pull/1568) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#566](https://github.com/AndreyPavlenko/Fermata/issues/566#issuecomment-2541728727) in [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
 <!--END_SECTION:activity-->
 
 </details>
