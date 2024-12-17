@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2545317585) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2545284850) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1569](https://github.com/wg-easy/wg-easy/issues/1569#issuecomment-2545272067) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1569](https://github.com/wg-easy/wg-easy/issues/1569) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#5402](https://github.com/EdgeApp/edge-react-gui/issues/5402#issuecomment-2545257777) in [EdgeApp/edge-react-gui](https://github.com/EdgeApp/edge-react-gui)
+1. 🗣 Commented on [#1570](https://github.com/wg-easy/wg-easy/issues/1570#issuecomment-2548245947) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1525](https://github.com/wg-easy/wg-easy/issues/1525#issuecomment-2548245054) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2545317585) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2545284850) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1569](https://github.com/wg-easy/wg-easy/issues/1569#issuecomment-2545272067) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
