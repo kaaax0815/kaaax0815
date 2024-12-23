@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1574](https://github.com/wg-easy/wg-easy/pull/1574) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1574](https://github.com/wg-easy/wg-easy/pull/1574#issuecomment-2558452914) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#397](https://github.com/esp-rs/esp-idf-hal/pull/397#issuecomment-2557088135) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
-4. 🗣 Commented on [#175](https://github.com/caemor/epd-waveshare/pull/175#issuecomment-2557085954) in [caemor/epd-waveshare](https://github.com/caemor/epd-waveshare)
-5. 🗣 Commented on [#397](https://github.com/esp-rs/esp-idf-hal/pull/397#issuecomment-2556957343) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
+1. ❌ Closed PR [#1575](https://github.com/wg-easy/wg-easy/pull/1575) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#1574](https://github.com/wg-easy/wg-easy/pull/1574) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1574](https://github.com/wg-easy/wg-easy/pull/1574#issuecomment-2558452914) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#397](https://github.com/esp-rs/esp-idf-hal/pull/397#issuecomment-2557088135) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
+5. 🗣 Commented on [#175](https://github.com/caemor/epd-waveshare/pull/175#issuecomment-2557085954) in [caemor/epd-waveshare](https://github.com/caemor/epd-waveshare)
 <!--END_SECTION:activity-->
 
 </details>
