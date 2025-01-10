@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1361](https://github.com/Schniz/fnm/pull/1361#issuecomment-2577837416) in [Schniz/fnm](https://github.com/Schniz/fnm)
-2. 💪 Opened PR [#1361](https://github.com/Schniz/fnm/pull/1361) in [Schniz/fnm](https://github.com/Schniz/fnm)
-3. ❌ Closed PR [#1600](https://github.com/wg-easy/wg-easy/pull/1600) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1600](https://github.com/wg-easy/wg-easy/pull/1600#issuecomment-2571667134) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1564](https://github.com/wg-easy/wg-easy/issues/1564#issuecomment-2567118462) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1362](https://github.com/Schniz/fnm/pull/1362#issuecomment-2579578073) in [Schniz/fnm](https://github.com/Schniz/fnm)
+2. 🗣 Commented on [#1361](https://github.com/Schniz/fnm/pull/1361#issuecomment-2577837416) in [Schniz/fnm](https://github.com/Schniz/fnm)
+3. 💪 Opened PR [#1361](https://github.com/Schniz/fnm/pull/1361) in [Schniz/fnm](https://github.com/Schniz/fnm)
+4. ❌ Closed PR [#1600](https://github.com/wg-easy/wg-easy/pull/1600) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1600](https://github.com/wg-easy/wg-easy/pull/1600#issuecomment-2571667134) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
