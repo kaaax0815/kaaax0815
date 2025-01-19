@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/nuxt/cli/issues/682#issuecomment-2598215820) in [nuxt/cli](https://github.com/nuxt/cli)
-2. 🗣 Commented on [#323](https://github.com/nuxt/cli/issues/323#issuecomment-2597775634) in [nuxt/cli](https://github.com/nuxt/cli)
-3. 🗣 Commented on [#1666](https://github.com/drizzle-team/drizzle-orm/pull/1666#issuecomment-2597695510) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. 🗣 Commented on [#1623](https://github.com/wg-easy/wg-easy/pull/1623#issuecomment-2597555213) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❌ Closed PR [#1623](https://github.com/wg-easy/wg-easy/pull/1623) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#323](https://github.com/nuxt/cli/issues/323#issuecomment-2600875142) in [nuxt/cli](https://github.com/nuxt/cli)
+2. 🗣 Commented on [#682](https://github.com/nuxt/cli/issues/682#issuecomment-2598215820) in [nuxt/cli](https://github.com/nuxt/cli)
+3. 🗣 Commented on [#323](https://github.com/nuxt/cli/issues/323#issuecomment-2597775634) in [nuxt/cli](https://github.com/nuxt/cli)
+4. 🗣 Commented on [#1666](https://github.com/drizzle-team/drizzle-orm/pull/1666#issuecomment-2597695510) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+5. 🗣 Commented on [#1623](https://github.com/wg-easy/wg-easy/pull/1623#issuecomment-2597555213) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
