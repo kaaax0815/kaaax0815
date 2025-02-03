@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1513](https://github.com/wg-easy/wg-easy/issues/1513#issuecomment-2619784292) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1407](https://github.com/wg-easy/wg-easy/issues/1407#issuecomment-2613978867) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1626](https://github.com/wg-easy/wg-easy/pull/1626#issuecomment-2604090699) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ❌ Closed PR [#1626](https://github.com/wg-easy/wg-easy/pull/1626) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#1138](https://github.com/Nyr/openvpn-install/issues/1138) in [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
+1. 🗣 Commented on [#1625](https://github.com/wg-easy/wg-easy/issues/1625#issuecomment-2631082577) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#1625](https://github.com/wg-easy/wg-easy/issues/1625) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1635](https://github.com/wg-easy/wg-easy/issues/1635#issuecomment-2631078531) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#1635](https://github.com/wg-easy/wg-easy/issues/1635) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1636](https://github.com/wg-easy/wg-easy/pull/1636#issuecomment-2631073684) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
