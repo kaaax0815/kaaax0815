@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11022](https://github.com/traefik/traefik/pull/11022#issuecomment-2636206577) in [traefik/traefik](https://github.com/traefik/traefik)
-2. 🗣 Commented on [#1619](https://github.com/wg-easy/wg-easy/pull/1619#issuecomment-2633262119) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1625](https://github.com/wg-easy/wg-easy/issues/1625#issuecomment-2631082577) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1625](https://github.com/wg-easy/wg-easy/issues/1625) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1635](https://github.com/wg-easy/wg-easy/issues/1635#issuecomment-2631078531) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#9](https://github.com/seven-io/php-client/issues/9#issuecomment-2639626213) in [seven-io/php-client](https://github.com/seven-io/php-client)
+2. 🗣 Commented on [#11022](https://github.com/traefik/traefik/pull/11022#issuecomment-2636206577) in [traefik/traefik](https://github.com/traefik/traefik)
+3. 🗣 Commented on [#1619](https://github.com/wg-easy/wg-easy/pull/1619#issuecomment-2633262119) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1625](https://github.com/wg-easy/wg-easy/issues/1625#issuecomment-2631082577) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1625](https://github.com/wg-easy/wg-easy/issues/1625) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
