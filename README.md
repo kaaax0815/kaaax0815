@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1648](https://github.com/wg-easy/wg-easy/pull/1648) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1648](https://github.com/wg-easy/wg-easy/pull/1648#issuecomment-2644716820) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1642](https://github.com/wg-easy/wg-easy/issues/1642#issuecomment-2643593643) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1946](https://github.com/nodejs/docker-node/issues/1946#issuecomment-2643277634) in [nodejs/docker-node](https://github.com/nodejs/docker-node)
-5. 🗣 Commented on [#1946](https://github.com/nodejs/docker-node/issues/1946#issuecomment-2643220346) in [nodejs/docker-node](https://github.com/nodejs/docker-node)
+1. 🗣 Commented on [#1650](https://github.com/wg-easy/wg-easy/issues/1650#issuecomment-2647488261) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1652](https://github.com/wg-easy/wg-easy/issues/1652#issuecomment-2647486348) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#1652](https://github.com/wg-easy/wg-easy/issues/1652) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1649](https://github.com/wg-easy/wg-easy/issues/1649#issuecomment-2647472927) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❌ Closed PR [#1654](https://github.com/wg-easy/wg-easy/pull/1654) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
