@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/jooby-dev/jooby-docs/issues/105#issuecomment-2658394918) in [jooby-dev/jooby-docs](https://github.com/jooby-dev/jooby-docs)
-2. 🎉 Merged PR [#1665](https://github.com/wg-easy/wg-easy/pull/1665) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 💪 Opened PR [#1665](https://github.com/wg-easy/wg-easy/pull/1665) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1333](https://github.com/wg-easy/wg-easy/pull/1333#issuecomment-2650951598) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#1661](https://github.com/wg-easy/wg-easy/pull/1661) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1664](https://github.com/wg-easy/wg-easy/issues/1664#issuecomment-2658522742) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#1664](https://github.com/wg-easy/wg-easy/issues/1664) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#105](https://github.com/jooby-dev/jooby-docs/issues/105#issuecomment-2658394918) in [jooby-dev/jooby-docs](https://github.com/jooby-dev/jooby-docs)
+4. 🎉 Merged PR [#1665](https://github.com/wg-easy/wg-easy/pull/1665) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#1665](https://github.com/wg-easy/wg-easy/pull/1665) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
