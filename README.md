@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1695](https://github.com/wg-easy/wg-easy/pull/1695) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 💪 Opened PR [#1695](https://github.com/wg-easy/wg-easy/pull/1695) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🎉 Merged PR [#1666](https://github.com/wg-easy/wg-easy/pull/1666) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ❌ Closed PR [#1692](https://github.com/wg-easy/wg-easy/pull/1692) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❌ Closed PR [#1693](https://github.com/wg-easy/wg-easy/pull/1693) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 💪 Opened PR [#1696](https://github.com/wg-easy/wg-easy/pull/1696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#1695](https://github.com/wg-easy/wg-easy/pull/1695) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 💪 Opened PR [#1695](https://github.com/wg-easy/wg-easy/pull/1695) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🎉 Merged PR [#1666](https://github.com/wg-easy/wg-easy/pull/1666) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❌ Closed PR [#1692](https://github.com/wg-easy/wg-easy/pull/1692) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
