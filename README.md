@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v15.0.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#7786](https://github.com/vuejs/core/pull/7786#issuecomment-2701074189) in [vuejs/core](https://github.com/vuejs/core)
-3. ❗ Opened issue [#1704](https://github.com/wg-easy/wg-easy/issues/1704) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1271](https://github.com/wg-easy/wg-easy/issues/1271#issuecomment-2700789058) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#1271](https://github.com/wg-easy/wg-easy/issues/1271) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2735](https://github.com/nitrojs/nitro/issues/2735#issuecomment-2701233619) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
+2. 🚀 Published release [v15.0.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#7786](https://github.com/vuejs/core/pull/7786#issuecomment-2701074189) in [vuejs/core](https://github.com/vuejs/core)
+4. ❗ Opened issue [#1704](https://github.com/wg-easy/wg-easy/issues/1704) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1271](https://github.com/wg-easy/wg-easy/issues/1271#issuecomment-2700789058) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
