@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1697](https://github.com/wg-easy/wg-easy/pull/1697) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#538](https://github.com/nuxt/eslint/issues/538#issuecomment-2696989455) in [nuxt/eslint](https://github.com/nuxt/eslint)
-3. 🎉 Merged PR [#1696](https://github.com/wg-easy/wg-easy/pull/1696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 💪 Opened PR [#1696](https://github.com/wg-easy/wg-easy/pull/1696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#1695](https://github.com/wg-easy/wg-easy/pull/1695) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#987](https://github.com/unjs/h3/issues/987) in [unjs/h3](https://github.com/unjs/h3)
+2. 💪 Opened PR [#1697](https://github.com/wg-easy/wg-easy/pull/1697) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#538](https://github.com/nuxt/eslint/issues/538#issuecomment-2696989455) in [nuxt/eslint](https://github.com/nuxt/eslint)
+4. 🎉 Merged PR [#1696](https://github.com/wg-easy/wg-easy/pull/1696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#1696](https://github.com/wg-easy/wg-easy/pull/1696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
