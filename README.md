@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2702052476) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2701888961) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2735](https://github.com/nitrojs/nitro/issues/2735#issuecomment-2701233619) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
-4. 🚀 Published release [v15.0.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#7786](https://github.com/vuejs/core/pull/7786#issuecomment-2701074189) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2703032217) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🚀 Published release [v15.0.0-beta.3](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.3) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🎉 Merged PR [#1711](https://github.com/wg-easy/wg-easy/pull/1711) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#1711](https://github.com/wg-easy/wg-easy/pull/1711) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2702976082) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
