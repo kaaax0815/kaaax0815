@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2706472591) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 💪 Opened PR [#1720](https://github.com/wg-easy/wg-easy/pull/1720) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2706375997) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2706208772) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🚀 Published release [v15.0.0-beta.6](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.6) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1721](https://github.com/wg-easy/wg-easy/issues/1721#issuecomment-2706595160) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2706591852) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2706575504) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🚀 Published release [v15.0.0-beta.7](https://github.com/wg-easy/wg-easy/releases/tag/v15.0.0-beta.7) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1706](https://github.com/wg-easy/wg-easy/issues/1706#issuecomment-2706534538) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
