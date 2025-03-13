@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2720678064) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1732](https://github.com/wg-easy/wg-easy/issues/1732#issuecomment-2720672654) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#1697](https://github.com/unovue/reka-ui/issues/1697) in [unovue/reka-ui](https://github.com/unovue/reka-ui)
-4. ❗ Opened issue [#1697](https://github.com/unovue/reka-ui/issues/1697) in [unovue/reka-ui](https://github.com/unovue/reka-ui)
-5. 🗣 Commented on [#1737](https://github.com/wg-easy/wg-easy/issues/1737#issuecomment-2720120434) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🎉 Merged PR [#1736](https://github.com/wg-easy/wg-easy/pull/1736) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1677](https://github.com/wg-easy/wg-easy/issues/1677#issuecomment-2720735592) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#1677](https://github.com/wg-easy/wg-easy/issues/1677) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2720678064) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1732](https://github.com/wg-easy/wg-easy/issues/1732#issuecomment-2720672654) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
