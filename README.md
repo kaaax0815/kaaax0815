@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1742](https://github.com/wg-easy/wg-easy/issues/1742#issuecomment-2726657187) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2726648107) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1742](https://github.com/wg-easy/wg-easy/issues/1742#issuecomment-2725381112) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1742](https://github.com/wg-easy/wg-easy/issues/1742#issuecomment-2725007017) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1741](https://github.com/wg-easy/wg-easy/issues/1741#issuecomment-2724924932) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🔒 Closed issue [#1743](https://github.com/wg-easy/wg-easy/issues/1743) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1743](https://github.com/wg-easy/wg-easy/issues/1743#issuecomment-2726823865) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2726820276) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1742](https://github.com/wg-easy/wg-easy/issues/1742#issuecomment-2726657187) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2726648107) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
