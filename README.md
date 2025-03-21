@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently deep diving Typescript 🤣
 - 👯 I’m looking to collaborate on Typescript projects
-- 🥅 2024 Goals: Deep dive cryptography
 
 ### Connect with me
 
@@ -54,7 +53,7 @@
 
 </details>
 
-[portfolio]: https://kaaaxcreators.de
+[portfolio]: https://berndstorath.de
 [youtube]: https://link.kaaaxcreators.de/youtube
 [instagram]: https://link.kaaaxcreators.de/instagram
 [orga]: https://github.com/kaaaxcreators
