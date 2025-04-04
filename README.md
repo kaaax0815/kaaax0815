@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#272](https://github.com/martin-fink/rust-wkd-server/issues/272) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
-2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775514563) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775505809) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775465044) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#271](https://github.com/martin-fink/rust-wkd-server/issues/271) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
+1. ❗ Opened issue [#2302](https://github.com/ublue-os/bluefin/issues/2302) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. ❗ Opened issue [#272](https://github.com/martin-fink/rust-wkd-server/issues/272) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
+3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775514563) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775505809) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775465044) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
