@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2302](https://github.com/ublue-os/bluefin/issues/2302#issuecomment-2776770420) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. ❗ Opened issue [#2302](https://github.com/ublue-os/bluefin/issues/2302) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. ❗ Opened issue [#272](https://github.com/martin-fink/rust-wkd-server/issues/272) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
-4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775514563) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2775505809) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2015](https://github.com/tursodatabase/libsql/issues/2015#issuecomment-2777705050) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+2. 🗣 Commented on [#2015](https://github.com/tursodatabase/libsql/issues/2015#issuecomment-2777668082) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+3. ❗ Opened issue [#2015](https://github.com/tursodatabase/libsql/issues/2015) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+4. 🗣 Commented on [#1646](https://github.com/cross-rs/cross/issues/1646#issuecomment-2777635945) in [cross-rs/cross](https://github.com/cross-rs/cross)
+5. 🗣 Commented on [#2302](https://github.com/ublue-os/bluefin/issues/2302#issuecomment-2776770420) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
 
 </details>
