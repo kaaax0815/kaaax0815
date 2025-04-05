@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2015](https://github.com/tursodatabase/libsql/issues/2015#issuecomment-2777705050) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-2. 🗣 Commented on [#2015](https://github.com/tursodatabase/libsql/issues/2015#issuecomment-2777668082) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-3. ❗ Opened issue [#2015](https://github.com/tursodatabase/libsql/issues/2015) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-4. 🗣 Commented on [#1646](https://github.com/cross-rs/cross/issues/1646#issuecomment-2777635945) in [cross-rs/cross](https://github.com/cross-rs/cross)
-5. 🗣 Commented on [#2302](https://github.com/ublue-os/bluefin/issues/2302#issuecomment-2776770420) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#2016](https://github.com/tursodatabase/libsql/pull/2016#issuecomment-2777887124) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+2. 🗣 Commented on [#169](https://github.com/tursodatabase/libsql-js/pull/169#issuecomment-2777884404) in [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)
+3. 🗣 Commented on [#1646](https://github.com/cross-rs/cross/issues/1646#issuecomment-2777879455) in [cross-rs/cross](https://github.com/cross-rs/cross)
+4. 🔒 Closed issue [#1646](https://github.com/cross-rs/cross/issues/1646) in [cross-rs/cross](https://github.com/cross-rs/cross)
+5. 💪 Opened PR [#2016](https://github.com/tursodatabase/libsql/pull/2016) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
 <!--END_SECTION:activity-->
 
 </details>
