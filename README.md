@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 💪 Opened PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2804356037) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2803867967) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2803853502) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#279](https://github.com/martin-fink/rust-wkd-server/issues/279) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
+2. 🎉 Merged PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 💪 Opened PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2804356037) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2803867967) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
