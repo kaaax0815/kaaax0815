@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2812217300) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1817](https://github.com/wg-easy/wg-easy/issues/1817#issuecomment-2811788560) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#279](https://github.com/martin-fink/rust-wkd-server/issues/279) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
-4. 🎉 Merged PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 💪 Opened PR [#1814](https://github.com/wg-easy/wg-easy/pull/1814) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2812515646) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2812508011) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2812217300) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1817](https://github.com/wg-easy/wg-easy/issues/1817#issuecomment-2811788560) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#279](https://github.com/martin-fink/rust-wkd-server/issues/279) in [martin-fink/rust-wkd-server](https://github.com/martin-fink/rust-wkd-server)
 <!--END_SECTION:activity-->
 
 </details>
