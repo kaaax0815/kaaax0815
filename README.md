@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1829](https://github.com/wg-easy/wg-easy/pull/1829) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1829](https://github.com/wg-easy/wg-easy/pull/1829#issuecomment-2821124188) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 💪 Opened PR [#1829](https://github.com/wg-easy/wg-easy/pull/1829) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1820](https://github.com/wg-easy/wg-easy/issues/1820) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#1828](https://github.com/wg-easy/wg-easy/pull/1828) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#3328](https://github.com/nitrojs/nitro/issues/3328) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
+2. 🎉 Merged PR [#1829](https://github.com/wg-easy/wg-easy/pull/1829) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1829](https://github.com/wg-easy/wg-easy/pull/1829#issuecomment-2821124188) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#1829](https://github.com/wg-easy/wg-easy/pull/1829) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1820](https://github.com/wg-easy/wg-easy/issues/1820) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
