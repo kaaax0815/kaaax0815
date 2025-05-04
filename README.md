@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1836](https://github.com/wg-easy/wg-easy/issues/1836#issuecomment-2848607139) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1839](https://github.com/wg-easy/wg-easy/issues/1839#issuecomment-2848606147) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#1839](https://github.com/wg-easy/wg-easy/issues/1839) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ❗ Opened issue [#23](https://github.com/paulmillr/qr/issues/23) in [paulmillr/qr](https://github.com/paulmillr/qr)
-5. 🔒 Closed issue [#452](https://github.com/ranisalt/node-argon2/issues/452) in [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2)
+1. 🗣 Commented on [#1841](https://github.com/wg-easy/wg-easy/issues/1841#issuecomment-2849350863) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2849348339) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1836](https://github.com/wg-easy/wg-easy/issues/1836#issuecomment-2848607139) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1839](https://github.com/wg-easy/wg-easy/issues/1839#issuecomment-2848606147) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1839](https://github.com/wg-easy/wg-easy/issues/1839) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
