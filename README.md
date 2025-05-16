@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884752697) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884056871) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#10954](https://github.com/oxc-project/oxc/issues/10954#issuecomment-2883077377) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🗣 Commented on [#1704](https://github.com/wg-easy/wg-easy/issues/1704#issuecomment-2876323130) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1861](https://github.com/wg-easy/wg-easy/issues/1861#issuecomment-2876305144) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#499](https://github.com/nuxt/eslint/issues/499#issuecomment-2885883299) in [nuxt/eslint](https://github.com/nuxt/eslint)
+2. ❗ Opened issue [#3605](https://github.com/nuxt-modules/i18n/issues/3605) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+3. ❗ Opened issue [#32124](https://github.com/nuxt/nuxt/issues/32124) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+4. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884752697) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884056871) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
