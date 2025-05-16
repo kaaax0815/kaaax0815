@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#499](https://github.com/nuxt/eslint/issues/499#issuecomment-2885883299) in [nuxt/eslint](https://github.com/nuxt/eslint)
-2. ❗ Opened issue [#3605](https://github.com/nuxt-modules/i18n/issues/3605) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
-3. ❗ Opened issue [#32124](https://github.com/nuxt/nuxt/issues/32124) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-4. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884752697) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2884056871) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#499](https://github.com/nuxt/eslint/issues/499#issuecomment-2885993128) in [nuxt/eslint](https://github.com/nuxt/eslint)
+2. 🗣 Commented on [#499](https://github.com/nuxt/eslint/issues/499#issuecomment-2885910282) in [nuxt/eslint](https://github.com/nuxt/eslint)
+3. 🗣 Commented on [#499](https://github.com/nuxt/eslint/issues/499#issuecomment-2885883299) in [nuxt/eslint](https://github.com/nuxt/eslint)
+4. ❗ Opened issue [#3605](https://github.com/nuxt-modules/i18n/issues/3605) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+5. ❗ Opened issue [#32124](https://github.com/nuxt/nuxt/issues/32124) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
 <!--END_SECTION:activity-->
 
 </details>
