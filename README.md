@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/StefanMacke/latex-vorlage-fiae/pull/28#issuecomment-2890249211) in [StefanMacke/latex-vorlage-fiae](https://github.com/StefanMacke/latex-vorlage-fiae)
-2. 🗣 Commented on [#1865](https://github.com/wg-easy/wg-easy/issues/1865#issuecomment-2889676612) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#1865](https://github.com/wg-easy/wg-easy/issues/1865) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1864](https://github.com/wg-easy/wg-easy/pull/1864#issuecomment-2886716750) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 💪 Opened PR [#1864](https://github.com/wg-easy/wg-easy/pull/1864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🔒 Closed issue [#1868](https://github.com/wg-easy/wg-easy/issues/1868) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1868](https://github.com/wg-easy/wg-easy/issues/1868#issuecomment-2894728912) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#28](https://github.com/StefanMacke/latex-vorlage-fiae/pull/28#issuecomment-2890249211) in [StefanMacke/latex-vorlage-fiae](https://github.com/StefanMacke/latex-vorlage-fiae)
+4. 🗣 Commented on [#1865](https://github.com/wg-easy/wg-easy/issues/1865#issuecomment-2889676612) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1865](https://github.com/wg-easy/wg-easy/issues/1865) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
