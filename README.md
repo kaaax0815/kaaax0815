@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#849](https://github.com/connectrpc/connect-go/issues/849) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
-2. 🔒 Closed issue [#1879](https://github.com/wg-easy/wg-easy/issues/1879) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1879](https://github.com/wg-easy/wg-easy/issues/1879#issuecomment-2908603069) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1879](https://github.com/wg-easy/wg-easy/issues/1879) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1878](https://github.com/wg-easy/wg-easy/issues/1878#issuecomment-2908600901) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 💪 Opened PR [#1886](https://github.com/wg-easy/wg-easy/pull/1886) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#1885](https://github.com/wg-easy/wg-easy/pull/1885) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 💪 Opened PR [#1885](https://github.com/wg-easy/wg-easy/pull/1885) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. ❗ Opened issue [#849](https://github.com/connectrpc/connect-go/issues/849) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+5. 🔒 Closed issue [#1879](https://github.com/wg-easy/wg-easy/issues/1879) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
