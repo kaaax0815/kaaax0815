@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#849](https://github.com/connectrpc/connect-go/issues/849#issuecomment-2927434410) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
-2. 🔒 Closed issue [#849](https://github.com/connectrpc/connect-go/issues/849) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
-3. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2927356734) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2927343457) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-2927337642) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2928940941) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#849](https://github.com/connectrpc/connect-go/issues/849#issuecomment-2927434410) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+3. 🔒 Closed issue [#849](https://github.com/connectrpc/connect-go/issues/849) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+4. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2927356734) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2927343457) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
