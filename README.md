@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2931203677) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2930739483) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1759](https://github.com/wg-easy/wg-easy/issues/1759#issuecomment-2929506282) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2928940941) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#849](https://github.com/connectrpc/connect-go/issues/849#issuecomment-2927434410) in [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+1. 🗣 Commented on [#31995](https://github.com/nuxt/nuxt/issues/31995#issuecomment-2933568154) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2931203677) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1901](https://github.com/wg-easy/wg-easy/pull/1901#issuecomment-2930739483) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1759](https://github.com/wg-easy/wg-easy/issues/1759#issuecomment-2929506282) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2928940941) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
