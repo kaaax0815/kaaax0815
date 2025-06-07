@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1923](https://github.com/wg-easy/wg-easy/issues/1923#issuecomment-2948968290) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#1926](https://github.com/wg-easy/wg-easy/issues/1926) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1927](https://github.com/wg-easy/wg-easy/issues/1927#issuecomment-2948962590) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1929](https://github.com/wg-easy/wg-easy/issues/1929) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1930](https://github.com/wg-easy/wg-easy/issues/1930#issuecomment-2948958433) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#31995](https://github.com/nuxt/nuxt/issues/31995#issuecomment-2949214600) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. 🗣 Commented on [#1923](https://github.com/wg-easy/wg-easy/issues/1923#issuecomment-2948968290) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#1926](https://github.com/wg-easy/wg-easy/issues/1926) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1927](https://github.com/wg-easy/wg-easy/issues/1927#issuecomment-2948962590) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1929](https://github.com/wg-easy/wg-easy/issues/1929) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
