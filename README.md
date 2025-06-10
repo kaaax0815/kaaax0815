@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1939](https://github.com/wg-easy/wg-easy/pull/1939) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#1938](https://github.com/wg-easy/wg-easy/issues/1938) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1945](https://github.com/wg-easy/wg-easy/pull/1945#issuecomment-2955880626) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🎉 Merged PR [#1924](https://github.com/wg-easy/wg-easy/pull/1924) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1938](https://github.com/wg-easy/wg-easy/issues/1938#issuecomment-2954244412) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#38918](https://github.com/timburgan/timburgan/issues/38918) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 🎉 Merged PR [#1939](https://github.com/wg-easy/wg-easy/pull/1939) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#1938](https://github.com/wg-easy/wg-easy/issues/1938) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1945](https://github.com/wg-easy/wg-easy/pull/1945#issuecomment-2955880626) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🎉 Merged PR [#1924](https://github.com/wg-easy/wg-easy/pull/1924) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
