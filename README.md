@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1945](https://github.com/wg-easy/wg-easy/pull/1945#issuecomment-2958885068) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🎉 Merged PR [#1](https://github.com/dudt/wg-easy/pull/1) in [dudt/wg-easy](https://github.com/dudt/wg-easy)
-3. ❗ Opened issue [#38918](https://github.com/timburgan/timburgan/issues/38918) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. 🎉 Merged PR [#1939](https://github.com/wg-easy/wg-easy/pull/1939) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#1938](https://github.com/wg-easy/wg-easy/issues/1938) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1794](https://github.com/wg-easy/wg-easy/issues/1794#issuecomment-2965427737) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1931](https://github.com/wg-easy/wg-easy/issues/1931#issuecomment-2965408740) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1945](https://github.com/wg-easy/wg-easy/pull/1945#issuecomment-2958885068) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🎉 Merged PR [#1](https://github.com/dudt/wg-easy/pull/1) in [dudt/wg-easy](https://github.com/dudt/wg-easy)
+5. ❗ Opened issue [#38918](https://github.com/timburgan/timburgan/issues/38918) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
