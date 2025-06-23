@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3682](https://github.com/colinhacks/zod/issues/3682#issuecomment-2994979782) in [colinhacks/zod](https://github.com/colinhacks/zod)
-2. 🗣 Commented on [#1889](https://github.com/wg-easy/wg-easy/pull/1889#issuecomment-2994305713) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1978](https://github.com/wg-easy/wg-easy/pull/1978#issuecomment-2994204104) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1927](https://github.com/wg-easy/wg-easy/issues/1927#issuecomment-2971485853) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#3800](https://github.com/sqlc-dev/sqlc/issues/3800#issuecomment-2965657790) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+1. 🗣 Commented on [#1977](https://github.com/wg-easy/wg-easy/pull/1977#issuecomment-2995357985) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#1979](https://github.com/wg-easy/wg-easy/issues/1979) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#3682](https://github.com/colinhacks/zod/issues/3682#issuecomment-2994979782) in [colinhacks/zod](https://github.com/colinhacks/zod)
+4. 🗣 Commented on [#1889](https://github.com/wg-easy/wg-easy/pull/1889#issuecomment-2994305713) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#1978](https://github.com/wg-easy/wg-easy/pull/1978#issuecomment-2994204104) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
