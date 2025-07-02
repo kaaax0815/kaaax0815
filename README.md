@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1972](https://github.com/wg-easy/wg-easy/issues/1972#issuecomment-3022168288) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🚀 Published release [v15.1.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.1.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-3022048715) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1920](https://github.com/wg-easy/wg-easy/issues/1920) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#1951](https://github.com/wg-easy/wg-easy/pull/1951) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#4008](https://github.com/sqlc-dev/sqlc/issues/4008) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+2. 🗣 Commented on [#1972](https://github.com/wg-easy/wg-easy/issues/1972#issuecomment-3022168288) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🚀 Published release [v15.1.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.1.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-3022048715) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#1920](https://github.com/wg-easy/wg-easy/issues/1920) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
