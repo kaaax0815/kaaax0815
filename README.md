@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1997](https://github.com/wg-easy/wg-easy/pull/1997) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-3024101876) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#61](https://github.com/bufbuild/protovalidate-es/issues/61) in [bufbuild/protovalidate-es](https://github.com/bufbuild/protovalidate-es)
-4. ❗ Opened issue [#4008](https://github.com/sqlc-dev/sqlc/issues/4008) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
-5. 🗣 Commented on [#1972](https://github.com/wg-easy/wg-easy/issues/1972#issuecomment-3022168288) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#9064](https://github.com/tutao/tutanota/issues/9064#issuecomment-3031537588) in [tutao/tutanota](https://github.com/tutao/tutanota)
+2. 🎉 Merged PR [#1997](https://github.com/wg-easy/wg-easy/pull/1997) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-3024101876) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. ❗ Opened issue [#61](https://github.com/bufbuild/protovalidate-es/issues/61) in [bufbuild/protovalidate-es](https://github.com/bufbuild/protovalidate-es)
+5. ❗ Opened issue [#4008](https://github.com/sqlc-dev/sqlc/issues/4008) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
 <!--END_SECTION:activity-->
 
 </details>
