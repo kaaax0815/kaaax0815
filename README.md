@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/tursodatabase/libsql-js/issues/191#issuecomment-3035346589) in [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)
-2. 🗣 Commented on [#9064](https://github.com/tutao/tutanota/issues/9064#issuecomment-3031537588) in [tutao/tutanota](https://github.com/tutao/tutanota)
-3. 🎉 Merged PR [#1997](https://github.com/wg-easy/wg-easy/pull/1997) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#1907](https://github.com/wg-easy/wg-easy/issues/1907#issuecomment-3024101876) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#61](https://github.com/bufbuild/protovalidate-es/issues/61) in [bufbuild/protovalidate-es](https://github.com/bufbuild/protovalidate-es)
+1. 🗣 Commented on [#2005](https://github.com/wg-easy/wg-easy/pull/2005#issuecomment-3043571939) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2003](https://github.com/wg-easy/wg-easy/pull/2003#issuecomment-3043569614) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#191](https://github.com/tursodatabase/libsql-js/issues/191#issuecomment-3035346589) in [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)
+4. 🗣 Commented on [#9064](https://github.com/tutao/tutanota/issues/9064#issuecomment-3031537588) in [tutao/tutanota](https://github.com/tutao/tutanota)
+5. 🎉 Merged PR [#1997](https://github.com/wg-easy/wg-easy/pull/1997) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
