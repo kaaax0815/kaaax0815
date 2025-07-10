@@ -1,15 +1,15 @@
-### Hi there, I'm Bernd - aka [kaaax0815][portfolio] or [kaaaxcreators][orga] 👋
+### Hi there, I'm Bernd - aka [kaaax0815][portfolio] 👋
 
-## I'm 19 years old
+## I'm 20 years old
 
-- 🌱 I’m currently deep diving Typescript 🤣
-- 👯 I’m looking to collaborate on Typescript projects
+- 🌱 I’m currently learning Golang
+- 🛠️ I'm maintaining the [wg-easy project][wg-easy]
+- 💼 I'm working full-time as a software developer
 
 ### Connect with me
 
-[<img align="left" alt="kaaaxcreators.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="kaaaxcreators" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="true.bernd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="berndstorath.de" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Globe.svg" />][portfolio]
+[<img align="left" alt="Bernd Storath" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" color="#fff" />][linkedin]
 
 <br />
 
@@ -54,7 +54,7 @@
 </details>
 
 [portfolio]: https://berndstorath.de
-[youtube]: https://link.kaaaxcreators.de/youtube
-[instagram]: https://link.kaaaxcreators.de/instagram
-[orga]: https://github.com/kaaaxcreators
+[linkedin]: https://www.linkedin.com/in/bernd-storath-522090235/
+[wg-easy]: https://github.com/wg-easy/wg-easy
+
 ![](https://hit.yhype.me/github/profile?user_id=32197462)
