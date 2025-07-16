@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32634](https://github.com/nuxt/nuxt/issues/32634) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. ❗ Opened issue [#7](https://github.com/Eschricht/nuxt-color-mode/issues/7) in [Eschricht/nuxt-color-mode](https://github.com/Eschricht/nuxt-color-mode)
-3. 🗣 Commented on [#2018](https://github.com/wg-easy/wg-easy/pull/2018#issuecomment-3068239963) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🎉 Merged PR [#2018](https://github.com/wg-easy/wg-easy/pull/2018) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2029](https://github.com/wg-easy/wg-easy/pull/2029#issuecomment-3068110430) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#31995](https://github.com/nuxt/nuxt/issues/31995#issuecomment-3078197285) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. 🔒 Closed issue [#31995](https://github.com/nuxt/nuxt/issues/31995) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+3. 💪 Opened PR [#2037](https://github.com/wg-easy/wg-easy/pull/2037) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2034](https://github.com/wg-easy/wg-easy/issues/2034#issuecomment-3078162730) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#32634](https://github.com/nuxt/nuxt/issues/32634) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
 <!--END_SECTION:activity-->
 
 </details>
