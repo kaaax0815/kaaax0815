@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31995](https://github.com/nuxt/nuxt/issues/31995#issuecomment-3078197285) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. 🔒 Closed issue [#31995](https://github.com/nuxt/nuxt/issues/31995) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-3. 💪 Opened PR [#2037](https://github.com/wg-easy/wg-easy/pull/2037) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2034](https://github.com/wg-easy/wg-easy/issues/2034#issuecomment-3078162730) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#32634](https://github.com/nuxt/nuxt/issues/32634) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+1. 🗣 Commented on [#2034](https://github.com/wg-easy/wg-easy/issues/2034#issuecomment-3078281302) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#31995](https://github.com/nuxt/nuxt/issues/31995#issuecomment-3078197285) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+3. 🔒 Closed issue [#31995](https://github.com/nuxt/nuxt/issues/31995) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+4. 💪 Opened PR [#2037](https://github.com/wg-easy/wg-easy/pull/2037) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2034](https://github.com/wg-easy/wg-easy/issues/2034#issuecomment-3078162730) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
