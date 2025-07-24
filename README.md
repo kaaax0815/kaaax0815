@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2982](https://github.com/grpc/grpc-node/issues/2982#issuecomment-3109998717) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
-2. 🗣 Commented on [#2982](https://github.com/grpc/grpc-node/issues/2982#issuecomment-3109932800) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
-3. 🗣 Commented on [#2038](https://github.com/wg-easy/wg-easy/issues/2038#issuecomment-3102662273) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2038](https://github.com/wg-easy/wg-easy/issues/2038#issuecomment-3101650884) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2038](https://github.com/wg-easy/wg-easy/issues/2038#issuecomment-3101169776) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#1231](https://github.com/docker/docker-ce-packaging/issues/1231) in [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging)
+2. 🗣 Commented on [#2982](https://github.com/grpc/grpc-node/issues/2982#issuecomment-3109998717) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
+3. 🗣 Commented on [#2982](https://github.com/grpc/grpc-node/issues/2982#issuecomment-3109932800) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
+4. 🗣 Commented on [#2038](https://github.com/wg-easy/wg-easy/issues/2038#issuecomment-3102662273) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2038](https://github.com/wg-easy/wg-easy/issues/2038#issuecomment-3101650884) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
