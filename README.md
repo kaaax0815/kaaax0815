@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2065](https://github.com/wg-easy/wg-easy/pull/2065#issuecomment-3135278407) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🎉 Merged PR [#2065](https://github.com/wg-easy/wg-easy/pull/2065) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#65](https://github.com/wasilibs/go-protoc-gen-es/issues/65#issuecomment-3126764798) in [wasilibs/go-protoc-gen-es](https://github.com/wasilibs/go-protoc-gen-es)
-4. ❗ Opened issue [#65](https://github.com/wasilibs/go-protoc-gen-es/issues/65) in [wasilibs/go-protoc-gen-es](https://github.com/wasilibs/go-protoc-gen-es)
-5. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3113407947) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🔒 Closed issue [#2069](https://github.com/wg-easy/wg-easy/issues/2069) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2065](https://github.com/wg-easy/wg-easy/pull/2065#issuecomment-3135278407) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🎉 Merged PR [#2065](https://github.com/wg-easy/wg-easy/pull/2065) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#65](https://github.com/wasilibs/go-protoc-gen-es/issues/65#issuecomment-3126764798) in [wasilibs/go-protoc-gen-es](https://github.com/wasilibs/go-protoc-gen-es)
+5. ❗ Opened issue [#65](https://github.com/wasilibs/go-protoc-gen-es/issues/65) in [wasilibs/go-protoc-gen-es](https://github.com/wasilibs/go-protoc-gen-es)
 <!--END_SECTION:activity-->
 
 </details>
