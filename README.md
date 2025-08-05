@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4008](https://github.com/sqlc-dev/sqlc/issues/4008#issuecomment-3153390607) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
-2. 🔒 Closed issue [#2069](https://github.com/wg-easy/wg-easy/issues/2069) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2065](https://github.com/wg-easy/wg-easy/pull/2065#issuecomment-3135278407) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🎉 Merged PR [#2065](https://github.com/wg-easy/wg-easy/pull/2065) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#65](https://github.com/wasilibs/go-protoc-gen-es/issues/65#issuecomment-3126764798) in [wasilibs/go-protoc-gen-es](https://github.com/wasilibs/go-protoc-gen-es)
+1. 🗣 Commented on [#2070](https://github.com/wg-easy/wg-easy/pull/2070#issuecomment-3153699786) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2070](https://github.com/wg-easy/wg-easy/pull/2070#issuecomment-3153667862) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🎉 Merged PR [#2070](https://github.com/wg-easy/wg-easy/pull/2070) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#4008](https://github.com/sqlc-dev/sqlc/issues/4008#issuecomment-3153390607) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+5. 🔒 Closed issue [#2069](https://github.com/wg-easy/wg-easy/issues/2069) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
