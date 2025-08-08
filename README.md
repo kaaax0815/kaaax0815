@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8367](https://github.com/mullvad/mullvadvpn-app/issues/8367#issuecomment-3164184012) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-2. 🗣 Commented on [#2085](https://github.com/wg-easy/wg-easy/issues/2085#issuecomment-3163240833) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2068](https://github.com/wg-easy/wg-easy/issues/2068#issuecomment-3162880878) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2068](https://github.com/wg-easy/wg-easy/issues/2068#issuecomment-3162840161) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2085](https://github.com/wg-easy/wg-easy/issues/2085#issuecomment-3162836013) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2077](https://github.com/wg-easy/wg-easy/pull/2077#issuecomment-3168808248) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#2077](https://github.com/wg-easy/wg-easy/pull/2077) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#8367](https://github.com/mullvad/mullvadvpn-app/issues/8367#issuecomment-3164184012) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+4. 🗣 Commented on [#2085](https://github.com/wg-easy/wg-easy/issues/2085#issuecomment-3163240833) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2068](https://github.com/wg-easy/wg-easy/issues/2068#issuecomment-3162880878) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
