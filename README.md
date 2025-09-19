@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module/pull/88#issuecomment-3293424556) in [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module)
-2. 🗣 Commented on [#2163](https://github.com/wg-easy/wg-easy/issues/2163#issuecomment-3293419344) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2163](https://github.com/wg-easy/wg-easy/issues/2163) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2152](https://github.com/wg-easy/wg-easy/issues/2152#issuecomment-3288694464) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2152](https://github.com/wg-easy/wg-easy/issues/2152#issuecomment-3288692921) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2171](https://github.com/wg-easy/wg-easy/issues/2171#issuecomment-3311502889) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2172](https://github.com/wg-easy/wg-easy/issues/2172#issuecomment-3311478642) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2172](https://github.com/wg-easy/wg-easy/issues/2172) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2171](https://github.com/wg-easy/wg-easy/issues/2171#issuecomment-3311475158) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#88](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module/pull/88#issuecomment-3293424556) in [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module)
 <!--END_SECTION:activity-->
 
 </details>
