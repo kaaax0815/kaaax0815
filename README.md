@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2175](https://github.com/wg-easy/wg-easy/pull/2175#issuecomment-3335664222) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2147](https://github.com/wg-easy/wg-easy/pull/2147#issuecomment-3328797086) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2147](https://github.com/wg-easy/wg-easy/pull/2147#issuecomment-3328645117) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2181](https://github.com/wg-easy/wg-easy/pull/2181#issuecomment-3328627085) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2181](https://github.com/wg-easy/wg-easy/pull/2181#issuecomment-3327282764) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#706](https://github.com/Diizzayy/nuxt-graphql-client/issues/706) in [Diizzayy/nuxt-graphql-client](https://github.com/Diizzayy/nuxt-graphql-client)
+2. 🗣 Commented on [#2175](https://github.com/wg-easy/wg-easy/pull/2175#issuecomment-3335664222) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2147](https://github.com/wg-easy/wg-easy/pull/2147#issuecomment-3328797086) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2147](https://github.com/wg-easy/wg-easy/pull/2147#issuecomment-3328645117) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2181](https://github.com/wg-easy/wg-easy/pull/2181#issuecomment-3328627085) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
