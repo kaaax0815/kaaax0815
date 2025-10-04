@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1496](https://github.com/aptly-dev/aptly/issues/1496) in [aptly-dev/aptly](https://github.com/aptly-dev/aptly)
-2. 🗣 Commented on [#17](https://github.com/strapi/rfcs/pull/17#issuecomment-3347230217) in [strapi/rfcs](https://github.com/strapi/rfcs)
-3. 🔓 Reopened issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2189](https://github.com/wg-easy/wg-easy/issues/2189#issuecomment-3345257693) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2186](https://github.com/wg-easy/wg-easy/issues/2186) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2194](https://github.com/wg-easy/wg-easy/pull/2194#issuecomment-3366285240) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2195](https://github.com/wg-easy/wg-easy/pull/2195#issuecomment-3366273236) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❌ Closed PR [#2195](https://github.com/wg-easy/wg-easy/pull/2195) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. ❗ Opened issue [#1496](https://github.com/aptly-dev/aptly/issues/1496) in [aptly-dev/aptly](https://github.com/aptly-dev/aptly)
+5. 🗣 Commented on [#17](https://github.com/strapi/rfcs/pull/17#issuecomment-3347230217) in [strapi/rfcs](https://github.com/strapi/rfcs)
 <!--END_SECTION:activity-->
 
 </details>
