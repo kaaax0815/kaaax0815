@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#706](https://github.com/Diizzayy/nuxt-graphql-client/issues/706) in [Diizzayy/nuxt-graphql-client](https://github.com/Diizzayy/nuxt-graphql-client)
-2. 🗣 Commented on [#2204](https://github.com/wg-easy/wg-easy/issues/2204#issuecomment-3381609284) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2204](https://github.com/wg-easy/wg-easy/issues/2204) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2175](https://github.com/wg-easy/wg-easy/pull/2175#issuecomment-3381593689) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#2175](https://github.com/wg-easy/wg-easy/pull/2175) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❌ Closed PR [#2205](https://github.com/wg-easy/wg-easy/pull/2205) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2205](https://github.com/wg-easy/wg-easy/pull/2205#issuecomment-3381956436) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#706](https://github.com/Diizzayy/nuxt-graphql-client/issues/706) in [Diizzayy/nuxt-graphql-client](https://github.com/Diizzayy/nuxt-graphql-client)
+4. 🗣 Commented on [#2204](https://github.com/wg-easy/wg-easy/issues/2204#issuecomment-3381609284) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#2204](https://github.com/wg-easy/wg-easy/issues/2204) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
