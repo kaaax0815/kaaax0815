@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2210](https://github.com/wg-easy/wg-easy/issues/2210#issuecomment-3396096586) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2211](https://github.com/wg-easy/wg-easy/issues/2211#issuecomment-3396093856) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1795](https://github.com/wg-easy/wg-easy/issues/1795#issuecomment-3395254368) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#56](https://github.com/freb97/nuxt-strapi-blocks-renderer/issues/56#issuecomment-3392323075) in [freb97/nuxt-strapi-blocks-renderer](https://github.com/freb97/nuxt-strapi-blocks-renderer)
-5. 🔒 Closed issue [#56](https://github.com/freb97/nuxt-strapi-blocks-renderer/issues/56) in [freb97/nuxt-strapi-blocks-renderer](https://github.com/freb97/nuxt-strapi-blocks-renderer)
+1. 🗣 Commented on [#2210](https://github.com/wg-easy/wg-easy/issues/2210#issuecomment-3396257792) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2210](https://github.com/wg-easy/wg-easy/issues/2210#issuecomment-3396096586) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2211](https://github.com/wg-easy/wg-easy/issues/2211#issuecomment-3396093856) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#1795](https://github.com/wg-easy/wg-easy/issues/1795#issuecomment-3395254368) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#56](https://github.com/freb97/nuxt-strapi-blocks-renderer/issues/56#issuecomment-3392323075) in [freb97/nuxt-strapi-blocks-renderer](https://github.com/freb97/nuxt-strapi-blocks-renderer)
 <!--END_SECTION:activity-->
 
 </details>
