@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2146](https://github.com/wg-easy/wg-easy/issues/2146#issuecomment-3411068330) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#191](https://github.com/tursodatabase/libsql-js/issues/191) in [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)
-3. 🗣 Commented on [#191](https://github.com/tursodatabase/libsql-js/issues/191#issuecomment-3410167064) in [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)
-4. 🗣 Commented on [#2218](https://github.com/wg-easy/wg-easy/issues/2218#issuecomment-3409327967) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2218](https://github.com/wg-easy/wg-easy/issues/2218) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2220](https://github.com/wg-easy/wg-easy/issues/2220#issuecomment-3420692100) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔓 Reopened issue [#1701](https://github.com/wg-easy/wg-easy/issues/1701) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1701](https://github.com/wg-easy/wg-easy/issues/1701#issuecomment-3420690294) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2170](https://github.com/wg-easy/wg-easy/pull/2170#issuecomment-3420687579) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2146](https://github.com/wg-easy/wg-easy/issues/2146#issuecomment-3411068330) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
