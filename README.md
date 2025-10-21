@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔓 Reopened issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2898](https://github.com/nvm-sh/nvm/issues/2898#issuecomment-3426226374) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-4.  Unlabeled issue [#2171](https://github.com/wg-easy/wg-easy/issues/2171) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2174](https://github.com/wg-easy/wg-easy/issues/2174) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1904](https://github.com/wg-easy/wg-easy/issues/1904#issuecomment-3429040988) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2.  Unlabeled issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔓 Reopened issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2898](https://github.com/nvm-sh/nvm/issues/2898#issuecomment-3426226374) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+5.  Unlabeled issue [#2171](https://github.com/wg-easy/wg-easy/issues/2171) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
