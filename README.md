@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1469](https://github.com/Schniz/fnm/issues/1469#issuecomment-3430847870) in [Schniz/fnm](https://github.com/Schniz/fnm)
-2. 🗣 Commented on [#1904](https://github.com/wg-easy/wg-easy/issues/1904#issuecomment-3429040988) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3.  Unlabeled issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔓 Reopened issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2898](https://github.com/nvm-sh/nvm/issues/2898#issuecomment-3426226374) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+1. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3432149672) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#1469](https://github.com/Schniz/fnm/issues/1469#issuecomment-3430847870) in [Schniz/fnm](https://github.com/Schniz/fnm)
+3. 🗣 Commented on [#1904](https://github.com/wg-easy/wg-easy/issues/1904#issuecomment-3429040988) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4.  Unlabeled issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔓 Reopened issue [#1904](https://github.com/wg-easy/wg-easy/issues/1904) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
