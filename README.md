@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2232](https://github.com/wg-easy/wg-easy/issues/2232) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2232](https://github.com/wg-easy/wg-easy/issues/2232#issuecomment-3449870225) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2234](https://github.com/wg-easy/wg-easy/issues/2234#issuecomment-3449864236) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2235](https://github.com/wg-easy/wg-easy/issues/2235#issuecomment-3449862442) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2236](https://github.com/wg-easy/wg-easy/issues/2236#issuecomment-3449859128) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2246](https://github.com/wg-easy/wg-easy/issues/2246#issuecomment-3455611406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#2246](https://github.com/wg-easy/wg-easy/issues/2246) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔓 Reopened issue [#1802](https://github.com/wg-easy/wg-easy/issues/1802) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#5](https://github.com/h3js/rendu/issues/5) in [h3js/rendu](https://github.com/h3js/rendu)
+5. 🔒 Closed issue [#2232](https://github.com/wg-easy/wg-easy/issues/2232) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
