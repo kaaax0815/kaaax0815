@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2253](https://github.com/wg-easy/wg-easy/pull/2253#issuecomment-3471841803) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2.  Unlabeled issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2246](https://github.com/wg-easy/wg-easy/issues/2246#issuecomment-3455611406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2246](https://github.com/wg-easy/wg-easy/issues/2246) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔓 Reopened issue [#1802](https://github.com/wg-easy/wg-easy/issues/1802) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1.  Labeled issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+2. ❗ Opened issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+3. 🗣 Commented on [#2253](https://github.com/wg-easy/wg-easy/pull/2253#issuecomment-3471841803) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4.  Unlabeled issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2246](https://github.com/wg-easy/wg-easy/issues/2246#issuecomment-3455611406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
