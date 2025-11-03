@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2146](https://github.com/wg-easy/wg-easy/issues/2146#issuecomment-3474576891) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2.  Labeled issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-3. ❗ Opened issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-4. 🗣 Commented on [#2253](https://github.com/wg-easy/wg-easy/pull/2253#issuecomment-3471841803) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5.  Unlabeled issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 💪 Opened PR [#29](undefined) in [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools)
+2. 🗣 Commented on [#2257](https://github.com/wg-easy/wg-easy/pull/2257#issuecomment-3480101314) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2146](https://github.com/wg-easy/wg-easy/issues/2146#issuecomment-3474576891) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4.  Labeled issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+5. ❗ Opened issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 <!--END_SECTION:activity-->
 
 </details>
