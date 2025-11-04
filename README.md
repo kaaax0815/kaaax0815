@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2261](https://github.com/wg-easy/wg-easy/issues/2261) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2261](https://github.com/wg-easy/wg-easy/issues/2261#issuecomment-3484152864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❌ Closed PR [#2257](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2257](https://github.com/wg-easy/wg-easy/pull/2257#issuecomment-3480450210) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 💪 Opened PR [#29](undefined) in [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools)
+1. ❗ Opened issue [#192](https://github.com/nodejs/unofficial-builds/issues/192) in [nodejs/unofficial-builds](https://github.com/nodejs/unofficial-builds)
+2. 🗣 Commented on [#1361](https://github.com/Schniz/fnm/pull/1361#issuecomment-3484636396) in [Schniz/fnm](https://github.com/Schniz/fnm)
+3. 🗣 Commented on [#698](https://github.com/unjs/unstorage/issues/698#issuecomment-3484555996) in [unjs/unstorage](https://github.com/unjs/unstorage)
+4. 🔒 Closed issue [#2261](https://github.com/wg-easy/wg-easy/issues/2261) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2261](https://github.com/wg-easy/wg-easy/issues/2261#issuecomment-3484152864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
