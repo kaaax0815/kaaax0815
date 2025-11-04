@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2226](https://github.com/wg-easy/wg-easy/pull/2226#issuecomment-3485706162) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#2262](https://github.com/wg-easy/wg-easy/issues/2262) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2262](https://github.com/wg-easy/wg-easy/issues/2262#issuecomment-3485686965) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ❗ Opened issue [#192](https://github.com/nodejs/unofficial-builds/issues/192) in [nodejs/unofficial-builds](https://github.com/nodejs/unofficial-builds)
-5. 🗣 Commented on [#1361](https://github.com/Schniz/fnm/pull/1361#issuecomment-3484636396) in [Schniz/fnm](https://github.com/Schniz/fnm)
+1. 🗣 Commented on [#80](https://github.com/nativescript-community/https/issues/80#issuecomment-3486365836) in [nativescript-community/https](https://github.com/nativescript-community/https)
+2. 🗣 Commented on [#2263](https://github.com/wg-easy/wg-easy/issues/2263#issuecomment-3486314943) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2226](https://github.com/wg-easy/wg-easy/pull/2226#issuecomment-3485706162) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2262](https://github.com/wg-easy/wg-easy/issues/2262) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2262](https://github.com/wg-easy/wg-easy/issues/2262#issuecomment-3485686965) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
