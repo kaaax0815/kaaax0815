@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2257](https://github.com/wg-easy/wg-easy/pull/2257#issuecomment-3480450210) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 💪 Opened PR [#29](undefined) in [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools)
-3. 🗣 Commented on [#2257](https://github.com/wg-easy/wg-easy/pull/2257#issuecomment-3480101314) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2146](https://github.com/wg-easy/wg-easy/issues/2146#issuecomment-3474576891) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5.  Labeled issue [#857](https://github.com/charmbracelet/bubbles/issues/857) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+1. 🔒 Closed issue [#2261](https://github.com/wg-easy/wg-easy/issues/2261) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2261](https://github.com/wg-easy/wg-easy/issues/2261#issuecomment-3484152864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❌ Closed PR [#2257](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2257](https://github.com/wg-easy/wg-easy/pull/2257#issuecomment-3480450210) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#29](undefined) in [WireGuard/wireguard-tools](https://github.com/WireGuard/wireguard-tools)
 <!--END_SECTION:activity-->
 
 </details>
