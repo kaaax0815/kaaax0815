@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1533](https://github.com/charmbracelet/bubbletea/issues/1533) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-2. ❗ Opened issue [#1533](https://github.com/charmbracelet/bubbletea/issues/1533) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-3. 🗣 Commented on [#2264](https://github.com/wg-easy/wg-easy/issues/2264#issuecomment-3489750192) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#80](https://github.com/nativescript-community/https/issues/80#issuecomment-3486365836) in [nativescript-community/https](https://github.com/nativescript-community/https)
-5. 🗣 Commented on [#2263](https://github.com/wg-easy/wg-easy/issues/2263#issuecomment-3486314943) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1.  Unlabeled issue [#2192](https://github.com/wg-easy/wg-easy/issues/2192) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2.  Labeled issue [#1533](https://github.com/charmbracelet/bubbletea/issues/1533) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+3. ❗ Opened issue [#1533](https://github.com/charmbracelet/bubbletea/issues/1533) in [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+4. 🗣 Commented on [#2264](https://github.com/wg-easy/wg-easy/issues/2264#issuecomment-3489750192) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#80](https://github.com/nativescript-community/https/issues/80#issuecomment-3486365836) in [nativescript-community/https](https://github.com/nativescript-community/https)
 <!--END_SECTION:activity-->
 
 </details>
