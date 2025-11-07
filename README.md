@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2267](https://github.com/wg-easy/wg-easy/pull/2267#issuecomment-3501035316) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#1289](https://github.com/actions/stale/issues/1289#issuecomment-3495890625) in [actions/stale](https://github.com/actions/stale)
-3.  Labeled issue [#1302](https://github.com/actions/stale/issues/1302) in [actions/stale](https://github.com/actions/stale)
+1.  Unlabeled issue [#2200](https://github.com/wg-easy/wg-easy/issues/2200) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2267](https://github.com/wg-easy/wg-easy/pull/2267#issuecomment-3501035316) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1289](https://github.com/actions/stale/issues/1289#issuecomment-3495890625) in [actions/stale](https://github.com/actions/stale)
 4.  Labeled issue [#1302](https://github.com/actions/stale/issues/1302) in [actions/stale](https://github.com/actions/stale)
-5. ❗ Opened issue [#1302](https://github.com/actions/stale/issues/1302) in [actions/stale](https://github.com/actions/stale)
+5.  Labeled issue [#1302](https://github.com/actions/stale/issues/1302) in [actions/stale](https://github.com/actions/stale)
 <!--END_SECTION:activity-->
 
 </details>
