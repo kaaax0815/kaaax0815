@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3540834921) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3540775069) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3540570229) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2285](https://github.com/wg-easy/wg-easy/pull/2285#issuecomment-3540239424) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3533026709) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❌ Unassigned PR [#2283](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541107142) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❌ Unassigned PR [#2283](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541056221) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541012421) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
