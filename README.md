@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Unassigned PR [#2283](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541107142) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❌ Unassigned PR [#2283](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541056221) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2283](https://github.com/wg-easy/wg-easy/pull/2283#issuecomment-3541012421) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2226](https://github.com/wg-easy/wg-easy/pull/2226#issuecomment-3542339557) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔓 Reopened issue [#2019](https://github.com/wg-easy/wg-easy/issues/2019) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔓 Reopened issue [#1500](https://github.com/wg-easy/wg-easy/issues/1500) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4.  Unlabeled issue [#1500](https://github.com/wg-easy/wg-easy/issues/1500) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5.  Unlabeled issue [#1500](https://github.com/wg-easy/wg-easy/issues/1500) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
