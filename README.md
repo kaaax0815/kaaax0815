@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2308](https://github.com/wg-easy/wg-easy/issues/2308) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2308](https://github.com/wg-easy/wg-easy/issues/2308#issuecomment-3579571130) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4.  Labeled issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 💪 Opened PR [#2307](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#8073](https://github.com/immich-app/immich/issues/8073#issuecomment-3580863428) in [immich-app/immich](https://github.com/immich-app/immich)
+2.  Labeled issue [#2308](https://github.com/wg-easy/wg-easy/issues/2308) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2308](https://github.com/wg-easy/wg-easy/issues/2308#issuecomment-3579571130) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5.  Labeled issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
