@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2.  Labeled issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 💪 Opened PR [#2307](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#27254](https://github.com/containers/podman/issues/27254#issuecomment-3569720109) in [containers/podman](https://github.com/containers/podman)
-5. ❗ Opened issue [#122](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module/issues/122) in [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module)
+1.  Labeled issue [#2308](https://github.com/wg-easy/wg-easy/issues/2308) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2308](https://github.com/wg-easy/wg-easy/issues/2308#issuecomment-3579571130) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4.  Labeled issue [#2306](https://github.com/wg-easy/wg-easy/issues/2306) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#2307](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
