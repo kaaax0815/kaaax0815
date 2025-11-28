@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2310](https://github.com/wg-easy/wg-easy/issues/2310) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2310](https://github.com/wg-easy/wg-easy/issues/2310#issuecomment-3585393018) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#50](https://github.com/amnezia-vpn/amneziawg-android/issues/50) in [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android)
-4. 🗣 Commented on [#8073](https://github.com/immich-app/immich/issues/8073#issuecomment-3580863428) in [immich-app/immich](https://github.com/immich-app/immich)
-5.  Labeled issue [#2308](https://github.com/wg-easy/wg-easy/issues/2308) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1.  Unlabeled issue [#2136](https://github.com/wg-easy/wg-easy/issues/2136) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2.  Unlabeled issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2310](https://github.com/wg-easy/wg-easy/issues/2310) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2310](https://github.com/wg-easy/wg-easy/issues/2310#issuecomment-3585393018) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#50](https://github.com/amnezia-vpn/amneziawg-android/issues/50) in [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android)
 <!--END_SECTION:activity-->
 
 </details>
