@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#2136](https://github.com/wg-easy/wg-easy/issues/2136) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2.  Unlabeled issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2310](https://github.com/wg-easy/wg-easy/issues/2310) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2310](https://github.com/wg-easy/wg-easy/issues/2310#issuecomment-3585393018) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#50](https://github.com/amnezia-vpn/amneziawg-android/issues/50) in [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android)
+1. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3595465575) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🚀 Published release [v15.2.0-beta.3](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0-beta.3) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#1987](https://github.com/wg-easy/wg-easy/issues/1987#issuecomment-3595427011) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔓 Reopened issue [#1987](https://github.com/wg-easy/wg-easy/issues/1987) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🚀 Published release [v15.2.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
