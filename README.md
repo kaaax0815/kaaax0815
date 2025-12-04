@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#111](https://github.com/Dictionarry-Hub/database/issues/111) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
-2. 🔒 Closed issue [#2322](https://github.com/wg-easy/wg-easy/issues/2322) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2322](https://github.com/wg-easy/wg-easy/issues/2322#issuecomment-3606916240) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2322](https://github.com/wg-easy/wg-easy/issues/2322#issuecomment-3605768477) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❗ Opened issue [#565](https://github.com/spf13/afero/issues/565) in [spf13/afero](https://github.com/spf13/afero)
+1. 🔒 Closed issue [#111](https://github.com/Dictionarry-Hub/database/issues/111) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
+2. 🗣 Commented on [#111](https://github.com/Dictionarry-Hub/database/issues/111#issuecomment-3612597443) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
+3. 🗣 Commented on [#111](https://github.com/Dictionarry-Hub/database/issues/111#issuecomment-3612573846) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
+4. 💪 Opened PR [#112](undefined) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
+5. ❗ Opened issue [#111](https://github.com/Dictionarry-Hub/database/issues/111) in [Dictionarry-Hub/database](https://github.com/Dictionarry-Hub/database)
 <!--END_SECTION:activity-->
 
 </details>
