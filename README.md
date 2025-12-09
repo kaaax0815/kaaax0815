@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/paulmillr/qr/issues/34#issuecomment-3627041551) in [paulmillr/qr](https://github.com/paulmillr/qr)
-2. 🔒 Closed issue [#34](https://github.com/paulmillr/qr/issues/34) in [paulmillr/qr](https://github.com/paulmillr/qr)
-3. ❗ Opened issue [#2124](https://github.com/nuxt/nuxt.com/issues/2124) in [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com)
-4. ❗ Opened issue [#34](https://github.com/paulmillr/qr/issues/34) in [paulmillr/qr](https://github.com/paulmillr/qr)
-5. 🗣 Commented on [#2320](https://github.com/wg-easy/wg-easy/issues/2320#issuecomment-3626073850) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3630989388) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#34](https://github.com/paulmillr/qr/issues/34#issuecomment-3627041551) in [paulmillr/qr](https://github.com/paulmillr/qr)
+3. 🔒 Closed issue [#34](https://github.com/paulmillr/qr/issues/34) in [paulmillr/qr](https://github.com/paulmillr/qr)
+4. ❗ Opened issue [#2124](https://github.com/nuxt/nuxt.com/issues/2124) in [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com)
+5. ❗ Opened issue [#34](https://github.com/paulmillr/qr/issues/34) in [paulmillr/qr](https://github.com/paulmillr/qr)
 <!--END_SECTION:activity-->
 
 </details>
