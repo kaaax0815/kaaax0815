@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2357](https://github.com/wg-easy/wg-easy/issues/2357) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2357](https://github.com/wg-easy/wg-easy/issues/2357#issuecomment-3691745909) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❌ Closed PR [#2347](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#470](https://github.com/lucaslorentz/caddy-docker-proxy/issues/470#issuecomment-3665272742) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-5. 🗣 Commented on [#2339](https://github.com/wg-easy/wg-easy/pull/2339#issuecomment-3645271330) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❌ Merged PR [#2370](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#2327](https://github.com/wg-easy/wg-easy/issues/2327) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2356](https://github.com/wg-easy/wg-easy/issues/2356#issuecomment-3697175155) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#2370](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❌ Merged PR [#2369](undefined) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
