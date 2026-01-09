@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/obsidianforensics/unfurl/issues/86#issuecomment-3724219879) in [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
-2. ❗ Opened issue [#1379](https://github.com/primefaces/primeicons/issues/1379) in [primefaces/primeicons](https://github.com/primefaces/primeicons)
-3. ℹ️ Labeled issue [#2376](https://github.com/wg-easy/wg-easy/issues/2376) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2378](https://github.com/wg-easy/wg-easy/issues/2378#issuecomment-3717662082) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2378](https://github.com/wg-easy/wg-easy/issues/2378) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#4785](https://github.com/traefik/traefik/issues/4785#issuecomment-3728742616) in [traefik/traefik](https://github.com/traefik/traefik)
+2. 🗣 Commented on [#86](https://github.com/obsidianforensics/unfurl/issues/86#issuecomment-3724219879) in [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
+3. ❗ Opened issue [#1379](https://github.com/primefaces/primeicons/issues/1379) in [primefaces/primeicons](https://github.com/primefaces/primeicons)
+4. ℹ️ Labeled issue [#2376](https://github.com/wg-easy/wg-easy/issues/2376) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2378](https://github.com/wg-easy/wg-easy/issues/2378#issuecomment-3717662082) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
