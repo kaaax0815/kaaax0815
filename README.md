@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v15.2.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2380](https://github.com/wg-easy/wg-easy/pull/2380#issuecomment-3737189870) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#4785](https://github.com/traefik/traefik/issues/4785#issuecomment-3728742616) in [traefik/traefik](https://github.com/traefik/traefik)
-4. 🗣 Commented on [#86](https://github.com/obsidianforensics/unfurl/issues/86#issuecomment-3724219879) in [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
-5. ❗ Opened issue [#1379](https://github.com/primefaces/primeicons/issues/1379) in [primefaces/primeicons](https://github.com/primefaces/primeicons)
+1. 🗣 Commented on [#2392](https://github.com/wg-easy/wg-easy/pull/2392#issuecomment-3737944071) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🚀 Published release [v15.2.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2380](https://github.com/wg-easy/wg-easy/pull/2380#issuecomment-3737189870) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#4785](https://github.com/traefik/traefik/issues/4785#issuecomment-3728742616) in [traefik/traefik](https://github.com/traefik/traefik)
+5. 🗣 Commented on [#86](https://github.com/obsidianforensics/unfurl/issues/86#issuecomment-3724219879) in [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
 <!--END_SECTION:activity-->
 
 </details>
