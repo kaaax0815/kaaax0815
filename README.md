@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2390](https://github.com/wg-easy/wg-easy/issues/2390#issuecomment-3743768368) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#50](https://github.com/amnezia-vpn/amneziawg-android/issues/50#issuecomment-3743761263) in [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android)
-3. 🗣 Commented on [#2390](https://github.com/wg-easy/wg-easy/issues/2390#issuecomment-3743726333) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 💪 Opened PR [#2399](https://github.com/wg-easy/wg-easy/pull/2399) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2390](https://github.com/wg-easy/wg-easy/issues/2390#issuecomment-3743105760) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2400](https://github.com/wg-easy/wg-easy/issues/2400#issuecomment-3744007724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#2400](https://github.com/wg-easy/wg-easy/issues/2400) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#3908](https://github.com/nuxt-modules/i18n/issues/3908#issuecomment-3743991442) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+4. 🔒 Closed issue [#3908](https://github.com/nuxt-modules/i18n/issues/3908) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+5. ℹ️ Labeled issue [#3908](https://github.com/nuxt-modules/i18n/issues/3908) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
 <!--END_SECTION:activity-->
 
 </details>
