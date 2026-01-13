@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2392](https://github.com/wg-easy/wg-easy/pull/2392#issuecomment-3737944071) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🚀 Published release [v15.2.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2380](https://github.com/wg-easy/wg-easy/pull/2380#issuecomment-3737189870) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#4785](https://github.com/traefik/traefik/issues/4785#issuecomment-3728742616) in [traefik/traefik](https://github.com/traefik/traefik)
-5. 🗣 Commented on [#86](https://github.com/obsidianforensics/unfurl/issues/86#issuecomment-3724219879) in [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
+1. 🗣 Commented on [#2393](https://github.com/wg-easy/wg-easy/pull/2393#issuecomment-3742458673) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2390](https://github.com/wg-easy/wg-easy/issues/2390#issuecomment-3742424625) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2395](https://github.com/wg-easy/wg-easy/issues/2395) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2395](https://github.com/wg-easy/wg-easy/issues/2395#issuecomment-3742383406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🚀 Published release [v15.2.0](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.0) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
