@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned PR [#1](https://github.com/kaaax0815/wg-easy/pull/1) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
-2. 🔒 Closed issue [#2405](https://github.com/wg-easy/wg-easy/issues/2405) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❌ Closed PR [#2409](https://github.com/wg-easy/wg-easy/pull/2409) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3766748921) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3760019471) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3767179325) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3767137782) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ℹ️ Unassigned PR [#1](https://github.com/kaaax0815/wg-easy/pull/1) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
+4. 🔒 Closed issue [#2405](https://github.com/wg-easy/wg-easy/issues/2405) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❌ Closed PR [#2409](https://github.com/wg-easy/wg-easy/pull/2409) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
