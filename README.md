@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2238](https://github.com/wg-easy/wg-easy/pull/2238#issuecomment-3771253027) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3767179325) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3767137782) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ℹ️ Unassigned PR [#1](https://github.com/kaaax0815/wg-easy/pull/1) in [kaaax0815/wg-easy](https://github.com/kaaax0815/wg-easy)
-5. 🔒 Closed issue [#2405](https://github.com/wg-easy/wg-easy/issues/2405) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2383](https://github.com/openapi-ts/openapi-typescript/issues/2383#issuecomment-3772518663) in [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)
+2. ℹ️ Labeled issue [#301](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/301) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+3. ❗ Opened issue [#301](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/301) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+4. 🗣 Commented on [#2238](https://github.com/wg-easy/wg-easy/pull/2238#issuecomment-3771253027) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2409](https://github.com/wg-easy/wg-easy/pull/2409#issuecomment-3767179325) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
