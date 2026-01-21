@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2413](https://github.com/wg-easy/wg-easy/pull/2413) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2413](https://github.com/wg-easy/wg-easy/pull/2413#issuecomment-3776827102) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 💪 Opened PR [#2413](https://github.com/wg-easy/wg-easy/pull/2413) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2383](https://github.com/openapi-ts/openapi-typescript/issues/2383#issuecomment-3772518663) in [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)
-5. ℹ️ Labeled issue [#301](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/301) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+1. 🗣 Commented on [#301](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/301#issuecomment-3777404637) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+2. 🎉 Merged PR [#2413](https://github.com/wg-easy/wg-easy/pull/2413) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2413](https://github.com/wg-easy/wg-easy/pull/2413#issuecomment-3776827102) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#2413](https://github.com/wg-easy/wg-easy/pull/2413) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2383](https://github.com/openapi-ts/openapi-typescript/issues/2383#issuecomment-3772518663) in [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)
 <!--END_SECTION:activity-->
 
 </details>
