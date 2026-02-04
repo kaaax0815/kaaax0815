@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#565](https://github.com/spf13/afero/issues/565#issuecomment-3841907962) in [spf13/afero](https://github.com/spf13/afero)
-2. 🔒 Closed issue [#565](https://github.com/spf13/afero/issues/565) in [spf13/afero](https://github.com/spf13/afero)
-3. 🗣 Commented on [#2454](https://github.com/wg-easy/wg-easy/issues/2454#issuecomment-3840589136) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2454](https://github.com/wg-easy/wg-easy/issues/2454) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2454](https://github.com/wg-easy/wg-easy/issues/2454#issuecomment-3840517392) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🔒 Closed issue [#2103](https://github.com/wg-easy/wg-easy/issues/2103) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#2456](https://github.com/wg-easy/wg-easy/pull/2456) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2167](https://github.com/wg-easy/wg-easy/issues/2167#issuecomment-3845785689) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#2456](https://github.com/wg-easy/wg-easy/pull/2456) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#565](https://github.com/spf13/afero/issues/565#issuecomment-3841907962) in [spf13/afero](https://github.com/spf13/afero)
 <!--END_SECTION:activity-->
 
 </details>
