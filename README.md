@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2472](https://github.com/wg-easy/wg-easy/issues/2472#issuecomment-3871972382) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2466](https://github.com/wg-easy/wg-easy/pull/2466#issuecomment-3869733813) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#14138](https://github.com/renovatebot/renovate/issues/14138#issuecomment-3867526968) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-4. 🚀 Published release [v15.2.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.2.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2460](https://github.com/wg-easy/wg-easy/issues/2460) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#1308](https://github.com/opencontainers/image-spec/issues/1308) in [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
+2. 🗣 Commented on [#2473](https://github.com/wg-easy/wg-easy/pull/2473#issuecomment-3876694555) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2472](https://github.com/wg-easy/wg-easy/issues/2472) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2472](https://github.com/wg-easy/wg-easy/issues/2472#issuecomment-3871972382) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2466](https://github.com/wg-easy/wg-easy/pull/2466#issuecomment-3869733813) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
