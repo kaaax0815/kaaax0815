@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-3926543834) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#2480](https://github.com/wg-easy/wg-easy/pull/2480#issuecomment-3921883778) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🎉 Merged PR [#743](https://github.com/AlmaLinux/wiki/pull/743) in [AlmaLinux/wiki](https://github.com/AlmaLinux/wiki)
-4. 💪 Opened PR [#950](https://github.com/AlmaLinux/almalinux.org/pull/950) in [AlmaLinux/almalinux.org](https://github.com/AlmaLinux/almalinux.org)
-5. 💪 Opened PR [#743](https://github.com/AlmaLinux/wiki/pull/743) in [AlmaLinux/wiki](https://github.com/AlmaLinux/wiki)
+1. 🗣 Commented on [#2053](https://github.com/wg-easy/wg-easy/issues/2053#issuecomment-3932030159) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#2053](https://github.com/wg-easy/wg-easy/issues/2053) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2418](https://github.com/wg-easy/wg-easy/pull/2418#issuecomment-3932021520) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#21685](https://github.com/strapi/strapi/issues/21685#issuecomment-3926543834) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#2480](https://github.com/wg-easy/wg-easy/pull/2480#issuecomment-3921883778) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
