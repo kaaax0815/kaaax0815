@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#950](https://github.com/AlmaLinux/almalinux.org/pull/950) in [AlmaLinux/almalinux.org](https://github.com/AlmaLinux/almalinux.org)
-2. 🔒 Closed issue [#2495](https://github.com/wg-easy/wg-easy/issues/2495) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2487](https://github.com/wg-easy/wg-easy/pull/2487#issuecomment-3949579367) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2487](https://github.com/wg-easy/wg-easy/pull/2487#issuecomment-3943033030) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2490](https://github.com/wg-easy/wg-easy/pull/2490#issuecomment-3939299941) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1308](https://github.com/opencontainers/image-spec/issues/1308#issuecomment-3982604065) in [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
+2. 🔒 Closed issue [#2497](https://github.com/wg-easy/wg-easy/issues/2497) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2497](https://github.com/wg-easy/wg-easy/issues/2497#issuecomment-3982558191) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🎉 Merged PR [#950](https://github.com/AlmaLinux/almalinux.org/pull/950) in [AlmaLinux/almalinux.org](https://github.com/AlmaLinux/almalinux.org)
+5. 🔒 Closed issue [#2495](https://github.com/wg-easy/wg-easy/issues/2495) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
