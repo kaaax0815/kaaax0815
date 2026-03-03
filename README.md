@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1070](https://github.com/nextcloud/whiteboard/issues/1070) in [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard)
-2. 🗣 Commented on [#1308](https://github.com/opencontainers/image-spec/issues/1308#issuecomment-3982604065) in [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
-3. 🔒 Closed issue [#2497](https://github.com/wg-easy/wg-easy/issues/2497) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2497](https://github.com/wg-easy/wg-easy/issues/2497#issuecomment-3982558191) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#950](https://github.com/AlmaLinux/almalinux.org/pull/950) in [AlmaLinux/almalinux.org](https://github.com/AlmaLinux/almalinux.org)
+1. 🔒 Closed issue [#2512](https://github.com/wg-easy/wg-easy/issues/2512) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2512](https://github.com/wg-easy/wg-easy/issues/2512#issuecomment-3989046979) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2513](https://github.com/wg-easy/wg-easy/issues/2513#issuecomment-3989028663) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2513](https://github.com/wg-easy/wg-easy/issues/2513) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2487](https://github.com/wg-easy/wg-easy/pull/2487#issuecomment-3989023137) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
