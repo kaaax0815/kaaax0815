@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2487](https://github.com/wg-easy/wg-easy/pull/2487#issuecomment-3990096276) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2418](https://github.com/wg-easy/wg-easy/pull/2418#issuecomment-3990086845) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2512](https://github.com/wg-easy/wg-easy/issues/2512) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2512](https://github.com/wg-easy/wg-easy/issues/2512#issuecomment-3989046979) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2513](https://github.com/wg-easy/wg-easy/issues/2513#issuecomment-3989028663) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#1308](https://github.com/opencontainers/image-spec/issues/1308#issuecomment-3995667640) in [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
+2. 🗣 Commented on [#2487](https://github.com/wg-easy/wg-easy/pull/2487#issuecomment-3990096276) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2418](https://github.com/wg-easy/wg-easy/pull/2418#issuecomment-3990086845) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2512](https://github.com/wg-easy/wg-easy/issues/2512) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2512](https://github.com/wg-easy/wg-easy/issues/2512#issuecomment-3989046979) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
