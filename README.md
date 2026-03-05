@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2519](https://github.com/wg-easy/wg-easy/issues/2519) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#2444](https://github.com/wg-easy/wg-easy/issues/2444) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ℹ️ Labeled issue [#2444](https://github.com/wg-easy/wg-easy/issues/2444) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2421](https://github.com/wg-easy/wg-easy/issues/2421) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#2518](https://github.com/wg-easy/wg-easy/pull/2518) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2519](https://github.com/wg-easy/wg-easy/issues/2519#issuecomment-4004847163) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🔒 Closed issue [#2320](https://github.com/wg-easy/wg-easy/issues/2320) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🎉 Merged PR [#2521](https://github.com/wg-easy/wg-easy/pull/2521) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#2521](https://github.com/wg-easy/wg-easy/pull/2521) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#2519](https://github.com/wg-easy/wg-easy/issues/2519) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
