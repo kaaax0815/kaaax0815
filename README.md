@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1361](https://github.com/Schniz/fnm/pull/1361) in [Schniz/fnm](https://github.com/Schniz/fnm)
-2. ❗ Opened issue [#1522](https://github.com/Schniz/fnm/issues/1522) in [Schniz/fnm](https://github.com/Schniz/fnm)
-3. 🗣 Commented on [#2523](https://github.com/wg-easy/wg-easy/pull/2523#issuecomment-4011112305) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#1930](https://github.com/wg-easy/wg-easy/issues/1930) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🎉 Merged PR [#2522](https://github.com/wg-easy/wg-easy/pull/2522) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2523](https://github.com/wg-easy/wg-easy/pull/2523#issuecomment-4029616971) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2535](https://github.com/wg-easy/wg-easy/pull/2535#issuecomment-4029611747) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🎉 Merged PR [#1361](https://github.com/Schniz/fnm/pull/1361) in [Schniz/fnm](https://github.com/Schniz/fnm)
+4. ❗ Opened issue [#1522](https://github.com/Schniz/fnm/issues/1522) in [Schniz/fnm](https://github.com/Schniz/fnm)
+5. 🗣 Commented on [#2523](https://github.com/wg-easy/wg-easy/pull/2523#issuecomment-4011112305) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
