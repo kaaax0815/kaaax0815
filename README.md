@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2542](https://github.com/wg-easy/wg-easy/issues/2542) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2542](https://github.com/wg-easy/wg-easy/issues/2542#issuecomment-4055119441) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2541](https://github.com/wg-easy/wg-easy/pull/2541#issuecomment-4053146491) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2539](https://github.com/wg-easy/wg-easy/issues/2539#issuecomment-4044472393) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2539](https://github.com/wg-easy/wg-easy/issues/2539) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#4](https://github.com/TrustTunnel/TrustTunnel/pull/4#issuecomment-4060917348) in [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
+2. 🗣 Commented on [#2543](https://github.com/wg-easy/wg-easy/pull/2543#issuecomment-4060915679) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2542](https://github.com/wg-easy/wg-easy/issues/2542) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2542](https://github.com/wg-easy/wg-easy/issues/2542#issuecomment-4055119441) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2541](https://github.com/wg-easy/wg-easy/pull/2541#issuecomment-4053146491) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
