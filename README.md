@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2562](https://github.com/wg-easy/wg-easy/issues/2562#issuecomment-4150021088) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#2562](https://github.com/wg-easy/wg-easy/issues/2562) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🔒 Closed issue [#2564](https://github.com/wg-easy/wg-easy/issues/2564) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2564](https://github.com/wg-easy/wg-easy/issues/2564#issuecomment-4150020152) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2560](https://github.com/wg-easy/wg-easy/issues/2560) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ℹ️ Labeled issue [#1331](https://github.com/actions/stale/issues/1331) in [actions/stale](https://github.com/actions/stale)
+2. ℹ️ Labeled issue [#1331](https://github.com/actions/stale/issues/1331) in [actions/stale](https://github.com/actions/stale)
+3. ❗ Opened issue [#1331](https://github.com/actions/stale/issues/1331) in [actions/stale](https://github.com/actions/stale)
+4. 🗣 Commented on [#2561](https://github.com/wg-easy/wg-easy/pull/2561#issuecomment-4175827552) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❌ Closed PR [#2561](https://github.com/wg-easy/wg-easy/pull/2561) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
