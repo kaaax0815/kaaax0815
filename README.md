@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/Hampelmen/nzb-sources/issues/20) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
-2. ❗ Opened issue [#19](https://github.com/Hampelmen/nzb-sources/issues/19) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
-3. ❗ Opened issue [#18](https://github.com/Hampelmen/nzb-sources/issues/18) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
-4. 🚀 Published release [v15.3.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.3.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2308](https://github.com/wg-easy/wg-easy/issues/2308) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2573](https://github.com/wg-easy/wg-easy/pull/2573#issuecomment-4236071406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2581](https://github.com/wg-easy/wg-easy/issues/2581#issuecomment-4236059131) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❗ Opened issue [#20](https://github.com/Hampelmen/nzb-sources/issues/20) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
+4. ❗ Opened issue [#19](https://github.com/Hampelmen/nzb-sources/issues/19) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
+5. ❗ Opened issue [#18](https://github.com/Hampelmen/nzb-sources/issues/18) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
 <!--END_SECTION:activity-->
 
 </details>
