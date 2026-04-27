@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2573](https://github.com/wg-easy/wg-easy/pull/2573#issuecomment-4236071406) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2581](https://github.com/wg-easy/wg-easy/issues/2581#issuecomment-4236059131) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#20](https://github.com/Hampelmen/nzb-sources/issues/20) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
-4. ❗ Opened issue [#19](https://github.com/Hampelmen/nzb-sources/issues/19) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
-5. ❗ Opened issue [#18](https://github.com/Hampelmen/nzb-sources/issues/18) in [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources)
+1. 🗣 Commented on [#12961](https://github.com/traefik/traefik/pull/12961#issuecomment-4325163177) in [traefik/traefik](https://github.com/traefik/traefik)
+2. ❌ Closed PR [#2589](https://github.com/wg-easy/wg-easy/pull/2589) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2167](https://github.com/wg-easy/wg-easy/issues/2167#issuecomment-4324941099) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2582](https://github.com/wg-easy/wg-easy/issues/2582) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2582](https://github.com/wg-easy/wg-easy/issues/2582#issuecomment-4324924864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
