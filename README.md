@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12961](https://github.com/traefik/traefik/pull/12961#issuecomment-4325163177) in [traefik/traefik](https://github.com/traefik/traefik)
-2. ❌ Closed PR [#2589](https://github.com/wg-easy/wg-easy/pull/2589) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2167](https://github.com/wg-easy/wg-easy/issues/2167#issuecomment-4324941099) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2582](https://github.com/wg-easy/wg-easy/issues/2582) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2582](https://github.com/wg-easy/wg-easy/issues/2582#issuecomment-4324924864) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332856754) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332847605) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#12961](https://github.com/traefik/traefik/pull/12961#issuecomment-4325163177) in [traefik/traefik](https://github.com/traefik/traefik)
+4. ❌ Closed PR [#2589](https://github.com/wg-easy/wg-easy/pull/2589) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2167](https://github.com/wg-easy/wg-easy/issues/2167#issuecomment-4324941099) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
