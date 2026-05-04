@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
-2. ❗ Opened issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
-3. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332856754) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332847605) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#12961](https://github.com/traefik/traefik/pull/12961#issuecomment-4325163177) in [traefik/traefik](https://github.com/traefik/traefik)
+1. 🔒 Closed issue [#2584](https://github.com/wg-easy/wg-easy/issues/2584) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. ℹ️ Labeled issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
+3. ❗ Opened issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
+4. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332856754) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332847605) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
