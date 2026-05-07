@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2601](https://github.com/wg-easy/wg-easy/pull/2601) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#2584](https://github.com/wg-easy/wg-easy/issues/2584) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ℹ️ Labeled issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
-4. ❗ Opened issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
-5. 🗣 Commented on [#2594](https://github.com/wg-easy/wg-easy/pull/2594#issuecomment-4332856754) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🔒 Closed issue [#2602](https://github.com/wg-easy/wg-easy/issues/2602) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2602](https://github.com/wg-easy/wg-easy/issues/2602#issuecomment-4394598781) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❌ Closed PR [#2601](https://github.com/wg-easy/wg-easy/pull/2601) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2584](https://github.com/wg-easy/wg-easy/issues/2584) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ℹ️ Labeled issue [#332](https://github.com/docker/desktop-feedback/issues/332) in [docker/desktop-feedback](https://github.com/docker/desktop-feedback)
 <!--END_SECTION:activity-->
 
 </details>
