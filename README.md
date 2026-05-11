@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2606](https://github.com/wg-easy/wg-easy/issues/2606) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2606](https://github.com/wg-easy/wg-easy/issues/2606#issuecomment-4418301803) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2605](https://github.com/wg-easy/wg-easy/issues/2605#issuecomment-4418291334) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2605](https://github.com/wg-easy/wg-easy/issues/2605) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#1331](https://github.com/actions/stale/issues/1331#issuecomment-4418002295) in [actions/stale](https://github.com/actions/stale)
+1. 🗣 Commented on [#12461](https://github.com/traefik/traefik/issues/12461#issuecomment-4418841233) in [traefik/traefik](https://github.com/traefik/traefik)
+2. 🔒 Closed issue [#2606](https://github.com/wg-easy/wg-easy/issues/2606) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#2606](https://github.com/wg-easy/wg-easy/issues/2606#issuecomment-4418301803) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2605](https://github.com/wg-easy/wg-easy/issues/2605#issuecomment-4418291334) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#2605](https://github.com/wg-easy/wg-easy/issues/2605) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
