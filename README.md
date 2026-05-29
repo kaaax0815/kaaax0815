@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2646](https://github.com/wg-easy/wg-easy/issues/2646#issuecomment-4561248685) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#2646](https://github.com/wg-easy/wg-easy/issues/2646) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#2625](https://github.com/wg-easy/wg-easy/pull/2625#issuecomment-4541739528) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. ℹ️ Labeled PR [#2634](https://github.com/wg-easy/wg-easy/pull/2634) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ❌ Closed PR [#2640](https://github.com/wg-easy/wg-easy/pull/2640) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#5822](https://github.com/drizzle-team/drizzle-orm/issues/5822) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. ℹ️ Labeled issue [#5822](https://github.com/drizzle-team/drizzle-orm/issues/5822) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. 🗣 Commented on [#2646](https://github.com/wg-easy/wg-easy/issues/2646#issuecomment-4561248685) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2646](https://github.com/wg-easy/wg-easy/issues/2646) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2625](https://github.com/wg-easy/wg-easy/pull/2625#issuecomment-4541739528) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
