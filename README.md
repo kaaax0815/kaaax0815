@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2650](https://github.com/wg-easy/wg-easy/issues/2650#issuecomment-4633347146) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2650](https://github.com/wg-easy/wg-easy/issues/2650#issuecomment-4633120150) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#1923](https://github.com/wg-easy/wg-easy/issues/1923#issuecomment-4612652036) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🗣 Commented on [#2650](https://github.com/wg-easy/wg-easy/issues/2650#issuecomment-4612641279) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2650](https://github.com/wg-easy/wg-easy/issues/2650#issuecomment-4612436198) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
+2. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
+3. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
+4. ❗ Opened issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
+5. 🔒 Closed issue [#2656](https://github.com/wg-easy/wg-easy/issues/2656) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
