@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-2. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-3. ℹ️ Labeled issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-4. ❗ Opened issue [#15919](https://github.com/CollaboraOnline/online/issues/15919) in [CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-5. 🔒 Closed issue [#2656](https://github.com/wg-easy/wg-easy/issues/2656) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 💪 Opened PR [#2659](https://github.com/wg-easy/wg-easy/pull/2659) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2539](https://github.com/wg-easy/wg-easy/issues/2539#issuecomment-4658218924) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🔒 Closed issue [#2614](https://github.com/wg-easy/wg-easy/issues/2614) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2614](https://github.com/wg-easy/wg-easy/issues/2614#issuecomment-4658212170) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ❗ Opened issue [#2658](https://github.com/wg-easy/wg-easy/issues/2658) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
