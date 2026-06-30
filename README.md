@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4395](https://github.com/nitrojs/nitro/pull/4395) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
-2. 🗣 Commented on [#4395](https://github.com/nitrojs/nitro/pull/4395#issuecomment-4841608805) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
-3. 💪 Opened PR [#4395](https://github.com/nitrojs/nitro/pull/4395) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
-4. ℹ️ Labeled issue [#2682](https://github.com/wg-easy/wg-easy/issues/2682) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2681](https://github.com/wg-easy/wg-easy/pull/2681#issuecomment-4830175767) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4843093637) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+2. ❗ Opened issue [#23977](https://github.com/oxc-project/oxc/issues/23977) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+3. 🎉 Merged PR [#2683](https://github.com/wg-easy/wg-easy/pull/2683) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🔒 Closed issue [#2682](https://github.com/wg-easy/wg-easy/issues/2682) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 💪 Opened PR [#2683](https://github.com/wg-easy/wg-easy/pull/2683) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
