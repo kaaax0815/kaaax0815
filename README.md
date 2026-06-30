@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2681](https://github.com/wg-easy/wg-easy/pull/2681#issuecomment-4830175767) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#2681](https://github.com/wg-easy/wg-easy/pull/2681#issuecomment-4829465699) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 💪 Opened PR [#2671](https://github.com/wg-easy/wg-easy/pull/2671) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🎉 Merged PR [#2660](https://github.com/wg-easy/wg-easy/pull/2660) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ℹ️ Labeled issue [#1416](https://github.com/h3js/h3/issues/1416) in [h3js/h3](https://github.com/h3js/h3)
+1. 🎉 Merged PR [#4395](https://github.com/nitrojs/nitro/pull/4395) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
+2. 🗣 Commented on [#4395](https://github.com/nitrojs/nitro/pull/4395#issuecomment-4841608805) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
+3. 💪 Opened PR [#4395](https://github.com/nitrojs/nitro/pull/4395) in [nitrojs/nitro](https://github.com/nitrojs/nitro)
+4. ℹ️ Labeled issue [#2682](https://github.com/wg-easy/wg-easy/issues/2682) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🗣 Commented on [#2681](https://github.com/wg-easy/wg-easy/pull/2681#issuecomment-4830175767) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
