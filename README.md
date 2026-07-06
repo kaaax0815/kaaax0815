@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4853096077) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-2. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4843093637) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-3. ❗ Opened issue [#23977](https://github.com/oxc-project/oxc/issues/23977) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🎉 Merged PR [#2683](https://github.com/wg-easy/wg-easy/pull/2683) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🔒 Closed issue [#2682](https://github.com/wg-easy/wg-easy/issues/2682) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. ❗ Opened issue [#5120](https://github.com/thelounge/thelounge/issues/5120) in [thelounge/thelounge](https://github.com/thelounge/thelounge)
+2. ℹ️ Labeled issue [#5120](https://github.com/thelounge/thelounge/issues/5120) in [thelounge/thelounge](https://github.com/thelounge/thelounge)
+3. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4853096077) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4843093637) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. ❗ Opened issue [#23977](https://github.com/oxc-project/oxc/issues/23977) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
 <!--END_SECTION:activity-->
 
 </details>
