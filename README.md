@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5120](https://github.com/thelounge/thelounge/issues/5120#issuecomment-4900899802) in [thelounge/thelounge](https://github.com/thelounge/thelounge)
-2. ❗ Opened issue [#5120](https://github.com/thelounge/thelounge/issues/5120) in [thelounge/thelounge](https://github.com/thelounge/thelounge)
-3. ℹ️ Labeled issue [#5120](https://github.com/thelounge/thelounge/issues/5120) in [thelounge/thelounge](https://github.com/thelounge/thelounge)
-4. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4853096077) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-4843093637) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+1. 🗣 Commented on [#2693](https://github.com/wg-easy/wg-easy/pull/2693#issuecomment-5031708098) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#2696](https://github.com/wg-easy/wg-easy/pull/2696#issuecomment-5031409209) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❌ Closed PR [#2696](https://github.com/wg-easy/wg-easy/pull/2696) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 🗣 Commented on [#2701](https://github.com/wg-easy/wg-easy/pull/2701#issuecomment-5031372497) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🔒 Closed issue [#2698](https://github.com/wg-easy/wg-easy/issues/2698) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
