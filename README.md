@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5201428130) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-2. 🗣 Commented on [#2723](https://github.com/wg-easy/wg-easy/issues/2723#issuecomment-5189451575) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🚀 Published release [v15.4.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.4.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 🔒 Closed issue [#2708](https://github.com/wg-easy/wg-easy/issues/2708) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. 🗣 Commented on [#2721](https://github.com/wg-easy/wg-easy/pull/2721#issuecomment-5175296929) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202559229) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+2. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202056594) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+3. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5201428130) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. 🗣 Commented on [#2723](https://github.com/wg-easy/wg-easy/issues/2723#issuecomment-5189451575) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. 🚀 Published release [v15.4.0-beta.2](https://github.com/wg-easy/wg-easy/releases/tag/v15.4.0-beta.2) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
