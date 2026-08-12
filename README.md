@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2724](https://github.com/wg-easy/wg-easy/issues/2724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202559229) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-3. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202056594) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5201428130) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. 🗣 Commented on [#2723](https://github.com/wg-easy/wg-easy/issues/2723#issuecomment-5189451575) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 💪 Opened PR [#66](https://github.com/amnezia-vpn/amneziawg-tools/pull/66) in [amnezia-vpn/amneziawg-tools](https://github.com/amnezia-vpn/amneziawg-tools)
+2. 🔒 Closed issue [#2724](https://github.com/wg-easy/wg-easy/issues/2724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202559229) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202056594) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5201428130) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
 <!--END_SECTION:activity-->
 
 </details>
