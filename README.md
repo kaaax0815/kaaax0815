@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/amnezia-vpn/amneziawg-tools/pull/66) in [amnezia-vpn/amneziawg-tools](https://github.com/amnezia-vpn/amneziawg-tools)
-2. 🔒 Closed issue [#2724](https://github.com/wg-easy/wg-easy/issues/2724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202559229) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5202056594) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. 🗣 Commented on [#23977](https://github.com/oxc-project/oxc/issues/23977#issuecomment-5201428130) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+1. 🎉 Merged PR [#2729](https://github.com/wg-easy/wg-easy/pull/2729) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 💪 Opened PR [#2729](https://github.com/wg-easy/wg-easy/pull/2729) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. ❗ Opened issue [#2728](https://github.com/wg-easy/wg-easy/issues/2728) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. 💪 Opened PR [#66](https://github.com/amnezia-vpn/amneziawg-tools/pull/66) in [amnezia-vpn/amneziawg-tools](https://github.com/amnezia-vpn/amneziawg-tools)
+5. 🔒 Closed issue [#2724](https://github.com/wg-easy/wg-easy/issues/2724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 </details>
