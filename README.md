@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2729](https://github.com/wg-easy/wg-easy/pull/2729) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 💪 Opened PR [#2729](https://github.com/wg-easy/wg-easy/pull/2729) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-3. ❗ Opened issue [#2728](https://github.com/wg-easy/wg-easy/issues/2728) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-4. 💪 Opened PR [#66](https://github.com/amnezia-vpn/amneziawg-tools/pull/66) in [amnezia-vpn/amneziawg-tools](https://github.com/amnezia-vpn/amneziawg-tools)
-5. 🔒 Closed issue [#2724](https://github.com/wg-easy/wg-easy/issues/2724) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+1. 🚀 Published release [v15.4.0-beta.3](https://github.com/wg-easy/wg-easy/releases/tag/v15.4.0-beta.3) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🎉 Merged PR [#2733](https://github.com/wg-easy/wg-easy/pull/2733) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+3. 💪 Opened PR [#2733](https://github.com/wg-easy/wg-easy/pull/2733) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+4. ℹ️ Labeled issue [#5582](https://github.com/vueuse/vueuse/issues/5582) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
+5. ❗ Opened issue [#5582](https://github.com/vueuse/vueuse/issues/5582) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
 <!--END_SECTION:activity-->
 
 </details>
